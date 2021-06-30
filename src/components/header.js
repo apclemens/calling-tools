@@ -1,13 +1,10 @@
 import * as React from "react"
 import PropTypes from "prop-types"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 
-const Header = ({ siteTitle }) => (
+const Header = ({ siteTitle, image, language }) => (
   <header
-    style={{
-      background: `rebeccapurple`,
-      marginBottom: `1.45rem`,
-    }}
   >
     <div
       style={{
@@ -16,9 +13,9 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <h1 style={{ margin: 0, textAlign: 'center' }}>
         <Link
-          to="/"
+          to={'/'+language}
           style={{
             color: `white`,
             textDecoration: `none`,

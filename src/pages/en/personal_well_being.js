@@ -1,0 +1,99 @@
+import * as React from "react"
+import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
+
+import Layout from "../../components/layout"
+import Seo from "../../components/seo"
+
+const SecondPage = () => (
+  <Layout
+    siteTitle="Calling Tools"
+    image="rest.jpg"
+    language="en"
+  >
+    <Seo
+      title="Step 1: Take Care Of Yourself"
+      defaultTitle="Calling Tools"
+      lang="en"
+    />
+<StaticImage
+  src="../../images/rest.jpg"
+/>
+
+<div class="languages"></div>
+
+    <div class="content">
+<div><ul><li><Link to="/en/">What Is Calling?</Link></li><li>Step 1: Take Care Of Yourself</li><li><Link to="/en/who_am_i/">Step 2: Know Who You Are</Link></li><li><Link to="/en/personal_agency/">Step 3: Take Charge</Link></li><li><Link to="/en/references">References</Link></li></ul></div>
+
+<h1 style={{fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>Step 1:<br></br>Take Care Of Yourself</h1>
+
+<div style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../images/flowers.jpg"
+/>
+</div>
+<h1><b>Personal Wellbeing&nbsp;</b><b><br /></b></h1>
+<h2><b>To pursue a meaningful vocation, it is </b><b>important to ensure we are coming to the pursuit primarily from a sense of wellbeing.&nbsp;Positive well-being has a clear link with good career outcomes, equipping you to put your ideas into action.&nbsp;</b></h2>
+<h2><b>Consider the following themes that are shown to have impact on your personal well-being.</b></h2>
+<ul>
+<li aria-level="3">
+<h3><b>Get adequate rest and eat healthy food as is possible. These provide the foundation of healthy living, although they are often ignored.&nbsp;</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Stay active. Daily exercise (even when it's a walk&nbsp;to get somewhere) and fresh air (sunlight!) help to clear one&rsquo;s thinking and give new perspective.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Connect with people and community. Nurturing healthy relationships, and being part of a supportive community that will encourage you in your calling in life,&nbsp;boosts self-esteem and gives you connections for a more successful career outcome.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Foster a sense of gratitude. Taking notice of all the many things you can be grateful for each day increases one&rsquo;s sense of optimism. </b><a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=cpkEvBtyL7M"><b>See this short video for inspiration.</b></a></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Keep learning. Developing new interests or hobbies, reading good literature keeps the mind active.&nbsp;</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Practice Spiritual Disciplines. Morning meditation, reading, journaling, prayer and fasting, crying if necessary (!), builds inner calm and readiness to face the day. "Cast all your cares on him, for he cares for you." 1 Peter 5:7</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Give. Reaching out to help others in kindness boosts our sense of self-esteem</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Plan Ahead. Having a good sense of structure for your week (what's achievable and within your control) helps to reduce anxiety from one day to the next.&nbsp;</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Keep Reasonable Expectations of yourself, and encourage your support community to do likewise.</b></h3>
+</li>
+</ul>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<div className="quote">
+<h3><b><i>&nbsp;&ldquo;For I know the plans&nbsp;I have for you,&rdquo; declares the&nbsp;Lord, &ldquo;plans to prosper&nbsp;you and not to harm you, plans to give you hope and a future.&nbsp;</i></b><b>12&nbsp;</b><b><i>Then you will call&nbsp;on me and come and pray&nbsp;to me, and I will listen&nbsp;to you.&nbsp;</i></b><b>13&nbsp;</b><b><i>You will seek&nbsp;me and find me when you seek me with all your heart.&rdquo;</i></b></h3>
+<h3><b><i>&#8212; Jeremiah 29:11-13&nbsp;</i></b></h3>
+</div>
+<div className="quote">
+<h3><b><i>&ldquo;If you want a full life, you have to give up whatever addiction you might have to comfort, to not rocking your boat, and to avoiding the feelings of fear and uncertainty that are always one&rsquo;s companion on journeys outside the safety of the daily routine. A passionately lived life is not always comfortable. Going for it involves being open to all of life: the joys, the sorrows, the mundane, as well as the magic, the splendid victories, the most abject defeats.&rdquo;&nbsp;</i></b></h3>
+<h3><b><i>&#8212; Nicholas Lore, The Pathfinder</i></b><span style={{fontWeight: 400}}><br /></span></h3>
+</div>
+<p><br /><span style={{fontWeight: 400}}><br /></span></p>
+
+    </div>
+
+  </Layout>
+)
+
+export default SecondPage
