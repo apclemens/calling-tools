@@ -252,9 +252,9 @@ for filename in files:
     f.write(new_text)
     f.close()
     
-    if filename == 'index':
+    if slug == 'index' and language == 'en':
         f = open('src/pages/index.js', 'w')
-        f.write(new_text)
+        f.write(new_text.replace("/..", ""))
         f.close()
 
 
