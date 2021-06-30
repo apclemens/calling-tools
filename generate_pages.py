@@ -251,5 +251,10 @@ for filename in files:
     new_text = new_text.replace('style="font-weight: 400;"', 'style={{fontWeight: 400}}')
     f.write(new_text)
     f.close()
+    
+    if filename == 'index':
+        f = open('src/pages/index.js', 'w')
+        f.write(new_text)
+        f.close()
 
 
