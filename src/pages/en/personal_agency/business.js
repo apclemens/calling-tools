@@ -28,7 +28,7 @@ const SecondPage = () => (
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Consider Starting your own Business or Service</h1>
 
 <h1>Consider starting your own business or service&nbsp;</h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/art.jpg"
 />

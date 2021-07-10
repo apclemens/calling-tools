@@ -1,4 +1,4 @@
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/desert.jpg"
 />
@@ -25,7 +25,7 @@
 </div>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <h1><b>Identify Competing Options</b></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/hippo.jpg"
 />
@@ -53,7 +53,7 @@
 </ul>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <h1><b>Have an imaginary conversation with your role model</b></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/trees.jpg"
 />
@@ -102,7 +102,7 @@
 </ul>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <h1><b>Envision a miracle resolution to your career dilemma!</b></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/ocean.jpg"
 />
@@ -126,7 +126,7 @@
 </li>
 </ul>
 <h1><b>Take Practical Steps!</b></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/graffiti.jpg"
 />

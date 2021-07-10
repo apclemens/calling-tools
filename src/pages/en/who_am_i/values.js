@@ -27,7 +27,7 @@ const SecondPage = () => (
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Values in Work and Life</h1>
 
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/rainbow.jpg"
 />
@@ -160,7 +160,7 @@ const SecondPage = () => (
 </ul>
 <h2>Download a <a target="_blank" rel="noreferrer" href="https://www.google.com/search?biw=1422&amp;bih=642&amp;tbm=isch&amp;sxsrf=ACYBGNSQFIQVi9LtQ-OXTqgDSVhgSLhEOw%3A1575404723277&amp;sa=1&amp;ei=s8TmXYPGEM-JggepmKOwDw&amp;q=printable+wheel+of+life+career+model&amp;oq=printable+wheel+of+life+career+model&amp;gs_l=img.3...47155.54179..54381...0.0..0.87.997.17......0....1..gws-wiz-img.......35i39j0i8i30j0j0i30.Klx0idkaVgU&amp;ved=0ahUKEwjD66H3p5rmAhXPhOAKHSnMCPYQ4dUDCAc&amp;uact=5#imgrc=Myzu0JJm7LuiIM:">&ldquo;wheel of life&rdquo; available online</a>. <i>Label each spoke as a different career element that is important to you</i>, such as those described above (autonomy, work conditions, colleagues, opportunities for learning, service component, challenge, salary, etc.)&nbsp;</h2>
 <ul>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/diagram.jpg"
 />

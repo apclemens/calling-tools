@@ -27,7 +27,7 @@ const SecondPage = () => (
 
 <h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>Step 2:<br></br>Know Who You Are</h1>
 
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/hills.jpg"
 />
@@ -121,7 +121,7 @@ Tools to explore your passions and interests
 </ul>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <h1><i>How does my personality fit my work setting?</i></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../images/dance.jpg"
 />
@@ -144,7 +144,7 @@ Tools to explore your passions and interests
 </ul>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <h1><i>Appreciate your strengths</i></h1>
-<div style={{width: "27%",float: "right"}}>
+<div className="image" style={{width: "27%",float: "right"}}>
 <StaticImage
   src="../../../images/rugs.jpg"
 />

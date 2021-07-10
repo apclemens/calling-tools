@@ -27,7 +27,7 @@ const SecondPage = () => (
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Passions and Interests</h1>
 
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/birds.jpg"
 />
@@ -62,7 +62,7 @@ const SecondPage = () => (
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <h1>Heart vs. Head: To determine the most important factors to consider</h1>
 <h1><span style={{fontWeight: 400}}>We tend to make decisions either by our gut instinct our by our head logic.&nbsp;If we stop to identify what these two sides of our brains are saying, we may uncover legitimate factors to consider when making decisions about career.</span></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/canyon.jpg"
 />
@@ -116,7 +116,7 @@ const SecondPage = () => (
 </ul>
 <h1>Evoke your future self living out your passions and interests!</h1>
 <h1><span style={{fontWeight: 400}}>What future do you imagine for yourself in five years&nbsp;(or two years, if that is easier), as one who is fully living out your passions/interests? Envision your possible self in great detail. Be as open and creative as possible. Brainstorm!</span></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/vista.jpg"
 />
@@ -158,7 +158,7 @@ const SecondPage = () => (
 </div>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <h1>Explore what is most important and meaningful to you</h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/lamps.jpg"
 />

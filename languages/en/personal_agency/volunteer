@@ -1,5 +1,5 @@
 <h1><b>Volunteer in an organization that is in line with your interests. </b><b>You're more likely to identify your next steps or "calling" sooner by doing something (even when not getting paid) rather than sitting at home doing nothing.</b></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/volunteer.jpg"
 />

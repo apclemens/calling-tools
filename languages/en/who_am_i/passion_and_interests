@@ -1,4 +1,4 @@
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/birds.jpg"
 />
@@ -33,7 +33,7 @@
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <h1><b>Heart vs. Head: To determine the most important factors to consider</b></h1>
 <h1><span style="font-weight: 400;">We tend to make decisions either by our gut instinct our by our head logic.&nbsp;If we stop to identify what these two sides of our brains are saying, we may uncover legitimate factors to consider when making decisions about career.</span></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/canyon.jpg"
 />
@@ -87,7 +87,7 @@
 </ul>
 <h1><b>Evoke your future self living out your passions and interests!</b></h1>
 <h1><span style="font-weight: 400;">What future do you imagine for yourself in five years&nbsp;(or two years, if that is easier), as one who is fully living out your passions/interests? Envision your possible self in great detail. Be as open and creative as possible. Brainstorm!</span></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/vista.jpg"
 />
@@ -129,7 +129,7 @@
 </div>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <h1><b>Explore what is most important and meaningful to you</b></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/lamps.jpg"
 />

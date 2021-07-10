@@ -1,4 +1,4 @@
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/elephant.jpg"
 />

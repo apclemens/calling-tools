@@ -27,7 +27,7 @@ const SecondPage = () => (
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Transactions most likely to get me a job in the quickest amount of time</h1>
 
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/trees.jpg"
 />

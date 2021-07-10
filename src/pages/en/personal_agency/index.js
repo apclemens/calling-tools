@@ -27,7 +27,7 @@ const SecondPage = () => (
 
 <h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>Step 3:<br></br>Take Charge</h1>
 
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/desert.jpg"
 />
@@ -54,7 +54,7 @@ const SecondPage = () => (
 </div>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <h1>Identify Competing Options</h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/hippo.jpg"
 />
@@ -82,7 +82,7 @@ const SecondPage = () => (
 </ul>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <h1>Have an imaginary conversation with your role model</h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/trees.jpg"
 />
@@ -131,7 +131,7 @@ const SecondPage = () => (
 </ul>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <h1>Envision a miracle resolution to your career dilemma!</h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/ocean.jpg"
 />
@@ -155,7 +155,7 @@ const SecondPage = () => (
 </li>
 </ul>
 <h1>Take Practical Steps!</h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/graffiti.jpg"
 />

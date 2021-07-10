@@ -28,7 +28,7 @@ const SecondPage = () => (
 <h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>References</h1>
 
 <h1><span style={{fontWeight: 400}}>References and Recommended Reading for further reflection</span></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../images/rainbow.jpg"
 />

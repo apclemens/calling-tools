@@ -28,7 +28,7 @@ const SecondPage = () => (
 <h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>What Is Calling?</h1>
 
 
-<div style={{width: "70%",float: "right"}}>
+<div className="image" style={{width: "70%",float: "right"}}>
 <StaticImage
   src="../images/venn.jpg"
 />
@@ -54,7 +54,7 @@ const SecondPage = () => (
 </ul>
 <h2>This website brings together practical tools and resources to assist you, <i>following in the order of the tabs above</i>. Or feel free to jump into the tools that are most appropriate for your current life situation!&nbsp;</h2>
 
-<div style={{width: "25%",float: "left"}}>
+<div className="image" style={{width: "25%",float: "left"}}>
 <StaticImage
   src="../images/sea.jpg"
 />

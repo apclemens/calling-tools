@@ -1,5 +1,5 @@
 
-<div style={{width: "70%",float: "right"}}>
+<div className="image" style={{width: "70%",float: "right"}}>
 <StaticImage
   src="../../images/venn.jpg"
 />
@@ -25,7 +25,7 @@
 </ul>
 <h2><b>This website brings together practical tools and resources to assist you, </b><b><i>following in the order of the tabs above</i></b><b>. Or feel free to jump into the tools that are most appropriate for your current life situation!&nbsp;</b></h2>
 
-<div style={{width: "25%",float: "left"}}>
+<div className="image" style={{width: "25%",float: "left"}}>
 <StaticImage
   src="../../images/sea.jpg"
 />

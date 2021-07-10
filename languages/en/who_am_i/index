@@ -1,4 +1,4 @@
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/hills.jpg"
 />
@@ -92,7 +92,7 @@ Tools to explore your passions and interests
 </ul>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <h1><b><i>How does my personality fit my work setting?</i></b></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../images/dance.jpg"
 />
@@ -115,7 +115,7 @@ Tools to explore your passions and interests
 </ul>
 <p><span style="font-weight: 400;">&nbsp;</span></p>
 <h1><b><i>Appreciate your strengths</i></b></h1>
-<div style={{width: "27%",float: "right"}}>
+<div className="image" style={{width: "27%",float: "right"}}>
 <StaticImage
   src="../../../images/rugs.jpg"
 />

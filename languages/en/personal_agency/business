@@ -1,5 +1,5 @@
 <h1><b>Consider starting your own business or service&nbsp;</b></h1>
-<div style={{width: "50%",float: "right"}}>
+<div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/art.jpg"
 />
