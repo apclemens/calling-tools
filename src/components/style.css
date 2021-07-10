@@ -62,7 +62,9 @@ div.image {
 
 .back_link {
     float: left;
+    background-color: #ffe082;
 }
 .next_link {
     float: right;
+    background-color: #ffe082;
 }
