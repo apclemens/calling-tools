@@ -49,7 +49,10 @@ const SecondPage = () => (
 <h3><span style={{fontWeight: 400}}>&#8212; Marie Curie</span></h3>
 </div>
 
+
+<Link className="back_link" to="/en/who_am_i/values">Back to: Values in Work and Life</Link><Link className="next_link" to="/en/who_am_i/passion_and_interests">Next page: Passions and Interests</Link>
     </div>
+
 
   </Layout>
 )

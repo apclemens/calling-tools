@@ -278,7 +278,10 @@ Prepare for your job interview
 </div>
 <p></p>
 
+
+<Link className="back_link" to="/en/who_am_i/passion_and_interests">Back to: Passions and Interests</Link><Link className="next_link" to="/en/personal_agency/goals">Next page: Develop Life and Career Goals</Link>
     </div>
+
 
   </Layout>
 )

@@ -81,7 +81,10 @@ const SecondPage = () => (
 </ol>
 <p></p>
 
+
+<Link className="back_link" to="/en/personal_agency/goals">Back to: Develop Life and Career Goals</Link><Link className="next_link" to="/en/personal_agency/research">Next page: Do the Research</Link>
     </div>
+
 
   </Layout>
 )

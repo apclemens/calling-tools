@@ -59,3 +59,10 @@ div.image {
 
 }
 }
+
+.back_link {
+    float: left;
+}
+.next_link {
+    float: right;
+}

@@ -144,7 +144,10 @@ const SecondPage = () => (
 <h3><i><span style={{fontWeight: 400}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --Michelle Obama</span></i></h3>
 </div>
 
+
+<Link className="back_link" to="/en/personal_agency/">Back to: Step 3: Take Charge</Link><Link className="next_link" to="/en/personal_agency/mentor">Next page: Seek a Mentor</Link>
     </div>
+
 
   </Layout>
 )

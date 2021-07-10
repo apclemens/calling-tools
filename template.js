@@ -28,7 +28,10 @@ const SecondPage = () => (
 <h1 style={{fontWeight: 'bold', fontSize: "HEADING_SIZErem",textAlign: "center",borderBottom: "2px solid black"}}>PAGE_TITLE_W_HTML</h1>
 
 CONTENT
+
+BACK_NXT
     </div>
+
 
   </Layout>
 )

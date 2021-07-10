@@ -85,7 +85,10 @@ const SecondPage = () => (
 <h3><i>&ldquo;I&rsquo;ve come to believe that each of us has a personal calling that&rsquo;s as unique as a fingerprint &ndash; and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you.&rdquo;&nbsp;</i></h3>
 <h3><i>--Oprah Winfrey</i></h3>
 
+
+<Link className="next_link" to="/fr/personal_well_being">Next page: test</Link>
     </div>
+
 
   </Layout>
 )

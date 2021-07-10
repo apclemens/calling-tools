@@ -180,6 +180,36 @@ page_titles_lookup = {
             },
     }
 
+page_order = [
+        'index',
+        'personal_well_being',
+        'who_am_i/index',
+        'who_am_i/values',
+        'who_am_i/know_your_talents',
+        'who_am_i/passion_and_interests',
+        'personal_agency/index',
+        'personal_agency/goals',
+        'personal_agency/mentor',
+        'personal_agency/research',
+        'personal_agency/education',
+        'personal_agency/volunteer',
+        'personal_agency/business',
+        'personal_agency/parallel',
+        'personal_agency/transactions',
+        'personal_agency/online',
+        'personal_agency/interview',
+        'references'
+        ]
+
+back_next_language = {
+        'en': ('Back to:', 'Next page:'),
+        'fr': ('Back to:', 'Next page:'),
+        'pt': ('Back to:', 'Next page:'),
+        'ht': ('Back to:', 'Next page:'),
+        'es': ('Back to:', 'Next page:'),
+        }
+
+
 def generate_language_links(curr_language, slug):
     return ''
     language_links = ''
@@ -207,6 +237,24 @@ def generate_page_links(language, slug):
             page_links += '<li><Link to="/' + link.replace('index','') + '">' + page_titles_lookup[page][language].replace('<br></br>',' ') + '</Link></li>'
     page_links += '</ul>'
     return page_links
+
+def generate_back_next(slug):
+    i = page_order.index(slug)
+    if i == 0:
+        return (False, page_order[i+1])
+    if i == len(page_order)-1:
+        return (page_order[i-1], False)
+    return (page_order[i-1], page_order[i+1])
+
+def generate_back_next_links(language, slug):
+    back, nxt = generate_back_next(slug)
+    html = ''
+    if back:
+        html += '<Link className="back_link" to="/' + language + "/" + back.replace('index','') + '">' + back_next_language[language][0] + ' ' + page_titles_lookup[back][language].replace('<br></br>',' ') + '</Link>'
+    if nxt:
+        html += '<Link className="next_link" to="/' + language + "/" + nxt.replace('index','') + '">' + back_next_language[language][1] + ' ' + page_titles_lookup[nxt][language].replace('<br></br>',' ') + '</Link>'
+    return html
+
 
 def replace_stars(text):
     lines = text.split('\n')
@@ -250,6 +298,7 @@ for filename in files:
         new_text = new_text.replace('DOTS','')
     new_text = replace_stars(new_text)
     new_text = new_text.replace('style="font-weight: 400;"', 'style={{fontWeight: 400}}')
+    new_text = new_text.replace('BACK_NXT', generate_back_next_links(language, slug))
     f.write(new_text)
     f.close()
     

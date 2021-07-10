@@ -46,7 +46,10 @@ const SecondPage = () => (
 </div>
 <p></p>
 
+
+<Link className="back_link" to="/en/personal_agency/education">Back to: Pursue your Education</Link><Link className="next_link" to="/en/personal_agency/business">Next page: Consider Starting your own Business or Service</Link>
     </div>
+
 
   </Layout>
 )

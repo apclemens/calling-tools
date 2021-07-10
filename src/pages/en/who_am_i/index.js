@@ -166,7 +166,10 @@ Tools to explore your passions and interests
 </li>
 </ul>
 
+
+<Link className="back_link" to="/en/personal_well_being">Back to: Step 1: Take Care Of Yourself</Link><Link className="next_link" to="/en/who_am_i/values">Next page: Values in Work and Life</Link>
     </div>
+
 
   </Layout>
 )

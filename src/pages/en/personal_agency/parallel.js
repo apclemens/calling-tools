@@ -40,7 +40,10 @@ const SecondPage = () => (
 <li><h2>Offer to expand your role at work to include your interests. Explore what options are available and the process to get there.</h2></li>
 </ul>
 
+
+<Link className="back_link" to="/en/personal_agency/business">Back to: Consider Starting your own Business or Service</Link><Link className="next_link" to="/en/personal_agency/transactions">Next page: Transactions most likely to get me a job in the quickest amount of time</Link>
     </div>
+
 
   </Layout>
 )

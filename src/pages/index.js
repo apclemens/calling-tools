@@ -115,7 +115,10 @@ const SecondPage = () => (
 <h3><i>&#8212; Oprah Winfrey</i></h3>
 </div>
 
+
+<Link className="next_link" to="/en/personal_well_being">Next page: Step 1: Take Care Of Yourself</Link>
     </div>
+
 
   </Layout>
 )

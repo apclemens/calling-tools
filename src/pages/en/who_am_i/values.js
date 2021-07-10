@@ -219,7 +219,10 @@ const SecondPage = () => (
 <p></p>
 <p></p>
 
+
+<Link className="back_link" to="/en/who_am_i/">Back to: Step 2: Know Who You Are</Link><Link className="next_link" to="/en/who_am_i/know_your_talents">Next page: Know Your Talents</Link>
     </div>
+
 
   </Layout>
 )

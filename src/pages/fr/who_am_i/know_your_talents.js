@@ -37,7 +37,10 @@ const SecondPage = () => (
 
 <p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
 
+
+<Link className="back_link" to="/fr/who_am_i/values">Back to: Explorez vos valeurs familiales envers le travail</Link><Link className="next_link" to="/fr/who_am_i/passion_and_interests">Next page: Passions et Intérêts</Link>
     </div>
+
 
   </Layout>
 )

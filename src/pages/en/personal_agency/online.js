@@ -66,7 +66,10 @@ const SecondPage = () => (
 <h3><i>--Marti Konstant, </i><i>Activate your Agile Career</i></h3>
 </div>
 
+
+<Link className="back_link" to="/en/personal_agency/transactions">Back to: Transactions most likely to get me a job in the quickest amount of time</Link><Link className="next_link" to="/en/personal_agency/interview">Next page: Prepare for your Job Interview</Link>
     </div>
+
 
   </Layout>
 )

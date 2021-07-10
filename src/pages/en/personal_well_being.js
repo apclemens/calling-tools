@@ -91,7 +91,10 @@ const SecondPage = () => (
 </div>
 <p><br /><span style={{fontWeight: 400}}><br /></span></p>
 
+
+<Link className="back_link" to="/en/">Back to: What Is Calling?</Link><Link className="next_link" to="/en/who_am_i/">Next page: Step 2: Know Who You Are</Link>
     </div>
+
 
   </Layout>
 )
