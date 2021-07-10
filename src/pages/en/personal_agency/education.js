@@ -25,14 +25,14 @@ const SecondPage = () => (
     <div class="content">
 <div><ul><li><Link to="/en/">What Is Calling?</Link></li><li><Link to="/en/personal_well_being">Step 1: Take Care Of Yourself</Link></li><li><Link to="/en/who_am_i/">Step 2: Know Who You Are</Link></li><li><Link to="/en/personal_agency/">Step 3: Take Charge</Link></li><li><Link to="/en/references">References</Link></li></ul></div>
 
-<h1 style={{fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Pursue your Education</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Pursue your Education</h1>
 
 <div style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/education.jpg"
 />
 </div>
-<h1><b>No matter where you are or what your circumstances, more opportunities will open up to you if you pursue an education, whether that be a degree or certification.</b></h1>
+<h1>No matter where you are or what your circumstances, more opportunities will open up to you if you pursue an education, whether that be a degree or certification.</h1>
 
     </div>
 

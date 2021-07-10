@@ -239,6 +239,7 @@ for filename in files:
     new_text = new_text.replace('LNG_LINKS', generate_language_links(language, slug))
     new_text = new_text.replace('PG_LINKS', generate_page_links(language, slug))
     new_text = new_text.replace('<a ', '<a target="_blank" rel="noreferrer" ')
+    new_text = new_text.replace('<b>','').replace('</b>','')
     if len(slug.split('/')) == 2 and 'index' not in slug:
         new_text = new_text.replace('HEADING_SIZE', '3')
     else:

@@ -25,7 +25,7 @@ const SecondPage = () => (
     <div class="content">
 <div><ul><li><Link to="/en/">What Is Calling?</Link></li><li><Link to="/en/personal_well_being">Step 1: Take Care Of Yourself</Link></li><li><Link to="/en/who_am_i/">Step 2: Know Who You Are</Link></li><li><Link to="/en/personal_agency/">Step 3: Take Charge</Link></li><li>References</li></ul></div>
 
-<h1 style={{fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>References</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>References</h1>
 
 <h1><span style={{fontWeight: 400}}>References and Recommended Reading for further reflection</span></h1>
 <div style={{width: "50%",float: "right"}}>
@@ -34,7 +34,7 @@ const SecondPage = () => (
 />
 </div>
 <div className="quote" style={{width: "50%"}}>
-<h3><b><i>&nbsp;&ldquo;</i></b><span style={{fontWeight: 400}}>For I know the plans&nbsp;I have for you,&rdquo; declares the&nbsp;Lord, &ldquo;plans to prosper&nbsp;you and not to harm you, plans to give you hope and a future.&nbsp;</span><b>12&nbsp;</b><span style={{fontWeight: 400}}>Then you will call&nbsp;on me and come and pray&nbsp;to me, and I will listen&nbsp;to you.&nbsp;</span><b>13&nbsp;</b><span style={{fontWeight: 400}}>You will seek&nbsp;me and find me when you seek me with all your heart.&rdquo;</span></h3>
+<h3><i>&nbsp;&ldquo;</i><span style={{fontWeight: 400}}>For I know the plans&nbsp;I have for you,&rdquo; declares the&nbsp;Lord, &ldquo;plans to prosper&nbsp;you and not to harm you, plans to give you hope and a future.&nbsp;</span>12&nbsp;<span style={{fontWeight: 400}}>Then you will call&nbsp;on me and come and pray&nbsp;to me, and I will listen&nbsp;to you.&nbsp;</span>13&nbsp;<span style={{fontWeight: 400}}>You will seek&nbsp;me and find me when you seek me with all your heart.&rdquo;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Jeremiah 29:11-13&nbsp;</span></h3>
 </div>
 <h2><span style={{fontWeight: 400}}>Ideas and tools for this website were drawn from the following resources, which can be further explored:&nbsp;</span></h2>

@@ -25,14 +25,14 @@ const SecondPage = () => (
     <div class="content">
 <div><ul><li><Link to="/en/">What Is Calling?</Link></li><li><Link to="/en/personal_well_being">Step 1: Take Care Of Yourself</Link></li><li>Step 2: Know Who You Are</li><li><Link to="/en/personal_agency/">Step 3: Take Charge</Link></li><li><Link to="/en/references">References</Link></li></ul></div>
 
-<h1 style={{fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>Step 2:<br></br>Know Who You Are</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>Step 2:<br></br>Know Who You Are</h1>
 
 <div style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/hills.jpg"
 />
 </div>
-<h2><b>Having a well developed understanding of yourself, knowing who you are and where you came from, provides a stronger foundation for a meaningful vocation in life.</b></h2>
+<h2>Having a well developed understanding of yourself, knowing who you are and where you came from, provides a stronger foundation for a meaningful vocation in life.</h2>
 <h3><span style={{fontWeight: 400}}>
 <Link to="/en/who_am_i/values">
 Tools to explore your values in work and life
@@ -52,117 +52,117 @@ Tools to explore your passions and interests
 </span></h3>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><b><i>&ldquo;Get to know yourself thoroughly. Inquire into every aspect of your nature and personality. Even if you know yourself well, find ways to observe your past and present from new viewpoints, especially those that provide tangible, realistic, and practical clues about the best fit between you and the working world...Your [ideal] work fully expresses all aspects of your nature. It fits your innate talents perfectly. It expresses your temperament and personality fully, even those parts that you do not see as positive. It provides the rewards that matter to you. It fulfills your goals. It occurs in an environment that is suitable and appropriate to who you are.&rdquo;&nbsp;</i></b></h3>
-<h3><b><i>&#8212; Nicholas Lore, The Pathfinder</i></b></h3>
+<h3><i>&ldquo;Get to know yourself thoroughly. Inquire into every aspect of your nature and personality. Even if you know yourself well, find ways to observe your past and present from new viewpoints, especially those that provide tangible, realistic, and practical clues about the best fit between you and the working world...Your [ideal] work fully expresses all aspects of your nature. It fits your innate talents perfectly. It expresses your temperament and personality fully, even those parts that you do not see as positive. It provides the rewards that matter to you. It fulfills your goals. It occurs in an environment that is suitable and appropriate to who you are.&rdquo;&nbsp;</i></h3>
+<h3><i>&#8212; Nicholas Lore, The Pathfinder</i></h3>
 </div>
 <div className="quote">
-<h3><b><i>&ldquo;One of the most courageous things you can do is identify yourself, know who you are, what you believe in and where you want to go.&rdquo;</i></b></h3>
-<h3><b><i>&#8212; Sheila Murray Bethel</i></b></h3>
+<h3><i>&ldquo;One of the most courageous things you can do is identify yourself, know who you are, what you believe in and where you want to go.&rdquo;</i></h3>
+<h3><i>&#8212; Sheila Murray Bethel</i></h3>
 </div>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
-<h1><b><i>Career Genogram to explore your family values toward work</i></b></h1>
-<h2><b>One way to understand ourselves and how we interact with work is to explore our family system, and recognize how each family member has influenced us in life. It&rsquo;s also important to acknowledge our own cultural approaches, and what our particular culture says about the value we place on our family of origin.</b></h2>
-<h3><b>To explore your family of origin&rsquo;s values and attitudes to work, levels of job satisfaction, what career success looks like, and gender issues, draw a family tree of careers, jobs or education of your grandparents, parents and siblings. What themes and patterns do you see and how might these have affected your career values?</b></h3>
-<h3><b>Questions for reflection:</b></h3>
+<h1><i>Career Genogram to explore your family values toward work</i></h1>
+<h2>One way to understand ourselves and how we interact with work is to explore our family system, and recognize how each family member has influenced us in life. It&rsquo;s also important to acknowledge our own cultural approaches, and what our particular culture says about the value we place on our family of origin.</h2>
+<h3>To explore your family of origin&rsquo;s values and attitudes to work, levels of job satisfaction, what career success looks like, and gender issues, draw a family tree of careers, jobs or education of your grandparents, parents and siblings. What themes and patterns do you see and how might these have affected your career values?</h3>
+<h3>Questions for reflection:</h3>
 <ul>
 <li aria-level="3">
-<h3><b>What kind of work in your family was seen as women&rsquo;s/men&rsquo;s work?</b></h3>
+<h3>What kind of work in your family was seen as women&rsquo;s/men&rsquo;s work?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>What jobs were admired or scorned by members of your family?</b></h3>
+<h3>What jobs were admired or scorned by members of your family?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>What are your family&rsquo;s attitudes about fun or leisure?</b></h3>
+<h3>What are your family&rsquo;s attitudes about fun or leisure?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>About money/spending/saving?</b></h3>
+<h3>About money/spending/saving?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>How does your family define success/failure? Who was successful/a failure and why?</b></h3>
+<h3>How does your family define success/failure? Who was successful/a failure and why?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>To whom in your family are you most similar and how?</b></h3>
+<h3>To whom in your family are you most similar and how?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Who would you like to be like and why?</b></h3>
+<h3>Who would you like to be like and why?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>In what ways are you similar to your family?</b></h3>
+<h3>In what ways are you similar to your family?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Different?</b></h3>
+<h3>Different?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>How would you LIKE to be similar?</b></h3>
+<h3>How would you LIKE to be similar?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Different?</b></h3>
+<h3>Different?</h3>
 </li>
 </ul>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
-<h1><b><i>How does my personality fit my work setting?</i></b></h1>
+<h1><i>How does my personality fit my work setting?</i></h1>
 <div style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../images/dance.jpg"
 />
 </div>
-<h2><b>To help you assess why certain work settings do or do not work well for your personality, ask these questions of your personal preferences:</b></h2>
+<h2>To help you assess why certain work settings do or do not work well for your personality, ask these questions of your personal preferences:</h2>
 <ul>
 <li aria-level="3">
-<h3><b>Do I enjoy using my imagination, or do I prefer dealing with practicalities?</b></h3>
+<h3>Do I enjoy using my imagination, or do I prefer dealing with practicalities?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Am I concerned with the feelings of others around me above all, or is getting the task done more important to me?</b></h3>
+<h3>Am I concerned with the feelings of others around me above all, or is getting the task done more important to me?</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Do I enjoy planning ahead, or do I prefer spontaneity?</b></h3>
+<h3>Do I enjoy planning ahead, or do I prefer spontaneity?</h3>
 </li>
 </ul>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
-<h1><b><i>Appreciate your strengths</i></b></h1>
+<h1><i>Appreciate your strengths</i></h1>
 <div style={{width: "27%",float: "right"}}>
 <StaticImage
   src="../../../images/rugs.jpg"
 />
 </div>
-<h2><b>Recall a time when you were &ldquo;in your element&rdquo; whether that be a work, church, family or other setting.</b></h2>
-<h3><b>Test your personality/career fit with these online tests:</b><b><br /></b><a target="_blank" rel="noreferrer" href="https://www.truity.com/view/tests/personality-career"><b>https://www.truity.com/view/tests/personality-career</b><b><br /></b></a><a target="_blank" rel="noreferrer" href="https://deweycolorsystem.com/tests/"><b>https://deweycolorsystem.com/tests/</b><b><br /></b></a><a target="_blank" rel="noreferrer" href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171"><b>https://www.thebalancecareers.com/personality-type-and-career-choice-526171</b><b><br /></b></a><a target="_blank" rel="noreferrer" href="https://www.enneagraminstitute.com/"><b>https://www.enneagraminstitute.com/</b></a></h3>
+<h2>Recall a time when you were &ldquo;in your element&rdquo; whether that be a work, church, family or other setting.</h2>
+<h3>Test your personality/career fit with these online tests:<br /><a target="_blank" rel="noreferrer" href="https://www.truity.com/view/tests/personality-career">https://www.truity.com/view/tests/personality-career<br /></a><a target="_blank" rel="noreferrer" href="https://deweycolorsystem.com/tests/">https://deweycolorsystem.com/tests/<br /></a><a target="_blank" rel="noreferrer" href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171">https://www.thebalancecareers.com/personality-type-and-career-choice-526171<br /></a><a target="_blank" rel="noreferrer" href="https://www.enneagraminstitute.com/">https://www.enneagraminstitute.com/</a></h3>
 <ul>
 <li aria-level="3">
-<h2><b>Do you thrive on interaction with others, or prefer to work alone?</b></h2>
+<h2>Do you thrive on interaction with others, or prefer to work alone?</h2>
 </li>
 <li aria-level="2">
-<h2><b>What did you do well?</b></h2>
+<h2>What did you do well?</h2>
 </li>
 <li aria-level="2">
-<h2><b>What is it about you that made you do well in that setting?</b></h2>
+<h2>What is it about you that made you do well in that setting?</h2>
 </li>
 <li aria-level="2">
-<h2><b>What does that situation say about your strengths that would be transferable to a work setting?</b></h2>
+<h2>What does that situation say about your strengths that would be transferable to a work setting?</h2>
 </li>
 </ul>
 

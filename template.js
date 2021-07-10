@@ -25,7 +25,7 @@ const SecondPage = () => (
     <div class="content">
 <div>PG_LINKS</div>
 
-<h1 style={{fontSize: "HEADING_SIZErem",textAlign: "center",borderBottom: "2px solid black"}}>PAGE_TITLE_W_HTML</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "HEADING_SIZErem",textAlign: "center",borderBottom: "2px solid black"}}>PAGE_TITLE_W_HTML</h1>
 
 CONTENT
     </div>
