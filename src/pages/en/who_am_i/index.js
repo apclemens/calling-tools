@@ -61,6 +61,11 @@ Tools to explore your passions and interests
 </div>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <h1><i>Career Genogram to explore your family values toward work</i></h1>
+<div classname="image" style={{width: "50%", float: "right"}}>
+<StaticImage
+  src="../../../images/II8A5084.JPG"
+/>
+</div>
 <h2>One way to understand ourselves and how we interact with work is to explore our family system, and recognize how each family member has influenced us in life. It&rsquo;s also important to acknowledge our own cultural approaches, and what our particular culture says about the value we place on our family of origin.</h2>
 <h3>To explore your family of origin&rsquo;s values and attitudes to work, levels of job satisfaction, what career success looks like, and gender issues, draw a family tree of careers, jobs or education of your grandparents, parents and siblings. What themes and patterns do you see and how might these have affected your career values?</h3>
 <h3>Questions for reflection:</h3>
