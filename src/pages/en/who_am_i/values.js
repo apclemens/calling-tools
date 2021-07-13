@@ -39,7 +39,7 @@ const SecondPage = () => (
 <h3><i>&ldquo;What counts in life is not the mere fact that we have lived; it is what difference we have made to the lives of others that will determine the significance of the life we lead.&rdquo;</i></h3>
 <h3><i>&#8212; Nelson Mandela</i></h3>
 </div>
-<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1><i>Your Ideal Satisfying Job (values for wellbeing in the work environment)</i></h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
@@ -195,6 +195,7 @@ const SecondPage = () => (
 <h3><i>"May your choices reflect your hopes, not your fears."</i></h3>
 <h3><i>&#8212; Nelson Mandela</i></h3>
 </div>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1><i>Retirement Party</i></h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage

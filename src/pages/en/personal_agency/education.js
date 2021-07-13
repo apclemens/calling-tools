@@ -32,7 +32,7 @@ const SecondPage = () => (
   src="../../../images/education.jpg"
 />
 </div>
-<h1>No matter where you are or what your circumstances, more opportunities will open up to you if you pursue an education, whether that be a degree or certification.</h1>
+<h2>No matter where you are or what your circumstances, more opportunities will open up to you if you pursue an education, whether that be a degree or certification.</h2>
 
 
 <Link className="back_link" to="/en/personal_agency/research">Back to: Do the Research</Link><Link className="next_link" to="/en/personal_agency/volunteer">Next page: Volunteer!</Link>

@@ -33,7 +33,7 @@ const SecondPage = () => (
   src="../../images/rainbow.jpg"
 />
 </div>
-<div className="quote" style={{width: "50%"}}>
+<div className="quote left">
 <h3><i>&nbsp;&ldquo;</i><span style={{fontWeight: 400}}>For I know the plans&nbsp;I have for you,&rdquo; declares the&nbsp;Lord, &ldquo;plans to prosper&nbsp;you and not to harm you, plans to give you hope and a future.&nbsp;</span>12&nbsp;<span style={{fontWeight: 400}}>Then you will call&nbsp;on me and come and pray&nbsp;to me, and I will listen&nbsp;to you.&nbsp;</span>13&nbsp;<span style={{fontWeight: 400}}>You will seek&nbsp;me and find me when you seek me with all your heart.&rdquo;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Jeremiah 29:11-13&nbsp;</span></h3>
 </div>
@@ -85,6 +85,11 @@ const SecondPage = () => (
 </ul>
 <p></p>
 <p></p>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<p>Content: Ruth Keidel Clemens - ruthkclemens@gmail.com</p>
+<p>Web host: Andy Clemens - apclemens1@gmail.com</p>
+<p>Web design: Israel Dereb - israeldereb@gmail.com</p>
+<p>Graphics: Chris Clemens - chrisclemens90@gmail.com</p>
 
 
 <Link className="back_link" to="/en/personal_agency/interview">Back to: Prepare for your Job Interview</Link>

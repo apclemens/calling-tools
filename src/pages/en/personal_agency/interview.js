@@ -32,8 +32,8 @@ const SecondPage = () => (
   src="../../../images/elephant.jpg"
 />
 </div>
-<h1>Following are basic questions you should be prepared to answer (they will be asked in a variety of ways) before going into your job interview.&nbsp;</h1>
-<h1><i>Practice with a friend ahead of time!</i></h1>
+<h2>Following are basic questions you should be prepared to answer (they will be asked in a variety of ways) before going into your job interview.&nbsp;</h2>
+<h2><i>Practice with a friend ahead of time!</i></h2>
 <ul>
 <li aria-level="2">
 <h2>Why are you here? Why were you interested in this job?&nbsp;</h2>

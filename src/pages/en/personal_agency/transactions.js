@@ -32,7 +32,7 @@ const SecondPage = () => (
   src="../../../images/trees.jpg"
 />
 </div>
-<h1>Listed from <i>most likely</i> to the <i>least likely</i> to get the job most quickly:&nbsp;</h1>
+<h2>Listed from <i>most likely</i> to the <i>least likely</i> to get the job most quickly:&nbsp;</h2>
 <p><br /></p>
 <ul>
 <li aria-level="3">

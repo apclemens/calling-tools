@@ -60,6 +60,12 @@ div.image {
 }
 }
 
+@media only screen and (min-width: 800px) {
+    .quote.left {
+        width: 50%;
+    }
+}
+
 .back_link {
     float: left;
     background-color: #ffe082;

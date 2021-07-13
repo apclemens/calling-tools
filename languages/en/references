@@ -4,7 +4,7 @@
   src="../../images/rainbow.jpg"
 />
 </div>
-<div className="quote" style={{width: "50%"}}>
+<div className="quote left">
 <h3><b><i>&nbsp;&ldquo;</i></b><span style="font-weight: 400;">For I know the plans&nbsp;I have for you,&rdquo; declares the&nbsp;Lord, &ldquo;plans to prosper&nbsp;you and not to harm you, plans to give you hope and a future.&nbsp;</span><b>12&nbsp;</b><span style="font-weight: 400;">Then you will call&nbsp;on me and come and pray&nbsp;to me, and I will listen&nbsp;to you.&nbsp;</span><b>13&nbsp;</b><span style="font-weight: 400;">You will seek&nbsp;me and find me when you seek me with all your heart.&rdquo;</span></h3>
 <h3><span style="font-weight: 400;">--Jeremiah 29:11-13&nbsp;</span></h3>
 </div>
@@ -56,3 +56,8 @@
 </ul>
 <p></p>
 <p></p>
+<p><span style="font-weight: 400;">*************************************</span></p>
+<p>Content: Ruth Keidel Clemens - ruthkclemens@gmail.com</p>
+<p>Web host: Andy Clemens - apclemens1@gmail.com</p>
+<p>Web design: Israel Dereb - israeldereb@gmail.com</p>
+<p>Graphics: Chris Clemens - chrisclemens90@gmail.com</p>

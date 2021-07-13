@@ -47,19 +47,18 @@ const SecondPage = () => (
 <h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Awake, awake, Clothe yourself in your strength, O Zion; Clothe yourself in your&nbsp;beautiful garments,</span><span style={{fontWeight: 400}}><br /></span><span style={{fontWeight: 400}}>O Jerusalem, the&nbsp;holy city...</span>2&nbsp;<span style={{fontWeight: 400}}>Shake yourself&nbsp;from the dust,&nbsp;rise up, O captive Jerusalem; Loose yourself from the chains around your neck, O captive daughter of Zion.&nbsp;&nbsp;</span>6&nbsp;<span style={{fontWeight: 400}}>Therefore My people shall&nbsp;know My name; therefore in that day I am the one who is speaking, &lsquo;Here I am.&rsquo;&rdquo;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Isaiah 52:1-2, 6</span></h3>
 </div>
-<h3>&nbsp;</h3>
 <div className="quote">
 <h3><i>&ldquo;</i><span style={{fontWeight: 400}}>I long to accomplish a great and noble task, but it is my chief duty to accomplish small tasks as if they were great and noble.&rdquo;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Helen Keller</span></h3>
 </div>
-<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1>Identify Competing Options</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/hippo.jpg"
 />
 </div>
-<h1><span style={{fontWeight: 400}}>Often we have competing options, values or priorities, or other challenges when making decisions about a career. This exercise helps you identify and articulate those competing voices to possibly find a way forward.</span></h1>
+<h2><span style={{fontWeight: 400}}>Often we have competing options, values or priorities, or other challenges when making decisions about a career. This exercise helps you identify and articulate those competing voices to possibly find a way forward.</span></h2>
 <ul>
 <li style={{fontWeight: 400}} aria-level="3">
 <h3><span style={{fontWeight: 400}}>Identify the competing voices, explaining the different messages you&rsquo;re hearing in your own mind.</span></h3>
@@ -80,14 +79,14 @@ const SecondPage = () => (
 <h3><span style={{fontWeight: 400}}>Reflect on this &ldquo;conversation.&rdquo; Has either side of yourself changed? Which of the voices now seems louder or more convincing?</span></h3>
 </li>
 </ul>
-<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1>Have an imaginary conversation with your role model</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/trees.jpg"
 />
 </div>
-<h1><span style={{fontWeight: 400}}>If you find yourself in a career dilemma, or doubts about the best way forward,&nbsp;imagine having a conversation with someone you admire, whom you feel would give you good advice.</span></h1>
+<h2><span style={{fontWeight: 400}}>If you find yourself in a career dilemma, or doubts about the best way forward,&nbsp;imagine having a conversation with someone you admire, whom you feel would give you good advice.</span></h2>
 <ul>
 <li style={{fontWeight: 400}} aria-level="2">
 <h2><span style={{fontWeight: 400}}>Make a list of these dilemmas or doubts in detail. What are&nbsp;you worried about?</span></h2>
@@ -129,14 +128,14 @@ const SecondPage = () => (
 <h2><span style={{fontWeight: 400}}>Find a network of support to help you move ahead with your new commitment.</span></h2>
 </li>
 </ul>
-<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1>Envision a miracle resolution to your career dilemma!</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/ocean.jpg"
 />
 </div>
-<h1><span style={{fontWeight: 400}}>Imagine that you go to sleep tonight, wake up in the morning, and a miracle has happened so that your career dilemma is resolved! Journal the following questions:</span></h1>
+<h2><span style={{fontWeight: 400}}>Imagine that you go to sleep tonight, wake up in the morning, and a miracle has happened so that your career dilemma is resolved! Journal the following questions:</span></h2>
 <ul>
 <li style={{fontWeight: 400}} aria-level="2">
 <h2><span style={{fontWeight: 400}}>When you wake up in the morning, what has changed? What is different?</span></h2>
@@ -154,14 +153,15 @@ const SecondPage = () => (
 <h2><span style={{fontWeight: 400}}>How does this inform your goals for the future?</span></h2>
 </li>
 </ul>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1>Take Practical Steps!</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/graffiti.jpg"
 />
 </div>
-<h1>Take Practical Steps that are within your control</h1>
-<h1>Even when you feel like there may be no opportunities for you, there are many practical steps you can take that are within your control!</h1>
+<h2>Take Practical Steps that are within your control</h2>
+<h2>Even when you feel like there may be no opportunities for you, there are many practical steps you can take that are within your control!</h2>
 <h3>Links to Tools to explore for practical steps:</h3>
 <ul>
 <li aria-level="3">
@@ -261,17 +261,14 @@ Prepare for your job interview
 <h3><i>&ldquo;</i>Say yes to every opportunity that comes along, because you never know what will lead to what. Have a bias toward action. Think of yourself as a fish that is hoping to get caught. Go out there among the fishhooks.&rdquo;&nbsp;</h3>
 <h3>--David Brooks, The Second Mountain</h3>
 </div>
-<h3>&nbsp;</h3>
 <div className="quote">
 <h3><i>&ldquo;</i>I am not discouraged, because every wrong attempt discarded is another step forward.&rdquo;</h3>
 <h3>--Thomas Edison</h3>
 </div>
-<p>&nbsp;</p>
 <div className="quote">
 <h3><i>&ldquo;</i>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.&rdquo;</h3>
 <h3>--Martin Luther King, Jr.</h3>
 </div>
-<h3>&nbsp;</h3>
 <div className="quote">
 <h3><i>&ldquo;</i>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.&rdquo;</h3>
 <h3>--Franklin D. Roosevelt</h3>

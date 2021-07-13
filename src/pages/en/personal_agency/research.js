@@ -32,7 +32,7 @@ const SecondPage = () => (
   src="../../../images/canyon2.jpg"
 />
 </div>
-<h1>If you&rsquo;re debating whether to move ahead in pursuit of a particular career or area of interest:&nbsp;</h1>
+<h2>If you&rsquo;re debating whether to move ahead in pursuit of a particular career or area of interest:&nbsp;</h2>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <ul>
 <li aria-level="3">

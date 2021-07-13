@@ -10,7 +10,7 @@
 <h3><b><i>&ldquo;What counts in life is not the mere fact that we have lived; it is what difference we have made to the lives of others that will determine the significance of the life we lead.&rdquo;</i></b></h3>
 <h3><b><i>&#8212; Nelson Mandela</i></b></h3>
 </div>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
+<p><b>***********************************</b></p>
 <h1><b><i>Your Ideal Satisfying Job (values for wellbeing in the work environment)</i></b></h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
@@ -166,6 +166,7 @@
 <h3><b><i>"May your choices reflect your hopes, not your fears."</i></b></h3>
 <h3><b><i>&#8212; Nelson Mandela</i></b></h3>
 </div>
+<p><b>***********************************</b></p>
 <h1><b><i>Retirement Party</i></b></h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage

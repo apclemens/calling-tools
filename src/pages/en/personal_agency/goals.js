@@ -32,7 +32,7 @@ const SecondPage = () => (
   src="../../../images/church.jpg"
 />
 </div>
-<h1>Decide what you want most and set goals to turn your dreams into reality. Plan your goals fully.&nbsp;</h1>
+<h2>Decide what you want most and set goals to turn your dreams into reality. Plan your goals fully.&nbsp;</h2>
 <ul>
 <li aria-level="3">
 <h3>Write down major areas of your life as headings each on a separate page. Below are some example areas:</h3>

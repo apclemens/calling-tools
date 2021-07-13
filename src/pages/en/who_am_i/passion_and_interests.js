@@ -59,9 +59,9 @@ const SecondPage = () => (
 <h3><i>&ldquo;</i><span style={{fontWeight: 400}}>All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.&rdquo;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Martin Luther King, Jr.</span></h3>
 </div>
-<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1>Heart vs. Head: To determine the most important factors to consider</h1>
-<h1><span style={{fontWeight: 400}}>We tend to make decisions either by our gut instinct our by our head logic.&nbsp;If we stop to identify what these two sides of our brains are saying, we may uncover legitimate factors to consider when making decisions about career.</span></h1>
+<h2><span style={{fontWeight: 400}}>We tend to make decisions either by our gut instinct our by our head logic.&nbsp;If we stop to identify what these two sides of our brains are saying, we may uncover legitimate factors to consider when making decisions about career.</span></h2>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/canyon.jpg"
@@ -114,8 +114,9 @@ const SecondPage = () => (
 <h3><span style={{fontWeight: 400}}>What action do you plan to take to make this decision?</span></h3>
 </li>
 </ul>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1>Evoke your future self living out your passions and interests!</h1>
-<h1><span style={{fontWeight: 400}}>What future do you imagine for yourself in five years&nbsp;(or two years, if that is easier), as one who is fully living out your passions/interests? Envision your possible self in great detail. Be as open and creative as possible. Brainstorm!</span></h1>
+<h2><span style={{fontWeight: 400}}>What future do you imagine for yourself in five years&nbsp;(or two years, if that is easier), as one who is fully living out your passions/interests? Envision your possible self in great detail. Be as open and creative as possible. Brainstorm!</span></h2>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/vista.jpg"
@@ -156,7 +157,7 @@ const SecondPage = () => (
 <h3><i>&ldquo;</i><span style={{fontWeight: 400}}>When you turn left at the road of safe instead of at the road of desire, the crossroads image can haunt you during times of discontent and searing disappointment.&rdquo;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Marti Konstant, Activate your Agile Career</span></h3>
 </div>
-<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <h1>Explore what is most important and meaningful to you</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage

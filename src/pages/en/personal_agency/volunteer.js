@@ -27,7 +27,7 @@ const SecondPage = () => (
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Volunteer!</h1>
 
-<h1>Volunteer in an organization that is in line with your interests. You're more likely to identify your next steps or "calling" sooner by doing something (even when not getting paid) rather than sitting at home doing nothing.</h1>
+<h2>Volunteer in an organization that is in line with your interests. You're more likely to identify your next steps or "calling" sooner by doing something (even when not getting paid) rather than sitting at home doing nothing.</h2>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/volunteer.jpg"

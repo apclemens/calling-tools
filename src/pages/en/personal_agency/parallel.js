@@ -32,7 +32,7 @@ const SecondPage = () => (
   src="../../../images/drawing.jpg"
 />
 </div>
-<h1>If your career doesn't currently feed your passion (even as it pays the bills), pursuing interests on the side that do feed your passions can give you a deeper sense of satisfaction, and allows you to further explore your&nbsp;field of interest.&nbsp;</h1>
+<h2>If your career doesn't currently feed your passion (even as it pays the bills), pursuing interests on the side that do feed your passions can give you a deeper sense of satisfaction, and allows you to further explore your&nbsp;field of interest.&nbsp;</h2>
 <h2>Ways to pursue parallel interests:&nbsp;</h2>
 <ul>
 <li><h2>Pursue further education - taking even one&nbsp;class in your field of interest can put you in touch with professors and other students who may become part of your network of support.</h2></li>

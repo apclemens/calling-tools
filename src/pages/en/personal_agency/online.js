@@ -33,7 +33,7 @@ const SecondPage = () => (
 />
 </div>
 <h1>Your resume is already out there!</h1>
-<h1><i>Hiring managers will look you up online. Building a positive and professionally attractive profile online will get the attention you need to pursue your calling. Some ideas to consider:&nbsp;</i></h1>
+<h2><i>Hiring managers will look you up online. Building a positive and professionally attractive profile online will get the attention you need to pursue your calling. Some ideas to consider:&nbsp;</i></h2>
 <ul>
 <li>
 <h3><i>When preparing&nbsp;online content, ask yourself the questions: Who are you? What makes you special? Why should anyone care?&nbsp;</i></h3>
@@ -55,11 +55,11 @@ const SecondPage = () => (
 <h3>Build a resume and cover letter that will attract attention with these <a target="_blank" rel="noreferrer" href="https://resumegenius.com/resume-templates">useful templates</a>&nbsp;</h3>
 <h3>&nbsp;</h3>
 <h3><i>Post your resume</i> at the most commonly used job sites (if you're living in the U.S. or Canada), and you may get some responses! Remember to use key words identifying the kind of work you&rsquo;re looking for, which will more likely be matched by companies looking for your kind of skills and interests.</h3>
-<p><span style={{fontWeight: 400}}>Indeed.com</span></p>
-<p><span style={{fontWeight: 400}}>Livecareer.com</span></p>
-<p><span style={{fontWeight: 400}}>Ziprecruiter.com</span></p>
-<p><span style={{fontWeight: 400}}>Idealist.org</span></p>
-<p><span style={{fontWeight: 400}}>Readyjob.org</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Indeed.com</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Livecareer.com</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Ziprecruiter.com</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Idealist.org</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Readyjob.org</span></p>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
 <h3><i>"The digital footprint is the first impression between job candidates and people working within the company. The 24/7 content serves as a prelude to the first handshake or direct eye contact in the talent recruitment pipeline."&nbsp;</i></h3>

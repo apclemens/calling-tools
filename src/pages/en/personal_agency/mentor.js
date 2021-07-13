@@ -32,7 +32,7 @@ const SecondPage = () => (
   src="../../../images/hana.jpg"
 />
 </div>
-<h1>A mentor is a trusted counselor or guide. A&nbsp;mentor&nbsp;may share with a mentee (or protege) information about his or her own career path, as well as provide guidance, motivation, emotional support, and role modeling. A&nbsp;mentor&nbsp;may help with exploring careers, setting goals, developing contacts, and identifying resources.</h1>
+<h2>A mentor is a trusted counselor or guide. A&nbsp;mentor&nbsp;may share with a mentee (or protege) information about his or her own career path, as well as provide guidance, motivation, emotional support, and role modeling. A&nbsp;mentor&nbsp;may help with exploring careers, setting goals, developing contacts, and identifying resources.</h2>
 <h3>A good mentor possesses the following qualities:</h3>
 <ul>
 <li aria-level="3">
