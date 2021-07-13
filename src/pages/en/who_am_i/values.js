@@ -40,13 +40,13 @@ const SecondPage = () => (
 <h3><i>&#8212; Nelson Mandela</i></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1><i>Your Ideal Satisfying Job (values for wellbeing in the work environment)</i></h1>
+<h1>Your Ideal Satisfying Job (values for wellbeing in the work environment)</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/0417180635c-EFFECTS.jpg"
 />
 </div>
-<h1>To identify the qualities of a job that help you experience wellbeing in the workplace:</h1>
+<h2>To identify the qualities of a job that help you experience wellbeing in the workplace:</h2>
 <h2>Identify the most and least satisfying jobs you have ever had.&nbsp;</h2>
 <ul>
 <li aria-level="2">
@@ -196,13 +196,13 @@ const SecondPage = () => (
 <h3><i>&#8212; Nelson Mandela</i></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1><i>Retirement Party</i></h1>
+<h1>Retirement Party</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/IMG_2514.JPG"
 />
 </div>
-<h1>What would you like your colleagues to say about you?&nbsp;</h1>
+<h2>What would you like your colleagues to say about you?&nbsp;</h2>
 <h2>Imagine you have come to the end of your formal work life, and your colleagues, who have worked with you for several years, throw a celebration for you. &nbsp;</h2>
 <ul>
 <li aria-level="3">

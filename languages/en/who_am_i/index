@@ -30,7 +30,7 @@ Tools to explore your passions and interests
 <h3><b><i>&ldquo;One of the most courageous things you can do is identify yourself, know who you are, what you believe in and where you want to go.&rdquo;</i></b></h3>
 <h3><b><i>&#8212; Sheila Murray Bethel</i></b></h3>
 </div>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><b>***********************************</b></h3>
 <h1><b><i>Career Genogram to explore your family values toward work</i></b></h1>
 <div classname="image" style={{width: "50%", float: "right"}}>
 <StaticImage
@@ -95,7 +95,7 @@ Tools to explore your passions and interests
 <h3><b>Different?</b></h3>
 </li>
 </ul>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><b>***********************************</b></h3>
 <h1><b><i>How does my personality fit my work setting?</i></b></h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
@@ -118,7 +118,7 @@ Tools to explore your passions and interests
 <h3><b>Do I enjoy planning ahead, or do I prefer spontaneity?</b></h3>
 </li>
 </ul>
-<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h3><b>***********************************</b></h3>
 <h1><b><i>Appreciate your strengths</i></b></h1>
 <div className="image" style={{width: "27%",float: "right"}}>
 <StaticImage
