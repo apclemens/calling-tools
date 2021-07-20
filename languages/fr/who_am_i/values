@@ -1,9 +1,202 @@
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
-
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
-
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/rainbow.jpg"
+/>
+</div>
+<h1><b>Pour choisir une direction dans la vie, il est important de comprendre quelle priorité vous accordez à certaines valeurs dans la vie et sur le lieu de travail.</b></h1>
+<h2><b><i>Valeurs</i></b><b> - Principes ou normes de comportement; son jugement sur ce qui est important dans la vie.</b></h2>
+<p><b>***********************************</b></p>
+<div className="quote">
+<h3><b><i>&ldquo;Ce qui compte dans la vie n'est pas le simple fait que nous avons vécu; c'est la différence que nous avons faite dans la vie des autres qui déterminera la signification de la vie que nous menons.&rdquo;</i></b></h3>
+<h3><b><i>&#8212; Nelson Mandela</i></b></h3>
+</div>
+<p><b>***********************************</b></p>
+<h1><b>Votre travail satisfaisant idéal (valeurs de bien-être dans l’environnement de travail)</b></h1>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/0417180635c-EFFECTS.jpg"
+/>
+</div>
+<h2><b>Pour identifier les qualités d'un emploi qui vous aident à vivre le bien-être au travail:</b></h2>
+<h2><b>Identifiez les emplois les plus et les moins satisfaisants que vous ayez jamais eu.</b></h2>
+<ul>
+<li aria-level="2">
+<h2><b>Quels aspects de ces emplois les ont rendus les plus agréables? Quels ont été vos succès?</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Quels aspects les ont rendus les plus désagréables? Quels sont les échecs que vous avez ressenti?</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Qu'est-ce qui vous a donné envie d'aller au travail lundi matin?</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Qu'est-ce qui vous a fait redouter d'aller travailler lundi matin?</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Imaginez-vous dans une carrière que vous aimez. À quoi cela ressemble-t-il?</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>WPour vous, lesquels des éléments suivants se distinguent comme les principaux moteurs de votre carrière? À quel point est-ce important pour vous et pourquoi est-ce important? Quelles implications chaque domaine a-t-il pour votre choix de carrière? Comment cela correspond-il à votre choix actuel ou à ce que vous prévoyez?</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Variété des tâches</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Relations avec les collègues, lien personnel, sens de la communauté</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Conditions de travail</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Charge de travail – lourde, intense, légère, rythme</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Possibilités d'éducation et de développement pour le développement personnel</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Congruence (ajustement personne-environnement)</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Opportunités techniques - cadre pour utiliser et améliorer mes compétences techniques</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Possibilités de gestion générale - capacité de diriger l'organisation</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Sécurité et stabilité - financement stable, personnel stable, prévisibilité, sécurité financière personnelle</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Créativité entrepreneuriale - la possibilité de sortir des sentiers battus et de mettre en œuvre de nouvelles idées, avec créativité et expression de soi</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Autonomie et indépendance - capacité à travailler seul, à prendre des décisions ou à travailler en équipe</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Service et dévouement à une cause; impact social; altruisme, aide aux autres, sensibilisation</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Position géographique</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Environnement physique - bureau, intérieur ou extérieur…</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Défi pur, sporadique ou continu</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Mode de vie (équilibre vie privée/vie professionnelle)</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Puissance et statut</b></h2>
+</li>
+</ul>
+<h2><b>Téléchargez une </b><a href="https://www.google.com/search?biw=1422&amp;bih=642&amp;tbm=isch&amp;sxsrf=ACYBGNSQFIQVi9LtQ-OXTqgDSVhgSLhEOw%3A1575404723277&amp;sa=1&amp;ei=s8TmXYPGEM-JggepmKOwDw&amp;q=printable+wheel+of+life+career+model&amp;oq=printable+wheel+of+life+career+model&amp;gs_l=img.3...47155.54179..54381...0.0..0.87.997.17......0....1..gws-wiz-img.......35i39j0i8i30j0j0i30.Klx0idkaVgU&amp;ved=0ahUKEwjD66H3p5rmAhXPhOAKHSnMCPYQ4dUDCAc&amp;uact=5#imgrc=Myzu0JJm7LuiIM:"><b>roue de la vie</b></a>disponible en ligne. Marquez chaque élément parlé comme un élément de carrière différent qui est important pour vous, comme ceux décrits ci-dessus (autonomie, conditions de travail, collègues, possibilités d'apprentissage, composante de service, défi, salaire, etc.)</b></h2>
+<ul>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/diagram.jpg"
+/>
+</div>
+<li aria-level="2">
+<h2><b>Coloriez chaque segment en fonction de votre sentiment d'épanouissement dans cette partie de votre carrière. Cela vous donne une analyse visuelle de votre situation actuelle.</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Quels aspects fonctionnent bien pour vous et lesquels ne fonctionnent pas?</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Quelles options avez-vous pour traiter les domaines qui ne vont pas bien?</b></h2>
+</li>
+</ul>
+<ul>
+<li aria-level="2">
+<h2><b>Qu'est-ce que cela indique sur vos valeurs / priorités dans le cadre de votre travail ou de votre carrière?</b></h2>
+</li>
+</ul>
+<h1><b>Priorisez vos préférences de travail &ndash; </b><a href="https://www.beverlyryle.com/prioritizing-grid"><b>essayez cette feuille de calcul</b></a></h1>
+<p><b>********************************</b></p>
+<div className="quote">
+<h3><b><i>"Que vos choix reflètent vos espoirs, pas vos peurs."</i></b></h3>
+<h3><b><i>&#8212; Nelson Mandela</i></b></h3>
+</div>
+<p><b>***********************************</b></p>
+<h1><b>Fête de la retraite</b></h1>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/IMG_2514.JPG"
+/>
+</div>
+<h2><b>Qu'aimeriez-vous que vos collègues disent de vous?</b></h2>
+<h2><b>Imaginez que vous êtes arrivé à la fin de votre vie professionnelle et que vos collègues, qui ont travaillé avec vous pendant plusieurs années, organisent une fête pour vous.</b></h2>
+<ul>
+<li aria-level="3">
+<h3><b>Identifiez la chose la plus importante que vous espérez que vos collègues disent de vous dans un discours.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Qu'est-ce que cela dit sur les valeurs que vous souhaitez vivre dans votre carrière?</b></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">**************************************</span></p>
+<div className="quote">
+<h3><b><i>"Ne me jugez pas par mes succès, jugez-moi sur le nombre de fois où je suis tombé et où je me suis relevé."</i></b></h3>
+<h3><b><i>--Nelson Mandela</i></b></h3>
+</div>
+<div className="quote">
+<h3><b><i>&ldquo;Si un homme est appelé à être un balayeur de rues, il devrait balayer les rues aussi bien que Michel-Ange peignait, que Beethoven composait de la musique, ou que Shakespeare écrivait de la poésie. Il devrait balayer les rues si bien que tous les saints du paradis et les habitants de de la terre devraient s'arrêter pour dire: ici vivait un grand balayeur de rues qui faisait son travail de manière incroyable et parfaite.&rdquo;</i></b></h3>
+<h3><b><i>--Martin Luther King, Jr.</i></b></h3>
+</div>
+<div className="quote">
+<h3><b><i>&ldquo;Le succès ne dépend pas de l’argent que vous gagnez, mais de différence que vous faites dans la vie des gens.&rdquo;&nbsp;</i></b></h3>
+<h3><b><i>--Michelle Obama</i></b></h3>
+</div>
+<p></p>
+<p></p>

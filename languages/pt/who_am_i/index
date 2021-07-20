@@ -1,9 +1,143 @@
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/hills.jpg"
+/>
+</div>
+<h2><b>Having a well developed understanding of yourself, knowing who you are and where you came from, provides a stronger foundation for a meaningful vocation in life.</b></h2>
+<h3><span style="font-weight: 400;">
+<Link to="/LANGUAGE/who_am_i/values">
+Tools to explore your values in work and life
+</Link>
+</span></h3>
 
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
+<h3><span style="font-weight: 400;">
+<Link to="/LANGUAGE/who_am_i/know_your_talents">
+Tools to explore your gifts and talents
+</Link>
+</span></h3>
 
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<h3><span style="font-weight: 400;">
+<Link to="/LANGUAGE/who_am_i/passion_and_interests">
+Tools to explore your passions and interests
+</Link>
+</span></h3>
+<h3><b>***********************************</b></h3>
+<div className="quote">
+<h3><b><i>&ldquo;Get to know yourself thoroughly. Inquire into every aspect of your nature and personality. Even if you know yourself well, find ways to observe your past and present from new viewpoints, especially those that provide tangible, realistic, and practical clues about the best fit between you and the working world...Your [ideal] work fully expresses all aspects of your nature. It fits your innate talents perfectly. It expresses your temperament and personality fully, even those parts that you do not see as positive. It provides the rewards that matter to you. It fulfills your goals. It occurs in an environment that is suitable and appropriate to who you are.&rdquo;&nbsp;</i></b></h3>
+<h3><b><i>&#8212; Nicholas Lore, The Pathfinder</i></b></h3>
+</div>
+<div className="quote">
+<h3><b><i>&ldquo;One of the most courageous things you can do is identify yourself, know who you are, what you believe in and where you want to go.&rdquo;</i></b></h3>
+<h3><b><i>&#8212; Sheila Murray Bethel</i></b></h3>
+</div>
+<h3><b>***********************************</b></h3>
+<h1><b><i>Career Genogram to explore your family values toward work</i></b></h1>
+<div classname="image" style={{width: "50%", float: "right"}}>
+<StaticImage
+  src="../../../images/II8A5084.JPG"
+/>
+</div>
+<h2><b>One way to understand ourselves and how we interact with work is to explore our family system, and recognize how each family member has influenced us in life. It&rsquo;s also important to acknowledge our own cultural approaches, and what our particular culture says about the value we place on our family of origin.</b></h2>
+<h3><b>To explore your family of origin&rsquo;s values and attitudes to work, levels of job satisfaction, what career success looks like, and gender issues, draw a family tree of careers, jobs or education of your grandparents, parents and siblings. What themes and patterns do you see and how might these have affected your career values?</b></h3>
+<h3><b>Questions for reflection:</b></h3>
+<ul>
+<li aria-level="3">
+<h3><b>What kind of work in your family was seen as women&rsquo;s/men&rsquo;s work?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>What jobs were admired or scorned by members of your family?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>What are your family&rsquo;s attitudes about fun or leisure?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>About money/spending/saving?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>How does your family define success/failure? Who was successful/a failure and why?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>To whom in your family are you most similar and how?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Who would you like to be like and why?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>In what ways are you similar to your family?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Different?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>How would you LIKE to be similar?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Different?</b></h3>
+</li>
+</ul>
+<h3><b>***********************************</b></h3>
+<h1><b><i>How does my personality fit my work setting?</i></b></h1>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../images/dance.jpg"
+/>
+</div>
+<h2><b>To help you assess why certain work settings do or do not work well for your personality, ask these questions of your personal preferences:</b></h2>
+<ul>
+<li aria-level="3">
+<h3><b>Do I enjoy using my imagination, or do I prefer dealing with practicalities?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Am I concerned with the feelings of others around me above all, or is getting the task done more important to me?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Do I enjoy planning ahead, or do I prefer spontaneity?</b></h3>
+</li>
+</ul>
+<h3><b>***********************************</b></h3>
+<h1><b><i>Appreciate your strengths</i></b></h1>
+<div className="image" style={{width: "27%",float: "right"}}>
+<StaticImage
+  src="../../../images/rugs.jpg"
+/>
+</div>
+<h2><b>Recall a time when you were &ldquo;in your element&rdquo; whether that be a work, church, family or other setting.</b></h2>
+<h3><b>Test your personality/career fit with these online tests:</b><b><br /></b><a href="https://www.truity.com/view/tests/personality-career"><b>https://www.truity.com/view/tests/personality-career</b><b><br /></b></a><a href="https://deweycolorsystem.com/tests/"><b>https://deweycolorsystem.com/tests/</b><b><br /></b></a><a href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171"><b>https://www.thebalancecareers.com/personality-type-and-career-choice-526171</b><b><br /></b></a><a href="https://www.enneagraminstitute.com/"><b>https://www.enneagraminstitute.com/</b></a></h3>
+<ul>
+<li aria-level="3">
+<h2><b>Do you thrive on interaction with others, or prefer to work alone?</b></h2>
+</li>
+<li aria-level="2">
+<h2><b>What did you do well?</b></h2>
+</li>
+<li aria-level="2">
+<h2><b>What is it about you that made you do well in that setting?</b></h2>
+</li>
+<li aria-level="2">
+<h2><b>What does that situation say about your strengths that would be transferable to a work setting?</b></h2>
+</li>
+</ul>

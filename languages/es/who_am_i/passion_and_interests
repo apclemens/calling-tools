@@ -1,9 +1,244 @@
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
-
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
-
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/birds.jpg"
+/>
+</div>
+<h1><span style="font-weight: 400;">Pasión&nbsp;- Un intenso deseo o entusiasmo por algo.</span></h1>
+<h1><b>Interés</b><span style="font-weight: 400;">&nbsp;- Algo de lo que quieres saber o aprender más.</span></h1>
+<p></p>
+<h2><b>Explora todas las ocupaciones posibles en este sitio web</b></h2>
+<h2><b>Crea tu declaración de misión personal.&nbsp;</b><span style="font-weight: 400;">Esto lleva tiempo e intencionalidad, y te ayuda a adueñarte y comprender mejor lo que te apasiona.&nbsp;</span><a href="https://www.amazon.com/Path-Creating-Your-Mission-Statement/dp/0786882417/ref=asc_df_0786882417/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=312175933381&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=5237425487839131983&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9007906&amp;hvtargid=pla-565474836188&amp;psc=1&amp;tag=&amp;ref=&amp;adgrpid=60258871817&amp;hvpone=&amp;hvptwo=&amp;hvadid=312175933381&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=5237425487839131983&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9007906&amp;hvtargid=pla-565474836188"><span style="font-weight: 400;">The Path: Creando tu declaración de misión para el trabajo y para la vida</span></a><span style="font-weight: 400;">,&nbsp;por Laurie Beth Jones, proporciona consejos inspiradores y prácticos para guiar a los lectores a través de cada paso de definir y cumplir una misión.</span></h2>
+<h2><b>Pon a prueba lo que te apasiona e intereses con estas pruebas y herramientas en línea (en su mayoría gratuitas): </b></h2>
+<p><a href="https://www.wheaton.edu/media/center-for-vocation-and-career/myStory-Full-Digital-Workbook.pdf"><span style="font-weight: 400;">https://www.wheaton.edu/media/center-for-vocation-and-career/myStory-Full-Digital-Workbook.pdf</span></a></p>
+<p><a href="https://www.princetonreview.com/quiz/career-quiz"><span style="font-weight: 400;">https://www.princetonreview.com/quiz/career-quiz</span></a></p>
+<p><a href="https://www.truity.com/view/tests/personality-career"><span style="font-weight: 400;">https://www.truity.com/view/tests/personality-career</span></a><span style="font-weight: 400;">&nbsp;&nbsp;</span></p>
+<p><a href="https://career.missouri.edu/career-interest-game/"><span style="font-weight: 400;">https://career.missouri.edu/career-interest-game/</span></a></p>
+<p><a href="http://eparachute.com/para19/"><span style="font-weight: 400;">http://eparachute.com/para19/</span></a></p>
+<p><span style="font-weight: 400;">*****************************************</span></p>
+<div className="quote">
+<h3><b><i>&ldquo;</i></b><span style="font-weight: 400;">Si estás tratando de discernir tu vocación, la pregunta correcta no es ¿en qué soy bueno? Son las preguntas más difíciles: ¿qué estoy motivado a hacer? ¿Qué actividad amo tanto que voy a seguir mejorando en las próximas décadas? ¿Qué deseo tanto que me captura en la profundidad de mi ser? ... El terreno crucial que debe explorarse en cualquier búsqueda vocacional es el terreno de tu corazón y alma, tu motivación a largo plazo. El conocimiento es abundante; la motivación es escasa.&rdquo;</span></h3>
+<h3><span style="font-weight: 400;">--David Brooks, The Second Mountain</span></h3>
+</div>
+<div className="quote">
+<h3><span style="font-weight: 400;">"No hay pasión por ser pequeño al conformarse con una vida que es menos de la que uno es capaz de vivir".</span></h3>
+</div>
+<div className="quote">
+<h3><span style="font-weight: 400;">"Todos pueden superar sus circunstancias y alcanzar el éxito si están dedicados y apasionados por lo que hacen."</span></h3>
+<h3><b>--</b><span style="font-weight: 400;">Nelson Mandela</span></h3>
+</div>
+<div className="quote">
+<h3><b><i>&ldquo;</i></b><span style="font-weight: 400;">Todo trabajo que eleva a la humanidad tiene dignidad e importancia y debe llevarse a cabo con una excelencia meticulosa.&rdquo;</span></h3>
+<h3><span style="font-weight: 400;">--Martin Luther King, Jr.</span></h3>
+</div>
+<p><span style="font-weight: 400;">*****************************************</span></p>
+<h1><b>Determinar los factores más importantes.</b></h1>
+<h2><span style="font-weight: 400;">Tendemos a tomar decisiones ya sea por nuestro instinto o por nuestra lógica principal. Si nos detenemos para identificar lo que dicen estos dos lados de nuestro cerebro, podemos descubrir factores legítimos a considerar al tomar decisiones sobre la carrera.
+</span></h2>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/canyon.jpg"
+/>
+</div>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<h2><span style="font-weight: 400;">Pregúntate a ti mismo las siguientes preguntas:
+</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué te está diciendo tu cabeza?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿La información que has reunido es adecuada, precisa o relevante?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué te dice tu corazón?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿En qué dirección se inclina tu instinto?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué dice esto acerca de tus valores, lo que te apasiona, prioridades?
+</span></h3>
+</li>
+</ul>
+<h2><b>&nbsp;</b></h2>
+<h2><span style="font-weight: 400;">Si se trata de una decisión entre dos escenarios, "toma" una decisión en una dirección y vive con ella por un día.
+</span></h2>
+<ul>
+<ul>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Cómo te sientes?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Estás contento de haber tomado esa decisión?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Desearías haber tomado una decisión en la otra dirección? ¿Por qué o por qué no?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">Imagínate dentro de dos años en el futuro. Considera cómo sería tu vida si tomaras una decisión. Imagina en detalle. ¿Cómo te sentirías? ¿Qué estarías haciendo?
+</span></h3>
+</li>
+</ul>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>&nbsp;</b><span style="font-weight: 400;">Luego considera cómo sería la vida si tomaras la otra decisión. Haz las mismas preguntas. Destaca las diferencias entre los dos futuros y cuáles podrían ser mejores para ti.
+</span></h3>
+</li>
+</ul>
+<ul>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué acción planeas hacer para tomar esta decisión?
+</span></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">*****************************************</span></p>
+<h1><b>¡Evoca tu futuro “YO” viviendo lo que te apasiona!
+</b></h1>
+<h2><span style="font-weight: 400;">¿Qué futuro te imaginas en cinco años (o dos años, si eso es más fácil), eres alguien que está viviendo plenamente lo que te apasiona / intereses? Visualiza tu posible yo con gran detalle. Se lo más abierto y creativo posible. ¡Haz una lluvia de ideas!
+</span></h2>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/vista.jpg"
+/>
+</div>
+<h2><span style="font-weight: 400;">Cuando encuentre mi pasión, mi vida será ... o sabré que he encontrado mi pasión cuando ...</span></h2>
+<ul>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué estás haciendo? Describe tu día ideal.
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Donde estás trabajando?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Cómo es el ambiente de trabajo?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Con quién estás trabajando y cómo son tus relaciones?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué es satisfactorio sobre tu trabajo? ¿Qué te emociona más? ¿de que estas mas orgulloso?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué te parece ir a trabajar un lunes por la mañana?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Cómo te sientes cuando le cuentas a la gente lo que haces?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué piensa tu familia sobre tu nuevo trabajo?
+</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Cuál es la única cosa que es más diferente de tu yo actual?
+</span></h3>
+</li>
+</ul>
+<h4><b>**********************************************</b></h4>
+<div className="quote">
+<h3><b><i>&ldquo;</i></b><span style="font-weight: 400;">Cuando gires a la izquierda en el camino de la seguridad en lugar del camino del deseo, la imagen de la encrucijada puede perseguirte en momentos de descontento y desilusión..&rdquo;</span></h3>
+<h3><span style="font-weight: 400;">--Marti Konstant, Activate your Agile Career</span></h3>
+</div>
+<p><span style="font-weight: 400;">*****************************************</span></p>
+<h1><b>Explora lo que es más importante para ti</b></h1>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/lamps.jpg"
+/>
+</div>
+<ol>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">¿A quién admirabas cuando eras pequeño?</span></h2>
+</li>
+<ol>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">Nombra tres modelos a seguir.</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué es lo que admirabas de ellos? ¿Cuál fue su "misión" que encontraste inspirador?</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Cómo te ves similar o diferente de tus modelos a seguir? </span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué valores has extraído de estos modelos a seguir y cómo se han manifestado en tu vida o trayectoria profesional hasta ahora?</span></h3>
+</li>
+</ol>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">¿Cuáles son tus primeros recuerdos de la infancia? ¿Hay algunos vínculos entre esas historias y lo que te apasiona e intereses actuales?</span></h2>
+</li>
+<ol>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">Cuando eras más joven, ¿qué querías ser?</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué te gustaba hacer o aprender?</span></h3>
+</li>
+</ol>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">¿Qué revista, sitios de internet o espectáculos lees o ves regularmente? Cuando vas a una librería, ¿Qué sección te atrae más? ¿Qué dicen estas opciones sobre sus intereses profesionales?</span></h2>
+</li>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">¿Cuál es tu historia favorita de un libro o película? ¿Quiénes son los personajes clave y cuáles son sus motivaciones? ¿Cómo se relaciona esta historia con su situación actual? ¿Cómo sería para ti adoptar el mismo tipo de estrategias que estos personajes?</span></h2>
+</li>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">Enumera las 10 cosas principales que te interesan o disfrutas hacer.</span></h2>
+</li>
+<ol>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">Haz una lista de todas las razones que tienes por lo que estás interesado en cada una de estas 10 cosas.</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">Analiza estos motivos e identifica cuatro o cinco temas generales.</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué dicen estos temas sobre lo que te apasiona e intereses?</span></h3>
+</li>
+</ol>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">¿Cómo defines "trabajo significativo"? ¿Un trabajo que sea agradable? ¿Interesante? ¿De qué manera este trabajo cae en estas categorías?</span></h2>
+</li>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">Si solo te quedaran cinco años de vida, ¿qué pasarías haciendo esos cinco años?</span></h2>
+</li>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">Si tuvieras todo el dinero del mundo (y el gasto no fuera un obstáculo), ¿qué harías con ese dinero? ¿Con esa libertad de tiempo? ¿A dónde viajarías y qué harías allí y por qué? ¿Qué estudiarías? En estas preguntas, recuerda que Dios no está limitado por las finanzas.</span></h2>
+</li>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">Te sientes satisfecho cuando ayudas a las personas con….</span></h2>
+</li>
+<li style="font-weight: 400;" aria-level="2">
+<h2><span style="font-weight: 400;">Si apoyaras una "causa" en el mundo …</span></h2>
+</li>
+<ol>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué hace llorar a tu corazón? ¿Qué es lo que realmente deseas cambiar en el mundo o en tu comunidad local? ¿Qué impacto te gustaría tener?</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">Si tuvieras todo el dinero que necesitas, ayudarías a las personas con…</span></h3>
+</li>
+<li style="font-weight: 400;" aria-level="3">
+<h3><span style="font-weight: 400;">¿Qué papel te gustaría jugar para hacer estos cambios en el mundo o en tu comunidad?</span></h3>
+</li>
+</ol>
+</ol>
+<p><span style="font-weight: 400;">***********************************</span></p>
+<div className="quote">
+<h3><b><i>&ldquo;</i></b><span style="font-weight: 400;">La pregunta más persistente y urgente de la vida es: '¿Qué estás haciendo por los demás?</span></h3>
+<h3><span style="font-weight: 400;">--Martin Luther King, Jr.</span></h3>
+</div>
+<p></p>

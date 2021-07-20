@@ -23,19 +23,79 @@ const SecondPage = () => (
 <div class="languages"></div>
 
     <div class="content">
-<div><ul><li><Link to="/ht/">test</Link></li><li><Link to="/ht/personal_well_being">test</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><li><Link to="/ht/personal_agency/">test</Link></li><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">test</Link></li><li><Link to="/ht/personal_well_being">test</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li>test</li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
-
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
-
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/canyon2.jpg"
+/>
+</div>
+<h2>If you&rsquo;re debating whether to move ahead in pursuit of a particular career or area of interest:&nbsp;</h2>
+<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<ul>
+<li aria-level="3">
+<h3>Build your network of mentors and people working in your field of interest. They may include an acquaintance&nbsp;who is&nbsp;more experienced in the field, a younger person who is more familiar with current trends, a peer group where you can freely share challenges and accomplishments, knowledge specialists. Developing mentoring relationships is a life-long process, because it&rsquo;s these connections that will often help you make more connections!&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Develop a set of questions that you need to have answered.&nbsp;Shape your questions based on your own career values you have already identified (previous tab on this site). And remember, this isn&rsquo;t a job interview.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>What do they like about their work?&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>What possibilities lie in that area of work?&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>What would they recommend if you decide to pursue that area:&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Additional education?&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Volunteering experience?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Develop a list of people who might be able to give you input into those questions. Do you know anyone who is already working in that career? Contact them for additional information.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Crowdsource feedback to&nbsp;your questions on social platforms such as Quora, Facebook, LinkedIn, Slack, etc.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Conduct interviews with people who are already in that career area, or people you admire.&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Arrange a day of &ldquo;shadowing&rdquo; with someone who is in the career in question.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Create a &ldquo;<a target="_blank" rel="noreferrer" href="http://www.couragerenewal.org/PDFs/Parker-Palmer_Clearness-Committee.pdf">clearness committee</a>&rdquo; or &ldquo;personal advisory board&rdquo; of friends who are willing to meet with you periodically, to advise you and help you assess your options. This may include peers, younger workers, senior leaders, or thought leaders in your area of career interest.</h3>
+</li>
+</ul>
+<p></p>
+<p></p>
 
 
 <Link className="back_link" to="/ht/personal_agency/mentor">Back to: test</Link><Link className="next_link" to="/ht/personal_agency/education">Next page: test</Link>

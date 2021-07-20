@@ -20,14 +20,6 @@ languages_order = [
         'en', 'fr', 'es', 'ht', 'pt'
     ]
 
-pages_order = [
-        'index',
-        'personal_well_being',
-        'who_am_i/index',
-        'personal_agency/index',
-        'references',
-    ]
-
 images_lookup = {
         'index': 'paths3.jpg',
         'who_am_i/passion_and_interests': 'inventory.jpg',
@@ -67,7 +59,7 @@ page_titles_lookup = {
             },
         'personal_well_being': {
             'en': 'Step 1:<br></br>Take Care Of Yourself',
-            'fr': 'test',
+            'fr': 'Étape 1:<br></br>Prenez Soin de Vous',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
@@ -88,7 +80,7 @@ page_titles_lookup = {
             },
         'personal_agency/index': {
             'en': 'Step 3:<br></br>Take Charge',
-            'fr': 'test',
+            'fr': 'Étape 3:<br></br>Prenez les choses en main',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
@@ -102,7 +94,7 @@ page_titles_lookup = {
             },
         'who_am_i/index':{
             'en': 'Step 2:<br></br>Know Who You Are',
-            'fr': 'Step 2:<br></br>Sachez qui vous êtes',
+            'fr': 'Étape 2:<br></br>Sachez qui vous êtes',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
@@ -110,70 +102,70 @@ page_titles_lookup = {
 
         'personal_agency/business': {
             'en': 'Consider Starting your own Business or Service',
-            'fr': 'test',
+            'fr': 'Envisagez de créer votre propre entreprise ou service',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/goals': {
             'en': 'Develop Life and Career Goals',
-            'fr': 'test',
+            'fr': 'Développez des objectifs de vie et de carrière',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/research': {
             'en': 'Do the Research',
-            'fr': 'test',
+            'fr': 'Faites la recherche!',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/online': {
             'en': 'Create a Viable Online Presence',
-            'fr': 'test',
+            'fr': 'Créez une présence en ligne viable',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/parallel': {
             'en': 'Parallel Pursuits',
-            'fr': 'test',
+            'fr': 'Poursuites parallèles',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/interview': {
             'en': 'Prepare for your Job Interview',
-            'fr': 'test',
+            'fr': 'Préparez votre entretien d\'embauche',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/education': {
             'en': 'Pursue your Education',
-            'fr': 'test',
+            'fr': 'Poursuivez vos études',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/mentor': {
             'en': 'Seek a Mentor',
-            'fr': 'test',
+            'fr': 'Cherchez un mentor',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/transactions': {
             'en': 'Transactions most likely to get me a job in the quickest amount of time',
-            'fr': 'test',
+            'fr': 'Scénarios les plus efficaces pour obtenir le poste',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/volunteer': {
             'en': 'Volunteer!',
-            'fr': 'test',
+            'fr': 'Bénévole!',
             'es': 'test',
             'ht': 'test',
             'pt': 'test',
@@ -203,7 +195,7 @@ page_order = [
 
 back_next_language = {
         'en': ('Back to:', 'Next page:'),
-        'fr': ('Back to:', 'Next page:'),
+        'fr': ('Retour à:', 'Page suivante:'),
         'pt': ('Back to:', 'Next page:'),
         'ht': ('Back to:', 'Next page:'),
         'es': ('Back to:', 'Next page:'),
@@ -226,7 +218,11 @@ def generate_language_links(curr_language, slug):
 
 def generate_page_links(language, slug):
     page_links = '<ul>'
-    for page in pages_order:
+    subpages = False
+    for page in page_order:
+        if subpages and subpages not in page:
+            subpages = False
+            page_links += '</ul>'
         if page == slug:
             page_links += '<li>' + page_titles_lookup[page][language].replace('<br></br>',' ') + '</li>'
         else:
@@ -235,6 +231,11 @@ def generate_page_links(language, slug):
             else:
                 link = language + '/' + page
             page_links += '<li><Link to="/' + link.replace('index','') + '">' + page_titles_lookup[page][language].replace('<br></br>',' ') + '</Link></li>'
+
+        if page != 'index' and 'index' in page:
+            subpages = page.replace('index','')
+            page_links += '<ul>'
+
     page_links += '</ul>'
     return page_links
 
@@ -276,7 +277,8 @@ for filename in files:
     language = filename[10:12]
     slug = filename[13:]
 
-    f = open(filename, 'r', encoding='ISO-8859-1')
+    f = open(filename, 'r')
+#    f = open(filename, 'r', encoding='ISO-8859-1')
     text = f.read()
     f.close()
 

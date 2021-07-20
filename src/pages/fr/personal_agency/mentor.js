@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="fr"
   >
     <Seo
-      title="test"
+      title="Cherchez un mentor"
       defaultTitle="Outils d'Appel"
       lang="fr"
     />
@@ -23,22 +23,66 @@ const SecondPage = () => (
 <div class="languages"></div>
 
     <div class="content">
-<div><ul><li><Link to="/fr/">Qu'est-ce que l'appel?</Link></li><li><Link to="/fr/personal_well_being">test</Link></li><li><Link to="/fr/who_am_i/">Step 2: Sachez qui vous êtes</Link></li><li><Link to="/fr/personal_agency/">test</Link></li><li><Link to="/fr/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/fr/">Qu'est-ce que l'appel?</Link></li><li><Link to="/fr/personal_well_being">Étape 1: Prenez Soin de Vous</Link></li><li><Link to="/fr/who_am_i/">Étape 2: Sachez qui vous êtes</Link></li><ul><li><Link to="/fr/who_am_i/values">Explorez vos valeurs familiales envers le travail</Link></li><li><Link to="/fr/who_am_i/know_your_talents">Découvrez ce qui est le plus important pour vous</Link></li><li><Link to="/fr/who_am_i/passion_and_interests">Passions et Intérêts</Link></li></ul><li><Link to="/fr/personal_agency/">Étape 3: Prenez les choses en main</Link></li><ul><li><Link to="/fr/personal_agency/goals">Développez des objectifs de vie et de carrière</Link></li><li>Cherchez un mentor</li><li><Link to="/fr/personal_agency/research">Faites la recherche!</Link></li><li><Link to="/fr/personal_agency/education">Poursuivez vos études</Link></li><li><Link to="/fr/personal_agency/volunteer">Bénévole!</Link></li><li><Link to="/fr/personal_agency/business">Envisagez de créer votre propre entreprise ou service</Link></li><li><Link to="/fr/personal_agency/parallel">Poursuites parallèles</Link></li><li><Link to="/fr/personal_agency/transactions">Scénarios les plus efficaces pour obtenir le poste</Link></li><li><Link to="/fr/personal_agency/online">Créez une présence en ligne viable</Link></li><li><Link to="/fr/personal_agency/interview">Préparez votre entretien d'embauche</Link></li></ul><li><Link to="/fr/references">test</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Cherchez un mentor</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/hana.jpg"
+/>
+</div>
+<h2>Un mentor est un conseiller ou un guide de confiance. Un mentor peut partager avec un mentoré (ou un protégé) des informations sur son propre parcours professionnel, ainsi que fournir des conseils, de la motivation, du soutien émotionnel et des modèles de rôle. Un mentor peut aider à explorer des carrières, à fixer des objectifs, à développer des contacts et à identifier des ressources.</h2>
+<h3>Un bon mentor possède les qualités suivantes:</h3>
+<ul>
+<li aria-level="3">
+<h3>Volonté de partager les compétences, les connaissances et l'expertise. ...</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Démontre une attitude positive et agit comme un modèle positif. ...</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>S'intéresse personnellement à la relation de mentorat. ...</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Fait preuve d'enthousiasme sur le terrain. ...</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Valorise l'apprentissage et la croissance continus dans le domaine.</h3>
+</li>
+</ul>
+<h3>Avantages d'avoir un mentor:</h3>
+<ol>
+<li>
+<h3>Conseil:&nbsp;Le plus grand avantage d'avoir un mentor est d'avoir quelqu'un à qui vous pouvez poser des questions et obtenir des conseils. Les mentors peuvent partager une grande sagesse et connaissance sur les meilleures pratiques sur le lieu de travail, les protocoles et les comportements appropriés.</h3>
+</li><li>
+<h3>Mise en réseau&nbsp;L'établissement d'une relation avec un mentor ouvre des portes à d'autres groupes. Cela vous donnera l'occasion d'obtenir des connexions personnelles avec les contacts de votre mentor, qui ont peut-être mis à votre mentor des années à s’établir.</h3>
+</li><li>
+<h3>Encouragement: Vous pourriez décrire un mentor comme une pom-pom girl professionnel pour votre carrière. Il est probable que votre mentor ait connu des réussites et des défis similaires que vous rencontrerez au début de votre carrière. En partageant la façon dont ils ont surmonté leurs difficultés, les mentors peuvent vous encourager à atteindre la ligne d'arrivée et à poursuivre vos objectifs.</h3>
+</li><li>
+<h3>Perspective:&nbsp;&nbsp;Grâce à leurs expériences diverses, les mentors peuvent offrir une perspective et une vision différentes de la vôtre. Ils poseront des questions qui ne vous viendront peut-être pas à l'esprit, mais qui sont tout aussi importantes pour résoudre un problème ou planifier votre carrière.</h3>
+</li><li>
+<h3>Réduction du sentiment d’isolement:&nbsp;Le fait d'avoir quelqu'un en dehors de votre environnement de travail direct à qui vous pouvez poser des questions, échanger des idées et vous confier, va aider à créer un sentiment de partenariat entre pairs qui n'est pas toujours disponible sur votre lieu de travail.</h3>
+</li><li>
+<h3>Responsabilité:&nbsp;Un bon mentor vous fournira un retour d’information honnête et vous tiendra responsable de vos objectifs de carrière.</h3>
+</li><li>
+<h3>Planification de carrière:&nbsp;&nbsp;En tant que mentoré, vous pouvez vous asseoir avec votre mentor pour fixer des objectifs à long terme et planifier stratégiquement les prochaines étapes pour atteindre vos objectifs de carrière.</h3>
+</li><li>
+<h3>Confiance et développement des talents:&nbsp;&nbsp;un mentor qui possède une expertise dans votre domaine sera en mesure d'identifier vos forces et vos talents et de vous proposer des moyens de les développer et de vous épanouir professionnellement. Vous aurez ainsi la garantie de renforcer votre confiance et vos performances professionnelles!</h3>
+</li>
+</ol>
+<p></p>
 
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
 
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
-
-
-<Link className="back_link" to="/fr/personal_agency/goals">Back to: test</Link><Link className="next_link" to="/fr/personal_agency/research">Next page: test</Link>
+<Link className="back_link" to="/fr/personal_agency/goals">Retour à: Développez des objectifs de vie et de carrière</Link><Link className="next_link" to="/fr/personal_agency/research">Page suivante: Faites la recherche!</Link>
     </div>
 
 

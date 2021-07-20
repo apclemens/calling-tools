@@ -23,19 +23,127 @@ const SecondPage = () => (
 <div class="languages"></div>
 
     <div class="content">
-<div><ul><li><Link to="/es/">test</Link></li><li><Link to="/es/personal_well_being">test</Link></li><li><Link to="/es/who_am_i/">test</Link></li><li><Link to="/es/personal_agency/">test</Link></li><li><Link to="/es/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/es/">test</Link></li><li><Link to="/es/personal_well_being">test</Link></li><li><Link to="/es/who_am_i/">test</Link></li><ul><li><Link to="/es/who_am_i/values">test</Link></li><li><Link to="/es/who_am_i/know_your_talents">test</Link></li><li><Link to="/es/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/es/personal_agency/">test</Link></li><ul><li>test</li><li><Link to="/es/personal_agency/mentor">test</Link></li><li><Link to="/es/personal_agency/research">test</Link></li><li><Link to="/es/personal_agency/education">test</Link></li><li><Link to="/es/personal_agency/volunteer">test</Link></li><li><Link to="/es/personal_agency/business">test</Link></li><li><Link to="/es/personal_agency/parallel">test</Link></li><li><Link to="/es/personal_agency/transactions">test</Link></li><li><Link to="/es/personal_agency/online">test</Link></li><li><Link to="/es/personal_agency/interview">test</Link></li></ul><li><Link to="/es/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
-
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
-
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/church.jpg"
+/>
+</div>
+<h2>Decide qué es lo que más quieres y establece metas para convertir tus sueños en realidad. Planifica tus objetivos por completo.
+</h2>
+<ul>
+<li aria-level="3">
+<h3>Escribe las áreas principales de tu vida como encabezados, cada una en una página separada. A continuación, se muestran algunas áreas de ejemplo:</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Aventuras / Viajes</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>carrera</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>comunidad</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Educación / estudio / desarrollo profesional</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Familia / matrimonio</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>finanzas</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Amigos / Relaciones</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Salud / Fitness / Deportes</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Ayudando a otros / Filantropía / Servicio</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Aficiones</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Casa</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Crecimiento personal</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>política</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Leyendo</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Jubilación</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Espiritual / Fe</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Crea objetivos medibles para cada uno, incluida una línea de tiempo.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Enumera los hitos deseados y la acción requerida.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Visita tu lista de objetivos a menudo, para administrar e implementar de manera oportuna.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Registra cualquier pista de profesión que se te ocurra durante el proceso de implementación de objetivos en todos los aspectos de su vida.</h3>
+</li>
+</ul>
+<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<div className="quote">
+<h3><i><span style={{fontWeight: 400}}>&ldquo;Una de las lecciones con las que crecí fue ser siempre fiel a ti misma y nunca dejar que lo que alguien dice te distraiga de tus objetivos.&rdquo;&nbsp;</span></i></h3>
+<h3><i><span style={{fontWeight: 400}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --Michelle Obama</span></i></h3>
+</div>
 
 
 <Link className="back_link" to="/es/personal_agency/">Back to: test</Link><Link className="next_link" to="/es/personal_agency/mentor">Next page: test</Link>

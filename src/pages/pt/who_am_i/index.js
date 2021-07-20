@@ -23,19 +23,153 @@ const SecondPage = () => (
 <div class="languages"></div>
 
     <div class="content">
-<div><ul><li><Link to="/pt/">test</Link></li><li><Link to="/pt/personal_well_being">test</Link></li><li>test</li><li><Link to="/pt/personal_agency/">test</Link></li><li><Link to="/pt/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/pt/">test</Link></li><li><Link to="/pt/personal_well_being">test</Link></li><li>test</li><ul><li><Link to="/pt/who_am_i/values">test</Link></li><li><Link to="/pt/who_am_i/know_your_talents">test</Link></li><li><Link to="/pt/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/pt/personal_agency/">test</Link></li><ul><li><Link to="/pt/personal_agency/goals">test</Link></li><li><Link to="/pt/personal_agency/mentor">test</Link></li><li><Link to="/pt/personal_agency/research">test</Link></li><li><Link to="/pt/personal_agency/education">test</Link></li><li><Link to="/pt/personal_agency/volunteer">test</Link></li><li><Link to="/pt/personal_agency/business">test</Link></li><li><Link to="/pt/personal_agency/parallel">test</Link></li><li><Link to="/pt/personal_agency/transactions">test</Link></li><li><Link to="/pt/personal_agency/online">test</Link></li><li><Link to="/pt/personal_agency/interview">test</Link></li></ul><li><Link to="/pt/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/hills.jpg"
+/>
+</div>
+<h2>Having a well developed understanding of yourself, knowing who you are and where you came from, provides a stronger foundation for a meaningful vocation in life.</h2>
+<h3><span style={{fontWeight: 400}}>
+<Link to="/pt/who_am_i/values">
+Tools to explore your values in work and life
+</Link>
+</span></h3>
 
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
+<h3><span style={{fontWeight: 400}}>
+<Link to="/pt/who_am_i/know_your_talents">
+Tools to explore your gifts and talents
+</Link>
+</span></h3>
 
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<h3><span style={{fontWeight: 400}}>
+<Link to="/pt/who_am_i/passion_and_interests">
+Tools to explore your passions and interests
+</Link>
+</span></h3>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<div className="quote">
+<h3><i>&ldquo;Get to know yourself thoroughly. Inquire into every aspect of your nature and personality. Even if you know yourself well, find ways to observe your past and present from new viewpoints, especially those that provide tangible, realistic, and practical clues about the best fit between you and the working world...Your [ideal] work fully expresses all aspects of your nature. It fits your innate talents perfectly. It expresses your temperament and personality fully, even those parts that you do not see as positive. It provides the rewards that matter to you. It fulfills your goals. It occurs in an environment that is suitable and appropriate to who you are.&rdquo;&nbsp;</i></h3>
+<h3><i>&#8212; Nicholas Lore, The Pathfinder</i></h3>
+</div>
+<div className="quote">
+<h3><i>&ldquo;One of the most courageous things you can do is identify yourself, know who you are, what you believe in and where you want to go.&rdquo;</i></h3>
+<h3><i>&#8212; Sheila Murray Bethel</i></h3>
+</div>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<h1><i>Career Genogram to explore your family values toward work</i></h1>
+<div classname="image" style={{width: "50%", float: "right"}}>
+<StaticImage
+  src="../../../images/II8A5084.JPG"
+/>
+</div>
+<h2>One way to understand ourselves and how we interact with work is to explore our family system, and recognize how each family member has influenced us in life. It&rsquo;s also important to acknowledge our own cultural approaches, and what our particular culture says about the value we place on our family of origin.</h2>
+<h3>To explore your family of origin&rsquo;s values and attitudes to work, levels of job satisfaction, what career success looks like, and gender issues, draw a family tree of careers, jobs or education of your grandparents, parents and siblings. What themes and patterns do you see and how might these have affected your career values?</h3>
+<h3>Questions for reflection:</h3>
+<ul>
+<li aria-level="3">
+<h3>What kind of work in your family was seen as women&rsquo;s/men&rsquo;s work?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>What jobs were admired or scorned by members of your family?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>What are your family&rsquo;s attitudes about fun or leisure?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>About money/spending/saving?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>How does your family define success/failure? Who was successful/a failure and why?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>To whom in your family are you most similar and how?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Who would you like to be like and why?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>In what ways are you similar to your family?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Different?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>How would you LIKE to be similar?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Different?</h3>
+</li>
+</ul>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<h1><i>How does my personality fit my work setting?</i></h1>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../images/dance.jpg"
+/>
+</div>
+<h2>To help you assess why certain work settings do or do not work well for your personality, ask these questions of your personal preferences:</h2>
+<ul>
+<li aria-level="3">
+<h3>Do I enjoy using my imagination, or do I prefer dealing with practicalities?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Am I concerned with the feelings of others around me above all, or is getting the task done more important to me?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Do I enjoy planning ahead, or do I prefer spontaneity?</h3>
+</li>
+</ul>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<h1><i>Appreciate your strengths</i></h1>
+<div className="image" style={{width: "27%",float: "right"}}>
+<StaticImage
+  src="../../../images/rugs.jpg"
+/>
+</div>
+<h2>Recall a time when you were &ldquo;in your element&rdquo; whether that be a work, church, family or other setting.</h2>
+<h3>Test your personality/career fit with these online tests:<br /><a target="_blank" rel="noreferrer" href="https://www.truity.com/view/tests/personality-career">https://www.truity.com/view/tests/personality-career<br /></a><a target="_blank" rel="noreferrer" href="https://deweycolorsystem.com/tests/">https://deweycolorsystem.com/tests/<br /></a><a target="_blank" rel="noreferrer" href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171">https://www.thebalancecareers.com/personality-type-and-career-choice-526171<br /></a><a target="_blank" rel="noreferrer" href="https://www.enneagraminstitute.com/">https://www.enneagraminstitute.com/</a></h3>
+<ul>
+<li aria-level="3">
+<h2>Do you thrive on interaction with others, or prefer to work alone?</h2>
+</li>
+<li aria-level="2">
+<h2>What did you do well?</h2>
+</li>
+<li aria-level="2">
+<h2>What is it about you that made you do well in that setting?</h2>
+</li>
+<li aria-level="2">
+<h2>What does that situation say about your strengths that would be transferable to a work setting?</h2>
+</li>
+</ul>
 
 
 <Link className="back_link" to="/pt/personal_well_being">Back to: test</Link><Link className="next_link" to="/pt/who_am_i/values">Next page: test</Link>

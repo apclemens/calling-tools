@@ -1,9 +1,141 @@
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/hills.jpg"
+/>
+</div>
+<h2><b>Tener una comprensión bien desarrollada de ti mismo, saber quién eres y de dónde vienes, proporciona una base más sólida para una vocación significativa en la vida.</b></h2>
+<h3><span style="font-weight: 400;">
+<Link to="/LANGUAGE/who_am_i/values">
+Tools to explore your values in work and life
+</Link>
+</span></h3>
 
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
+<h3><span style="font-weight: 400;">
+<Link to="/LANGUAGE/who_am_i/know_your_talents">
+Tools to explore your gifts and talents
+</Link>
+</span></h3>
 
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<h3><span style="font-weight: 400;">
+<Link to="/LANGUAGE/who_am_i/passion_and_interests">
+Tools to explore your passions and interests
+</Link>
+</span></h3>
+<h3><b>***********************************</b></h3>
+<div className="quote">
+<h3><b><i>&ldquo;Conócete a ti mismo a fondo. Indaga en cada aspecto de tu naturaleza y personalidad. Incluso si te conoces bien, encuentra formas de observar tu pasado y presente desde nuevos puntos de vista, especialmente aquellos que brinden pistas tangibles, realistas y prácticas sobre la mejor combinación entre tú y el mundo laboral ... Tu trabajo [ideal] expresa plenamente todos los aspectos de tu naturaleza. Se adapta perfectamente a tus talentos innatos. Expresa tu temperamento y personalidad por completo, incluso aquellas partes que no ves como positivas. Proporciona las recompensas que te importan. Cumple tus objetivos. Este ocurre en un entorno adecuado y apropiado para quien eres.&rdquo;&nbsp;</i></b></h3>
+<h3><b><i>&#8212; Nicholas Lore, The Pathfinder</i></b></h3>
+</div>
+<div className="quote">
+<h3><b><i>&ldquo;Una de las cosas más valientes que puedes hacer es identificarte, saber quién es, en qué crees y adónde quieres ir.&rdquo;</i></b></h3>
+<h3><b><i>&#8212; Sheila Murray Bethel</i></b></h3>
+</div>
+<h3><b>***********************************</b></h3>
+<h1><b><i>Explora los valores de tu familia hacia el trabajo</i></b></h1>
+<div classname="image" style={{width: "50%", float: "right"}}>
+<StaticImage
+  src="../../../images/II8A5084.JPG"
+/>
+</div>
+<h2><b>Una forma de entendernos a nosotros mismos y cómo interactuamos con el trabajo es explorar nuestro sistema familiar y reconocer cómo cada miembro de la familia nos ha influido en la vida. También es importante reconocer nuestros propios enfoques culturales y lo que nuestra cultura particular dice sobre el valor que le damos a nuestra familia de origen.</b></h2>
+<h3><b>Para explorar los valores y actitudes de tu familia de origen hacia el trabajo, los niveles de satisfacción laboral, las opiniones sobre el éxito profesional y las cuestiones de género, dibuja un árbol genealógico de carreras, trabajos o educación de tus abuelos, padres y hermanos. ¿Qué temas y patrones ves y cómo podrían haber afectado tus valores profesionales?</b></h3>
+<h3><b>Preguntas para la reflexión:</b></h3>
+<ul>
+<li aria-level="3">
+<h3><b>¿Qué tipo de trabajo en tu familia fue visto como trabajo de mujeres / hombres?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿Qué trabajos fueron admirados o despreciados por los miembros de tu familia?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿Cuáles son las actitudes de tu familia sobre la diversión o el ocio?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿Sobre dinero / gasto / ahorro?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Cómo define tu familia el éxito / el fracaso? ¿Quién fue un éxito / fracaso y por qué?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿Con quién en tu familia eres más parecido y cómo?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿Quién te gustaría ser y por qué?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿De qué manera eres similar a tu familia?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿Diferente?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿Cómo te gustaría ser similar?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>¿Cómo te gustaría ser diferente?</b></h3>
+</li>
+</ul>
+<h3><b>***********************************</b></h3>
+<h1><b><i>¿Cómo se adapta mi personalidad a mi entorno laboral?</i></b></h1>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../images/dance.jpg"
+/>
+</div>
+<h2><b>Para ayudarte a evaluar por qué ciertos entornos de trabajo funcionan bien o no para tu personalidad, recuerda un momento en el que estabas "en tu elemento"(siendo tu), ya sea un trabajo, iglesia, familia u otro entorno, y hazte estas preguntas:</b></h2>
+<ul>
+<li aria-level="3">
+<h3><b>¿Qué hice bien en el entorno donde prosperé?</b></h3>
+</li>
+<li aria-level="3">
+<h3><b>¿Qué tiene mi personalidad que me ayudó a hacerlo bien en ese entorno?</b></h3>
+</li>
+<li aria-level="3">
+<h3><b>¿Qué dice esa situación "próspera" sobre las fortalezas de mi personalidad que serían transferibles al entorno laboral?
+</b></h3>
+</li>
+<li aria-level="3">
+<h3><b>¿Prospero en la interacción con otros, o prefiero trabajar solo?
+</b></h3>
+</li>
+<li aria-level="3">
+<h3><b>¿Me gusta usar mi imaginación o prefiero tratar con aspectos prácticos?
+</b></h3>
+</li>
+<li aria-level="3">
+<h3><b>¿Estoy preocupado sobre todo por los sentimientos de los que me rodean o hacer que la tarea sea más importante para mí?
+</b></h3>
+</li>
+<li aria-level="3">
+<h3><b>¿Me gusta planificar con anticipación o prefiero la espontaneidad?
+</b></h3>
+</li>
+</ul>
+<h3>Pon a prueba tu personalidad / carrera con estas pruebas en línea (en su mayoría gratis)
+</h3>
+<ul>
+<li><a href="https://www.truity.com/view/tests/personality-career">https://www.truity.com/view/tests/personality-career</a></li>
+<li><a href="https://deweycolorsystem.com/tests/">https://deweycolorsystem.com/tests/</a></li>
+<li><a href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171">https://www.thebalancecareers.com/personality-type-and-career-choice-526171</a></li>
+<li><a href="https://www.enneagraminstitute.com/">https://www.enneagraminstitute.com/</a></li>
+</ul>

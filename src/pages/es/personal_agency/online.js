@@ -23,19 +23,59 @@ const SecondPage = () => (
 <div class="languages"></div>
 
     <div class="content">
-<div><ul><li><Link to="/es/">test</Link></li><li><Link to="/es/personal_well_being">test</Link></li><li><Link to="/es/who_am_i/">test</Link></li><li><Link to="/es/personal_agency/">test</Link></li><li><Link to="/es/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/es/">test</Link></li><li><Link to="/es/personal_well_being">test</Link></li><li><Link to="/es/who_am_i/">test</Link></li><ul><li><Link to="/es/who_am_i/values">test</Link></li><li><Link to="/es/who_am_i/know_your_talents">test</Link></li><li><Link to="/es/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/es/personal_agency/">test</Link></li><ul><li><Link to="/es/personal_agency/goals">test</Link></li><li><Link to="/es/personal_agency/mentor">test</Link></li><li><Link to="/es/personal_agency/research">test</Link></li><li><Link to="/es/personal_agency/education">test</Link></li><li><Link to="/es/personal_agency/volunteer">test</Link></li><li><Link to="/es/personal_agency/business">test</Link></li><li><Link to="/es/personal_agency/parallel">test</Link></li><li><Link to="/es/personal_agency/transactions">test</Link></li><li>test</li><li><Link to="/es/personal_agency/interview">test</Link></li></ul><li><Link to="/es/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
-
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
-
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/rocks.jpg"
+/>
+</div>
+<h1>¡Tu currículum ya está disponible!
+</h1>
+<h2><i>Los gerentes de contratación te buscarán en línea. Construir un perfil positivo y profesionalmente atractivo en línea obtendrá la atención que necesitas para perseguir tu llamado/vocación. Algunas ideas para considerar:
+</i></h2>
+<ul>
+<li>
+<h3><i>Cuando prepares el contenido para internet, hazte las siguientes preguntas: ¿Quién eres tú? ¿Qué te hace especial? ¿Por qué debería importarle a alguien?
+</i></h3>
+</li><li>
+<h3>Asegúrate de que todos tus perfiles en línea se presenten de manera que causen una impresión positiva en un posible empleador. Ponte en el lugar del empleador: ¿Tu imagen en línea muestra el tipo de personaje que les gustaría para trabajar en su organización?
+</h3>
+</li><li>
+<h3>Crea una foto profesional para usar en todas las plataformas digitales.
+</h3>
+</li><li>
+<h3>Inicia un blog personal para compartir tus ideas y experiencias que se pueden difundir a través de Facebook, Twitter, LinkedIn, etc. El contenido personal también se puede almacenar en Brandyourself.com y About.me.
+</h3>
+</li><li>
+<h3>Inicia un sitio web para promocionar tu trabajo como artista, fotógrafo, etc.
+</h3>
+</li><li>
+<h3>Desarrolle tu plataforma profesional en LinkdIn, que puede brindarte muchas conexiones, como "personas puente" para presentarte una empresa o una red. Asegúrate de que tu perfil esté actualizado y es claro y específico sobre el tipo de trabajo que estás buscando.
+</h3>
+</li><li>
+<h3>Incluya referencia a tus perfiles en línea en tu currículum.
+</h3>
+</li>
+</ul>
+<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<h3>Crea un currículum y una carta de presentación que atraerán la atención con estas útiles plantillas.
+</h3>
+<h3>&nbsp;</h3>
+<h3>Publica tu currículum en los sitios de trabajo más utilizados (si vives en los EE. UU. O Canadá), ¡y podrás recibir algunas respuestas! Recuerda utilizar palabras clave que identifiquen el tipo de trabajo que estás buscando, que probablemente corresponderá a las empresas que buscan tu tipo de habilidades e intereses.
+</h3>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Indeed.com</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Livecareer.com</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Ziprecruiter.com</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Idealist.org</span></p>
+<p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Readyjob.org</span></p>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<div className="quote">
+<h3><i>"La huella digital es la primera impresión entre los candidatos para el trabajo y las personas que trabajan en la empresa. El contenido 24/7 sirve como preludio del primer apretón de manos o contacto visual directo en la cartera de reclutamiento de talentos."&nbsp;</i></h3>
+<h3><i>--Marti Konstant, </i><i>activa tu carrera ágil</i></h3>
+</div>
 
 
 <Link className="back_link" to="/es/personal_agency/transactions">Back to: test</Link><Link className="next_link" to="/es/personal_agency/interview">Next page: test</Link>

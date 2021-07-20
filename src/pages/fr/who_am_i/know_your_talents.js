@@ -23,22 +23,34 @@ const SecondPage = () => (
 <div class="languages"></div>
 
     <div class="content">
-<div><ul><li><Link to="/fr/">Qu'est-ce que l'appel?</Link></li><li><Link to="/fr/personal_well_being">test</Link></li><li><Link to="/fr/who_am_i/">Step 2: Sachez qui vous êtes</Link></li><li><Link to="/fr/personal_agency/">test</Link></li><li><Link to="/fr/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/fr/">Qu'est-ce que l'appel?</Link></li><li><Link to="/fr/personal_well_being">Étape 1: Prenez Soin de Vous</Link></li><li><Link to="/fr/who_am_i/">Étape 2: Sachez qui vous êtes</Link></li><ul><li><Link to="/fr/who_am_i/values">Explorez vos valeurs familiales envers le travail</Link></li><li>Découvrez ce qui est le plus important pour vous</li><li><Link to="/fr/who_am_i/passion_and_interests">Passions et Intérêts</Link></li></ul><li><Link to="/fr/personal_agency/">Étape 3: Prenez les choses en main</Link></li><ul><li><Link to="/fr/personal_agency/goals">Développez des objectifs de vie et de carrière</Link></li><li><Link to="/fr/personal_agency/mentor">Cherchez un mentor</Link></li><li><Link to="/fr/personal_agency/research">Faites la recherche!</Link></li><li><Link to="/fr/personal_agency/education">Poursuivez vos études</Link></li><li><Link to="/fr/personal_agency/volunteer">Bénévole!</Link></li><li><Link to="/fr/personal_agency/business">Envisagez de créer votre propre entreprise ou service</Link></li><li><Link to="/fr/personal_agency/parallel">Poursuites parallèles</Link></li><li><Link to="/fr/personal_agency/transactions">Scénarios les plus efficaces pour obtenir le poste</Link></li><li><Link to="/fr/personal_agency/online">Créez une présence en ligne viable</Link></li><li><Link to="/fr/personal_agency/interview">Préparez votre entretien d'embauche</Link></li></ul><li><Link to="/fr/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Découvrez ce qui est le plus important pour vous</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/night.jpg"
+/>
+</div>
+<h1><span style={{fontWeight: 400}}>Connaissez vos talents</span><span style={{fontWeight: 400}}><br /></span></h1>
+<h1>Dons - Une capacité ou un talent naturel.</h1>
+<h1>TalentsAptitude ou compétence naturelle.</h1>
+<h1>Forces - Une qualité bonne ou avantageuse, ou un atout d'une personne.</h1>
+<h2><span style={{fontWeight: 400}}>Connaître vos dons, vos talents et vos forces aide à identifier une meilleure adaptation pour une carrière réussie. En même temps, il est important d'être ouvert à l’évolution et à l'apprentissage dans de nouveaux domaines que nous n'avons peut-être pas encore développés, ouvrant ainsi de nouvelles perspectives.</span></h2>
+<h2>Testez vos dons avec ces outils en ligne (pour la plupart gratuits):</h2>
+<h2><a target="_blank" rel="noreferrer" href="http://www.self-directed-search.com/"><span style={{fontWeight: 400}}>http://www.self-directed-search.com/</span></a></h2>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<div className="quote">
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Le meilleur travail, la meilleure carrière, pour vous, celui qui vous rend le plus heureux et le plus épanoui, va être celui qui utilise : vos compétences transférables préférées, dans vos matières, domaines ou connaissances spéciales favoris, dans un travail qui vous offre votre environnement humain préféré, vos conditions de travail préférées, avec votre salaire préféré ou d'autres récompenses, en travaillant à la réalisation de vos objectifs et valeurs préférés.&rdquo;&nbsp;</span></h3>
+<h3><span style={{fontWeight: 400}}>&#8212; Richard N. Bolles, de quelle couleur est votre parachute?</span></h3>
+</div>
+<div className="quote">
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Nous devons croire que nous sommes doués pour quelque chose, et que cette chose, à n’importe quel prix, doit être atteinte.&rdquo;</span></h3>
+<h3><span style={{fontWeight: 400}}>&#8212; Marie Curie</span></h3>
+</div>
 
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
 
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
-
-
-<Link className="back_link" to="/fr/who_am_i/values">Back to: Explorez vos valeurs familiales envers le travail</Link><Link className="next_link" to="/fr/who_am_i/passion_and_interests">Next page: Passions et Intérêts</Link>
+<Link className="back_link" to="/fr/who_am_i/values">Retour à: Explorez vos valeurs familiales envers le travail</Link><Link className="next_link" to="/fr/who_am_i/passion_and_interests">Page suivante: Passions et Intérêts</Link>
     </div>
 
 

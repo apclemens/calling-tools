@@ -1,9 +1,53 @@
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
-
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
-
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/hana.jpg"
+/>
+</div>
+<h2><b>A mentor is a trusted counselor or guide. A&nbsp;mentor&nbsp;may share with a mentee (or protege) information about his or her own career path, as well as provide guidance, motivation, emotional support, and role modeling. A&nbsp;mentor&nbsp;may help with exploring careers, setting goals, developing contacts, and identifying resources.</b></h2>
+<h3><b>A good mentor possesses the following qualities:</b></h3>
+<ul>
+<li aria-level="3">
+<h3><b>Willingness to share skills, knowledge, and expertise. ...</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Demonstrates a positive attitude and acts as a positive role model. ...</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Takes a personal interest in the mentoring relationship. ...</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Exhibits enthusiasm in the field. ...</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Values ongoing learning and growth in the field.</b></h3>
+</li>
+</ul>
+<h3><b>Benefits of having a mentor:&nbsp;</b></h3>
+<ol>
+<li>
+<h3><b>Advice:&nbsp;The biggest benefit of having a mentor is&nbsp;</b><b>having someone you can ask questions</b><b>&nbsp;and get advice from. Mentors can share a wealth of wisdom and insight on best practices in the work place, protocols and appropriate behaviours.</b></h3>
+</li><li>
+<h3><b>Networking: Forming a relationship with a mentor&nbsp;</b><b>opens doors to other groups.&nbsp;</b><b>It will give you the opportunity to get personal introductions to your mentor&rsquo;s contacts which may have taken your mentor years to establish.</b></h3>
+</li><li>
+<h3><b>Encouragement: You could describe a mentor as a&nbsp;</b><b>professional cheerleader for your career.</b><b>&nbsp;It is likely that your mentor has experienced similar successes and challenges that you will encounter at the start of your career. By sharing how they overcame their challenges, mentors can&nbsp;</b><b>encourage you to reach the finish line</b><b>&nbsp;and to keep pursuing your goals.</b></h3>
+</li><li>
+<h3><b>Perspective:&nbsp;&nbsp;Through their diverse experiences,&nbsp;</b><b>mentors may offer a perspective and vision&nbsp;</b><b>that is different to your own.&nbsp; They will ask questions that may not occur to you, but are as critically important for solving a problem or planning your career.</b></h3>
+</li><li>
+<h3><b>Reduced feelings of isolation:&nbsp;Having someone outside of your direct working environment that you can ask questions, bounce ideas with and confide in, will help to create&nbsp;</b><b>a sense of peer partnership&nbsp;</b><b>that may not always be available in your workplace.</b></h3>
+</li><li>
+<h3><b>Accountability:&nbsp;A good mentor will provide you with honest feedback and&nbsp;</b><b>hold you accountable t</b><b>o your career goals.</b></h3>
+</li><li>
+<h3><b>Career planning:&nbsp;&nbsp;As a mentee, you can sit down with your mentor to set long term goals and&nbsp;</b><b>strategically plan out the next steps</b><b>&nbsp;to reach your career objectives.</b></h3>
+</li><li>
+<h3><b>Confidence and talent development:&nbsp;&nbsp;A mentor who has expertise in your field will be able to</b><b>&nbsp;identify your strengths and talents and offer suggestions on how you can further develop them&nbsp;</b><b>and grow professionally. This is guaranteed to boost your confidence and work performance!</b></h3>
+</li>
+</ol>
+<p></p>

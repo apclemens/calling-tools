@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="fr"
   >
     <Seo
-      title="test"
+      title="Envisagez de créer votre propre entreprise ou service"
       defaultTitle="Outils d'Appel"
       lang="fr"
     />
@@ -23,22 +23,33 @@ const SecondPage = () => (
 <div class="languages"></div>
 
     <div class="content">
-<div><ul><li><Link to="/fr/">Qu'est-ce que l'appel?</Link></li><li><Link to="/fr/personal_well_being">test</Link></li><li><Link to="/fr/who_am_i/">Step 2: Sachez qui vous êtes</Link></li><li><Link to="/fr/personal_agency/">test</Link></li><li><Link to="/fr/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/fr/">Qu'est-ce que l'appel?</Link></li><li><Link to="/fr/personal_well_being">Étape 1: Prenez Soin de Vous</Link></li><li><Link to="/fr/who_am_i/">Étape 2: Sachez qui vous êtes</Link></li><ul><li><Link to="/fr/who_am_i/values">Explorez vos valeurs familiales envers le travail</Link></li><li><Link to="/fr/who_am_i/know_your_talents">Découvrez ce qui est le plus important pour vous</Link></li><li><Link to="/fr/who_am_i/passion_and_interests">Passions et Intérêts</Link></li></ul><li><Link to="/fr/personal_agency/">Étape 3: Prenez les choses en main</Link></li><ul><li><Link to="/fr/personal_agency/goals">Développez des objectifs de vie et de carrière</Link></li><li><Link to="/fr/personal_agency/mentor">Cherchez un mentor</Link></li><li><Link to="/fr/personal_agency/research">Faites la recherche!</Link></li><li><Link to="/fr/personal_agency/education">Poursuivez vos études</Link></li><li><Link to="/fr/personal_agency/volunteer">Bénévole!</Link></li><li>Envisagez de créer votre propre entreprise ou service</li><li><Link to="/fr/personal_agency/parallel">Poursuites parallèles</Link></li><li><Link to="/fr/personal_agency/transactions">Scénarios les plus efficaces pour obtenir le poste</Link></li><li><Link to="/fr/personal_agency/online">Créez une présence en ligne viable</Link></li><li><Link to="/fr/personal_agency/interview">Préparez votre entretien d'embauche</Link></li></ul><li><Link to="/fr/references">test</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Envisagez de créer votre propre entreprise ou service</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/art.jpg"
+/>
+</div>
+<h1>Posez ces questions:</h1>
+<ul>
+<li><h2>Où y a-t-il une lacune dans les services de ma communauté?</h2></li>
+<li><h2>Où y a-t-il un travail que d'autres ont rejeté ou qui n’est pas encore reconnu comme valable ?&nbsp;</h2></li>
+<li><h2>Quels types de services ai-je la capacité et l'intérêt de fournir?</h2></li>
+<li><h2>Quel est le public idéal pour bénéficier de ces services?&nbsp;</h2></li>
+<li><h2>Rassemblez les données nécessaires pour explorer ce nouveau service. Testez ces idées avec un petit groupe d'amis et de collègues qui vous soutiennent. Écoutez attentivement leurs commentaires et suggestions.&nbsp;</h2></li>
+<li><h2>Identifiez les prochaines étapes et le calendrier de mise en œuvre de ce service.&nbsp;</h2></li>
+</ul>
+<p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
+<div className="quote">
+<h3>"<i>Il fallait que je gagne ma vie et que j’aie ma propre chance. Mais je l'ai fait! Ne vous asseyez pas et n'attendez pas que les opportunités se présentent. Levez-vous et créez-les."</i>&nbsp;</h3>
+<h3><i>- Madam C.J. Walker</i></h3>
+</div>
+<p></p>
 
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
 
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
-
-
-<Link className="back_link" to="/fr/personal_agency/volunteer">Back to: test</Link><Link className="next_link" to="/fr/personal_agency/parallel">Next page: test</Link>
+<Link className="back_link" to="/fr/personal_agency/volunteer">Retour à: Bénévole!</Link><Link className="next_link" to="/fr/personal_agency/parallel">Page suivante: Poursuites parallèles</Link>
     </div>
 
 

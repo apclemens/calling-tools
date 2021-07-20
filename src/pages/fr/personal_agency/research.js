@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="fr"
   >
     <Seo
-      title="test"
+      title="Faites la recherche!"
       defaultTitle="Outils d'Appel"
       lang="fr"
     />
@@ -23,22 +23,82 @@ const SecondPage = () => (
 <div class="languages"></div>
 
     <div class="content">
-<div><ul><li><Link to="/fr/">Qu'est-ce que l'appel?</Link></li><li><Link to="/fr/personal_well_being">test</Link></li><li><Link to="/fr/who_am_i/">Step 2: Sachez qui vous êtes</Link></li><li><Link to="/fr/personal_agency/">test</Link></li><li><Link to="/fr/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/fr/">Qu'est-ce que l'appel?</Link></li><li><Link to="/fr/personal_well_being">Étape 1: Prenez Soin de Vous</Link></li><li><Link to="/fr/who_am_i/">Étape 2: Sachez qui vous êtes</Link></li><ul><li><Link to="/fr/who_am_i/values">Explorez vos valeurs familiales envers le travail</Link></li><li><Link to="/fr/who_am_i/know_your_talents">Découvrez ce qui est le plus important pour vous</Link></li><li><Link to="/fr/who_am_i/passion_and_interests">Passions et Intérêts</Link></li></ul><li><Link to="/fr/personal_agency/">Étape 3: Prenez les choses en main</Link></li><ul><li><Link to="/fr/personal_agency/goals">Développez des objectifs de vie et de carrière</Link></li><li><Link to="/fr/personal_agency/mentor">Cherchez un mentor</Link></li><li>Faites la recherche!</li><li><Link to="/fr/personal_agency/education">Poursuivez vos études</Link></li><li><Link to="/fr/personal_agency/volunteer">Bénévole!</Link></li><li><Link to="/fr/personal_agency/business">Envisagez de créer votre propre entreprise ou service</Link></li><li><Link to="/fr/personal_agency/parallel">Poursuites parallèles</Link></li><li><Link to="/fr/personal_agency/transactions">Scénarios les plus efficaces pour obtenir le poste</Link></li><li><Link to="/fr/personal_agency/online">Créez une présence en ligne viable</Link></li><li><Link to="/fr/personal_agency/interview">Préparez votre entretien d'embauche</Link></li></ul><li><Link to="/fr/references">test</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Faites la recherche!</h1>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/canyon2.jpg"
+/>
+</div>
+<h2>Si vous vous demandez si vous devez avancer dans la poursuite d'une carrière ou d'un domaine d'intérêt particulier:&nbsp;</h2>
+<p><span style={{fontWeight: 400}}>&nbsp;</span></p>
+<ul>
+<li aria-level="3">
+<h3>Construisez votre réseau de mentors et de personnes travaillant dans votre domaine d'intérêt. Il peut s’agir d’une connaissance plus expérimentée dans le domaine, d’une personne plus jeune qui connaît mieux les tendances actuelles, d’un groupe de pairs où vous pouvez partager librement vos défis et vos réalisations, de spécialistes du savoir. Le développement de relations de mentorat est un processus qui dure toute la vie, car ce sont ces relations qui vous aideront souvent à établir encore plus de liens!&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Élaborez une série de questions auxquelles vous devez répondre. Formez vos questions en fonction de vos propres valeurs professionnelles que vous avez déjà identifiées (onglet précédent sur ce site). Et rappelez-vous qu’il ne s’agit pas d’un entretien d'embauche.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Qu'est-ce qu'ils aiment dans leur travail?&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Quelles sont les possibilités dans ce domaine de travail?&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Que recommanderaient-ils si vous décidez de poursuivre dans ce domaine:&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Une formation complémentaire?&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Une expérience de bénévolat?</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Établissez une liste de personnes qui pourraient être en mesure de vous donner leur avis sur ces questions. Connaissez-vous quelqu'un qui travaille déjà dans ce domaine? Contactez-les pour obtenir des informations complémentaires.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Les reactions des personnes à vos questions sur les plateformes sociales telles que Quora, Facebook, LinkedIn, Slack, etc.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Réalisez des entretiens avec des personnes qui sont déjà dans ce domaine professionnel ou avec des personnes que vous admirez.&nbsp;</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Organisez une journée «d'observation» avec quelqu'un qui est dans le domaine en question.</h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3>Créez un «comité de clarté» ou un «conseil consultatif personnel» composé d'amis qui sont prêts à vous rencontrer périodiquement, pour vous conseiller et vous aider à évaluer vos options. Il peut s'agir de pairs, de jeunes travailleurs, de hauts dirigeants ou de leaders d'opinion dans votre domaine d'intérêt professionnel.</h3>
+</li>
+</ul>
+<p></p>
+<p></p>
 
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
 
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
-
-
-<Link className="back_link" to="/fr/personal_agency/mentor">Back to: test</Link><Link className="next_link" to="/fr/personal_agency/education">Next page: test</Link>
+<Link className="back_link" to="/fr/personal_agency/mentor">Retour à: Cherchez un mentor</Link><Link className="next_link" to="/fr/personal_agency/education">Page suivante: Poursuivez vos études</Link>
     </div>
 
 

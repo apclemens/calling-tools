@@ -1,9 +1,116 @@
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
-
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
-
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../../images/church.jpg"
+/>
+</div>
+<h2><b>Décidez de ce que vous voulez le plus et fixez-vous des objectifs pour transformer vos rêves en réalité. Planifiez pleinement vos objectifs.</b></h2>
+<ul>
+<li aria-level="3">
+<h3><b>Notez les principaux domaines de votre vie sous forme de titres, chacun sur une page séparée. Voici quelques exemples de domaines:</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Aventures / Voyage</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Carrière</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Communauté</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Éducation / Étude / Développement professionnel</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Famille / Mariage</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Finances</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Amis / relations</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Santé / Forme physique / Sports</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Aider les autres / Philanthropie / Service</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Loisirs</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Domicile</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Croissance personnelle</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Politique</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Lecture</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Retraite</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Spirituel / Foi</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Créez des objectifs mesurables pour chacun, y compris un calendrier.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Dressez la liste des étapes souhaitées et des mesures à prendre.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Consultez souvent votre liste d'objectifs pour les gérer et les mettre en œuvre en temps opportun.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Enregistrez tous les indices de carrière qui vous viennent à l'esprit pendant le processus de mise en œuvre des objectifs dans tous les aspects de votre vie.</b></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">&nbsp;</span></p>
+<div className="quote">
+<h3><i><span style="font-weight: 400;">&ldquo;L'une des leçons avec lesquelles j'ai grandi était de toujours rester fidèle à soi-même et de ne jamais laisser ce que quelqu'un dit vous distraire de vos objectifs.&rdquo;&nbsp;</span></i></h3>
+<h3><i><span style="font-weight: 400;">--Michelle Obama</span></i></h3>
+</div>

@@ -1,9 +1,65 @@
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque magna odio, hendrerit id mattis ultrices, pretium eu arcu. Vivamus laoreet egestas tortor, in rutrum felis consequat eget. Quisque vel est sit amet tellus consectetur pellentesque. Duis ornare nisl sapien, pulvinar varius massa laoreet aliquet. Phasellus commodo nisi id tortor elementum, sit amet auctor ex varius. Donec et libero quis dolor auctor semper. Curabitur vel lacus nec tellus ultricies posuere nec et enim. Nunc condimentum ante ante, ac pretium diam scelerisque at.</p>
-
-<p>Aliquam lorem sapien, tempor a mattis et, sagittis vitae leo. Nunc dictum gravida volutpat. Aenean ac est non augue gravida bibendum nec quis lectus. Nunc vulputate risus ut urna maximus, vel placerat lacus laoreet. Praesent imperdiet a mauris eu tempor. Nulla bibendum pharetra mauris, et gravida tortor tincidunt nec. Cras eget vulputate metus. Mauris id lacus enim. Nulla metus arcu, porta a malesuada vitae, sodales nec ipsum. Nullam eu sodales ligula, id pellentesque ipsum. Suspendisse venenatis imperdiet erat vitae cursus.</p>
-
-<p>Quisque pellentesque non leo vel dignissim. Phasellus sagittis dignissim nisl sit amet bibendum. Curabitur viverra consequat mauris. Praesent justo mi, lacinia id orci at, ultricies tincidunt lacus. Curabitur maximus mollis lorem, non ullamcorper orci. Proin nibh dolor, semper sed efficitur id, vestibulum lobortis ipsum. Maecenas maximus nisi lorem, eget tempus ante vehicula id. Aliquam et vehicula magna. Integer id cursus enim. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
-
-<p>Aliquam eget quam rhoncus, iaculis risus eget, venenatis dolor. Nam egestas mattis maximus. Fusce posuere tempor ornare. Nunc a interdum diam, eget blandit augue. Vestibulum elementum, elit sed eleifend rutrum, risus diam commodo leo, sed egestas massa dui a ipsum. Nam lacinia urna commodo enim tempor porta. Sed efficitur lacus metus, sit amet tristique tortor volutpat fermentum. Duis blandit sem id scelerisque ultricies. Aliquam sed mauris non nisi consectetur sollicitudin. Duis tortor nisl, efficitur sit amet dolor sodales, tristique malesuada ligula. Aenean a eros vulputate, convallis lorem vitae, vestibulum tellus. Aliquam et nisi mi.</p>
-
-<p>Aenean imperdiet egestas placerat. Donec eu volutpat enim. Aliquam in lacinia sapien. Morbi risus turpis, elementum in ante vel, cursus luctus orci. In hac habitasse platea dictumst. Vivamus purus turpis, luctus ut luctus elementum, semper ornare tellus. Nunc nibh nisl, sollicitudin ut consectetur in, facilisis ut turpis. </p>
+<div className="image" style={{width: "50%",float: "right"}}>
+<StaticImage
+  src="../../images/flowers.jpg"
+/>
+</div>
+<h1><b>Prenez soin de vous</b><b><br /></b></h1>
+<h2><b>Pour poursuivre une vocation significative, il est important de s’assurer que nous arrivons à la poursuite principalement à partir d’un sentiment de bien-être. Le bien-être positif est clairement lié à de bons résultats professionnels, vous permettant de mettre vos idées en pratique.</b></h2>
+<h2><b>Considérez les thèmes suivants, dont il est démontré qu’ils ont un impact sur votre bien-être personnel.</b></h2>
+<ul>
+<li aria-level="3">
+<h3><b>Reposez-vous suffisamment et mangez des aliments sains autant que possible. Ceux-ci constituent le fondement d'une vie saine, bien qu'ils soient souvent ignorés.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Restez actif. L'exercice quotidien (même quand c'est une promenade pour aller quelque part) et l'air frais (la lumière du soleil!) aident à éclaircir sa pensée et à donner une nouvelle perspective.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Connectez-vous avec les gens et la communauté. Entretenir des relations saines et faire partie d'une communauté de soutien qui vous encouragera dans votre appel dans la vie, renforcera votre estime de soi et vous donnera des liens pour un résultat de carrière plus réussi.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>
+Favorisez un sentiment de gratitude. Prendre note de toutes les choses dont vous pouvez être reconnaissant chaque jour augmente votre sentiment d'optimisme. <a href="https://www.youtube.com/watch?v=cpkEvBtyL7M">Voir cette courte vidéo pour l'inspiration.</a>
+</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Continuez d'apprendre. Développer de nouveaux intérêts ou passe-temps, lire de la bonne littérature maintient l'esprit actif.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Pratiquez les disciplines spirituelles. La méditation du matin, la lecture, l’écriture quotidienne, la prière et le jeûne, les pleurs si nécessaire (!), renforcent le calme intérieur et la préparation à affronter la journée. "Déchargez-vous sur lui de toutes vos inquiétudes, car il prend soin de vous. » 1 Pierre 5:7.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Donnez. Tendre la main pour aider les autres dans la gentillesse renforce notre sentiment d'estime de soi.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Planifiez à l'avance. Avoir un bon sens de la structure de votre semaine (ce qui est réalisable et sous votre contrôle) aide à réduire l'anxiété d'un jour à l'autre.</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Gardez des attentes raisonnables envers vous-même et encouragez votre communauté de soutien à faire de même.</b></h3>
+</li>
+</ul>
+<p><span style="font-weight: 400;">***********************************</span></p>
+<div className="quote">
+<h3><b><i>Car je connais les projets que j'ai formés sur vous, dit l'Eternel, projets de paix et non de malheur, afin de vous donner un avenir et de l'espérance. Vous m'invoquerez, et vous partirez; vous me prierez, et je vous exaucerai. Vous me chercherez, et vous me trouverez, si vous me cherchez de tout votre coeur.</i></b></h3>
+<h3><b><i>&#8212; Jérémie 29:11-13</i></b></h3>
+</div>
+<div className="quote">
+<h3><b><i>Si vous voulez une vie bien remplie, vous devez renoncer à toute dépendance que vous pourriez avoir pour vous réconforter, pour ne pas faire de vagues et pour éviter les sentiments de peur et d'incertitude qui sont toujours votre compagnon lors de voyages en dehors de la sécurité de la routine quotidienne. Une vie vécue avec passion n'est pas toujours confortable. Pour y parvenir, cela implique d’être ouvert à toute vie: les joies, les peines, le banal, ainsi que la magie, les splendides victoires, les défaites les plus abjectes.</i></b></h3>
+<h3><b><i>&#8212; Nicholas Lore, The Pathfinder</i></b><span style="font-weight: 400;"><br /></span></h3>
+</div>
+<p><br /><span style="font-weight: 400;"><br /></span></p>
