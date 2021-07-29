@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="ht"
   >
     <Seo
-      title="test"
+      title="Ki sa ki yon apèl?"
       defaultTitle="Rele Zouti"
       lang="ht"
     />
@@ -22,10 +22,11 @@ const SecondPage = () => (
 
 <div class="languages"></div>
 
-    <div class="content">
-<div><ul><li>test</li><li><Link to="/ht/personal_well_being">test</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+    <div class="content">
+<div><ul><li>Ki sa ki yon apèl?</li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+
+<h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>Ki sa ki yon apèl?</h1>
 
 
 <div className="image" style={{width: "60%",float: "right"}}>
@@ -34,24 +35,27 @@ const SecondPage = () => (
 />
 </div>
 
-<h1>Our goal in life is to reach a clear sense of calling, mission or vocation. This can be achieved when your values and passions meet your gifts, talents and strengths, while making the most of personal agency and opportunity.</h1>
-<h2>Are you in a time of transition and asking these questions:</h2>
+<h1>Objektif nou nan lavi a se rive jwenn yon sans klè nan apèl, misyon oswa vokasyon. Sa a ka reyalize lè vale ou ak pasyon w rankontre don w yo, talan w ak fòs ou yo, jis pou n ka jwenn meyè pati nan ajans e nan opòtinite pèsonèl yo.
+</h1>
+<h2>Actif nan yon tan nan tranzisyon ak poze kesyon sa yo:
+</h2>
 <ul>
 <li aria-level="2">
-<h2><i>What is my calling, vocation or mission in life?&nbsp;</i></h2>
+<h2><i> Ki sa mwen rele, vokasyon oswa misyon nan lavi? 
+</i></h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2><i>After working abroad, how do I best re-enter the realities of the work world in my home country?</i></h2>
+<h2><i>Apre mwen fin travay aletranje, ki jan mwen pi byen re-antre nan reyalite nan mond travay la nan peyi lakay mwen?</i></h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2><i>What is the best next step toward a new vocation or career?&nbsp;</i></h2>
+<h2><i>Ki sa ki pwochen etap la nan direksyon yon vokasyon nouvo oswa karyè?</i></h2>
 </li>
 </ul>
-<h2>This website brings together practical tools and resources to assist you, <i>following in the order of the tabs above</i>. Or feel free to jump into the tools that are most appropriate for your current life situation!&nbsp;</h2>
+<h2>Sit entènèt sa a pote ansanm zouti pratik ak resous ede ou nan refleksyon, jounal ak konvèsasyon ak yon zanmi oswa yon konseye!&nbsp;</h2>
 
 <div className="image-left" style={{width: "25%",float: "left"}}>
 <StaticImage
@@ -59,55 +63,55 @@ const SecondPage = () => (
 />
 </div>
 
-<h2>Finding that place where your passions and talents meet to address needs of the world is a true gift. A job pays the bills. A calling is a core part of one&rsquo;s identity and integral to your life. Finding a <i>career</i> (where you get paid for what you do) that fulfills your passions, talents and the needs of the world is like icing on the cake!&nbsp;</h2>
-<h3>As followers of Jesus we all have a calling to fulfill a mission, wherever we are and in whatever we do. God&rsquo;s mission is going on all around us in this world, and as Jesus&rsquo; followers we have a unique purpose in God's overall mission in the world.&nbsp;&nbsp;</h3>
-<h3>A calling from God for service of any kind isn&rsquo;t necessarily a calling to a place, or with a particular profession. A sense of God&rsquo;s calling is about commitment to loving God and loving neighbor in whatever we do every day (Matt. 22:36-39).&nbsp; This is really the underlying mission in the world for all of us, to love God and to love our neighbor as ourselves; a call to loving action. It is our job is simply to look around us with anticipation and expectancy and ask God to plug us into his mission all around us, whatever that means, and however that looks in our particular situation; to begin with loving prayerful action in response to what we see around us. Our mission relates to all parts of our lives, including the seemingly small things we do every day.&nbsp;&nbsp;</h3>
-<h3>This kind of calling from God is accompanied by a sense of joy. If we&rsquo;re committed to being part of God&rsquo;s mission in the world, as individuals and as a community, God places a deep sense of desire, joy and call on our hearts that connect us with <i>his mission that is going on all around us in the world every day already</i>. At the same time, we have to be patient with God's timing, and prayerfully&nbsp;discern what&nbsp;personal aspirations are&nbsp;realistic.</h3>
-<h3>It's up to us to look for our calling every day like a treasure, with anticipation and prayerful expectancy, and to respond to what we see around us through loving action.</h3>
-<h3><i>Calling</i> - A strong urge towards a particular way of life or career; a vocation. A profession or occupation.</h3>
-<h3><i>Mission</i> &ndash; A continuing task or responsibility that one is destined or fitted to do or specially called upon to undertake.</h3>
-<h3><i>Vocation</i> - A strong feeling of suitability for a particular career or occupation. A person&rsquo;s employment or main occupation especially regarded as worthy and requiring dedication. Trade or profession.</h3>
-<h3><i>Career</i> - An occupation undertaken for a significant period of a person's life and with opportunities for progress. Working permanently in or committed to a particular profession.</h3>
+<h2>Jwenn plas sa a oubyen pasyon ou ak talanw rankontre bezwen nan mond lan se yon vrè kado. Peye bòdwo travay yo. Yon apèl se yon pati santral nan idantifye youn ak yon entegral nan lavi ou. Jwenn yon karyè (kote ou peye pou sa ou fè) rankontre pasyon ou, talan w ak bezwen yo nan mond lan se tankou seriz ki sou gato!</h2>
+<h3>Antanke disip Jezi, nou tout gen yon apèl pou nou akonpli yon misyon, kèlkeswa kote nou ye ak nan tout sa n ap fè. Misyon Bondye a pral sou tout bagay ki antoure mond lan, epi kòm disip Jezi yo nou gen yon bi inik nan misyon jeneral Bondye a nan mond lan.&nbsp;&nbsp;</h3>
+<h3>Yon apèl nan men Bondye pou sèvis nan nenpòt kalite pa nesesèman yon apèl nan yon kote, oswa ak yon pwofesyon patikilye. Yon sans apèl Bondye a se sou angajman renmen Bondye ak renmen frè parèy nan tout sa nap fè chak jou (Matt. 22: 36-39). Sa a se reyèlman misyon kache nan mond lan pou tout moun nan nou, renmen Bondye ak renmen frè parèy nou tankou tèt nou; yon apèl nan aksyon renmen. Travay nou regade nou senpleman avèk antisipasyon ak espwa epi mande Bondye poul konekte nou nan misyon li an nan mitan nou, kèlkeswa sa li vle di a, ak menm sanble nan sitiyasyon patikilye nou yo; kòmanse pa montre lanmou nan lapriyè nan repons ak sa nap wè bò kote nou. Misyon nou an gen rapò ak tout pati nan lavi nou, enkli bagay sa yo ke nou fè chak jou.</h3>
+<h3>Jan de apèl Bondye sa yo akonpaye pa yon santiman de kè kontan. Si nou detèmine pou nou fè pati nan misyon Bondye a nan mond lan, kòm moun ak kòm yon kominote, Bondye mete yon pwofon santiman de dezi, kè kontan ak apèl nan kè nou ki konekte nou ak misyon l 'pral déjà bò kote nou nan mond lan. An menm tan, nou dwe pasyan ak tan Bondye a, ak lapriyè nan disèneman aspirasyon pèsonèl yo.</h3>
+<h3>Sa n’ap cheche pou nou rele kotidyènman tankou yon trezò, ak patisipe ak yon eksperyans lapriyè, ak pou reponn a sa nou wè bò kote nou nan aksyon lanmou.</h3>
+<h3><i>Apèl</i> - Yon ankourajman fò nan yon mòd de vi oubyen yon karyè patikilye; yon vokasyon. Yon metye oswa okipasyon.</h3>
+<h3><i>Misyon</i> &ndash; Yon travay oswa yon responsablite pou yon moun kontinye se destine oswa ekipe pou  fè oswa espesyalman pou rele pou angaje.</h3>
+<h3><i>Vokasyon</i> - Yon santiman fò konvnabman pou yon karyè oswa yon metye patikilye. Travay yon moun oswa yon metye prensipal espesyalman konsidere kòm yon devwouman ki pa lye ak negosiyasyon yo oswa metye yo.</h3>
+<h3><i>Karyè</i> - Yon travay ki bon ki pran anpil tan nan tout chans nan lavi yon moun ak nan progrè moun nan. Travay pou tout tan oswa ti kal pa ti kal nan yon metye patikilye.</h3>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>&ldquo;There are &lsquo;moments of decision&rsquo; every day&hellip;when you stand at a spiritual crossroads, with two ways lying before you&hellip;The one will lead to less gratitude, less kindness, less forgiveness, less honesty, or less love in the world. The other will lead to more gratitude, more kindness, more forgiveness, more honesty, or more love in the world. Your Mission, each moment, is to seek to choose the latter spiritual road, rather than the former, every time.&rdquo;&nbsp;</i></h3>
+<h3><i>&ldquo;Yon travay ki bon ki pran anpil tan nan tout chans nan lavi yon moun ak nan progrè moun nan. Travay pou tout tan oswa ti kal pa ti kal nan yon metye patikilye.&rdquo;&nbsp;</i></h3>
 <h3><i>&#8212; Richard N. Bolles, What Color is Your Parachute?&nbsp;</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;The place God calls you to is the place where your deep gladness and the world&rsquo;s deep hunger meet.&rdquo;&nbsp;&nbsp;</i></h3>
+<h3><i>&ldquo;Kote Bondye rele ou se la plas ou ye jis andan ak grangou nan mond lan nan yon satisfaksyon pwofon.&rdquo;&nbsp;&nbsp;</i></h3>
 <h3><i>&#8212; Frederick Buechner,&nbsp;</i><a target="_blank" rel="noreferrer" href="https://www.goodreads.com/work/quotes/118728"><i>Wishful Thinking: A Theological ABC</i></a></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;Life ultimately means taking responsibility to find the right answer to its problems and to fulfill the tasks which life constantly sets for each individual.&rdquo;&nbsp;&nbsp;</i></h3>
+<h3><i>&ldquo;Lavi finalman vle di pran responsablite pou jwenn bon repons pou pwoblèm yo ak akonpli travay yo ke lavi bay konstamman pou chak moun.&rdquo;&nbsp;&nbsp;</i></h3>
 <h3><i>&#8212; Victor Frankl, Man&rsquo;s Search for Meaning</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;Each of us is called to be someone and to do things &ndash; it is part of human existence &ndash; and discovering these things is a life-long process of growth and change&hellip;The original meaning of &ldquo;vocation&rdquo; is work that calls us to connect our God-given gifts and passions with God&rsquo;s activity in the world. A vocation is a calling that merges our mission in life with God&rsquo;s mission on earth. As Frederick Buechner puts it, &ldquo;The place God calls you is the place where your deep gladness and the world&rsquo;s deep hunger meet.&rdquo; That intersecting point is your calling, your vocation.&nbsp; Vocation could be work that is outside your wage-earning sphere of activity&hellip;There is nothing wrong with planning a career, but God usually has deeper and larger plans than we can imagine&hellip;We are on a journey in which God gives us constantly evolving options, depending upon our choices and the choices of others.&rdquo;&nbsp;&nbsp;</i></h3>
+<h3><i>&ldquo;Nou chak gen yon apèl pou nou yon bagay nan vi nou – epi fè kèk bagay – Sa fè pati nan egzistans imèn nou epi poun dekouvri kèk bagay, se yon pwosesis nan kwasans ak chanjman pou tout lavi w ... siyifikasyon orijinal la nan "vokasyon" se travay ki fè apèl ak nou pou nou konekte ... Don Bondye bay yo ak pasyon ak aktivite Bondye nan mond lan. Yon vokasyon se yon apèl ki melanje misyon nou nan lavi ak misyon Bondye sou latè. Kòm Frederick Buechner di l ', "kote Bondye rele w la se plas pou w gen yon lajwa pwofon e grangou w yo nan mond satisfaksyon pwofon." Pwen ki separe a se vokasyon ou. Vokasyon kapab travay deyò nan aktivite salarye ke w posede ... Pa gen anyen de mal ke planifye karyè ou, men Bondye toujou gen plan ak pwofondè epi pi gran ke sa nou kapab panse ... Nou nan yon vwayaj ke Bondye ban nou plizyè opsyon. ,ak plizyè chwa ki vrèman opsyonèl.&rdquo;&nbsp;&nbsp;</i></h3>
 <h3><i>&#8212; Becky Horst,</i> <a target="_blank" rel="noreferrer" href="https://www.goshen.edu/news/bulletin/02march/job_career.php">Job, career, vocation: The difference is in the calling</a></h3>
 </div>
 <div className="quote">
-<h3><i>10&nbsp;&ldquo;And if you&nbsp;give yourself to the hungry and satisfy the&nbsp;desire of the afflicted, Then your&nbsp;light will rise in darkness and your gloom&nbsp;will become&nbsp;like midday. </i>11&nbsp;<i>&ldquo;And the&nbsp;Lord&nbsp;will continually guide you,&nbsp; And&nbsp;satisfy your&nbsp;desire in scorched places, And&nbsp;give strength to your bones; And you will be like a&nbsp;watered garden, And like a&nbsp;spring of water whose waters do not&nbsp;fail. </i>12&nbsp;<i>&ldquo;Those from among you will&nbsp;rebuild the ancient ruins; You will&nbsp;raise up the age-old foundations; And you will be called the repairer of the&nbsp;breach, The restorer of the&nbsp;streets in which to dwell.&rdquo;&nbsp;</i></h3>
+<h3><i>10&nbsp;&ldquo;10Kay brik yo kraze, n'a bati lòt ak wòch taye. Yo koupe poto sikomò yo jete, n'a fè lòt ak bwa sèd mete nan plas yo. 11Seyè a fè lènmi pèp Izrayèl la leve dèyè l'. L'ap fè chèf lame wa Rezen lan atake l'. 12Peyi Lasiri sou bò solèy leve, peyi Filisti sou bò solèy kouche, y'ap devore pèp Izrayèl la ak gwo koutdan. Men, se poko sa toujou! Se atò Seyè a move. Li poko fin regle ak yo.&rdquo;&nbsp;</i></h3>
 <h3><i>&#8212; Isaiah 58:10-12</i></h3>
 </div>
 <div className="quote">
-<h3><i>"Use me, God. Show me how to take who I am, who I want to be, and what I can do, and use it for a purpose greater than myself."</i></h3>
+<h3><i>"Sèvi ak mwen, Bondye. Aprann mwen kijan pou m konn ki moun mwen ye, ki moun mwen vle ye ak sa mwen kapab fè, epi sèvi ak li pou yon objektif pi plis pase tèt mwen."</i></h3>
 <h3><i>&#8212; Martin Luther King, Jr.</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;Your calling is what makes your heart beat faster.&rdquo;&nbsp;</i></h3>
+<h3><i>&ldquo;Apèl ou se sa ki rann kè w bat pi vit.&rdquo;&nbsp;</i></h3>
 <h3><i>&#8212; Elizabeth O'Connor, Cry Pain, Cry Hope</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;A vision without a task is but a dream, a task without a vision is&nbsp;drudgery; a vision and a task is the hope of the world.&rdquo;&nbsp;</i></h3>
+<h3><i>&ldquo;Yon vizyon san yon travay se tankou yon rèv, yon travay san yon vizyon se tankouw te lave menw siye atè; yon vizyon ak yon travay se espwa nan mond lan.&rdquo;&nbsp;</i></h3>
 <h3><i>&#8212; Inscription on an old English Church</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;I&rsquo;ve come to believe that each of us has a personal calling that&rsquo;s as unique as a fingerprint &ndash; and that the best way to succeed is to discover what you love and then find a way to offer it to others in the form of service, working hard, and also allowing the energy of the universe to lead you.&rdquo;&nbsp;</i></h3>
+<h3><i>&ldquo;Mwen vini kwè ke chak nan nou gen yon apèl pèsonèl , se menm jan ak yon anprent dijital - e pi bon fason pou reyisi a se dekouvri sa ou renmen, jwenn yon fason pou w ofri lòt moun yo tankou yon sèvis, travay di, epi pèmèt egalman nan enèji pou mennen ou.&rdquo;&nbsp;</i></h3>
 <h3><i>&#8212; Oprah Winfrey</i></h3>
 </div>
 
 
-<Link className="next_link" to="/ht/personal_well_being">Next page: test</Link>
+<Link className="next_link" to="/ht/personal_well_being">Next page: Etap 1: Pran swen tet ou</Link>
     </div>
 
 

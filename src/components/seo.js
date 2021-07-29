@@ -68,7 +68,8 @@ function Seo({ description, lang, meta, title, defaultTitle }) {
           content: metaDescription,
         },
       ].concat(meta)}
-    />
+    >
+      </Helmet>
   )
 }
 

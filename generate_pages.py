@@ -46,42 +46,42 @@ page_titles_lookup = {
         'index': {
             'en': 'What Is Calling?',
             'fr': 'Qu\'est-ce que l\'appel?',
-            'es': 'test',
-            'ht': 'test',
+            'es': '¿Qué es el llamado?',
+            'ht': 'Ki sa ki yon apèl?',
             'pt': 'test',
             },
         'who_am_i/passion_and_interests': {
             'en': 'Passions and Interests',
             'fr': 'Passions et Intérêts',
-            'es': 'test',
+            'es': 'Pasiones e intereses',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_well_being': {
             'en': 'Step 1:<br></br>Take Care Of Yourself',
             'fr': 'Étape 1:<br></br>Prenez Soin de Vous',
-            'es': 'test',
-            'ht': 'test',
+            'es': 'Paso 1:<br></br>Cuídate',
+            'ht': 'Etap 1:<br></br>Pran swen tet ou',
             'pt': 'test',
             },
         'who_am_i/values': {
             'en': 'Values in Work and Life',
             'fr': 'Explorez vos valeurs familiales envers le travail',
-            'es': 'test',
+            'es': 'Valores en el trabajo y la vida',
             'ht': 'test',
             'pt': 'test',
             },
         'who_am_i/know_your_talents': {
             'en': 'Know Your Talents',
             'fr': 'Découvrez ce qui est le plus important pour vous',
-            'es': 'test',
+            'es': 'Conozca sus talentos',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/index': {
             'en': 'Step 3:<br></br>Take Charge',
             'fr': 'Étape 3:<br></br>Prenez les choses en main',
-            'es': 'test',
+            'es': 'Paso 3:<br></br>hazte cargo',
             'ht': 'test',
             'pt': 'test',
             },
@@ -95,7 +95,7 @@ page_titles_lookup = {
         'who_am_i/index':{
             'en': 'Step 2:<br></br>Know Who You Are',
             'fr': 'Étape 2:<br></br>Sachez qui vous êtes',
-            'es': 'test',
+            'es': 'Paso 2:<br></br>Conoce quién eres',
             'ht': 'test',
             'pt': 'test',
             },
@@ -103,70 +103,70 @@ page_titles_lookup = {
         'personal_agency/business': {
             'en': 'Consider Starting your own Business or Service',
             'fr': 'Envisagez de créer votre propre entreprise ou service',
-            'es': 'test',
+            'es': 'Considere iniciar su propio negocio o servicio',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/goals': {
             'en': 'Develop Life and Career Goals',
             'fr': 'Développez des objectifs de vie et de carrière',
-            'es': 'test',
+            'es': 'Desarrollar metas profesionales y de vida',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/research': {
             'en': 'Do the Research',
             'fr': 'Faites la recherche!',
-            'es': 'test',
+            'es': 'Hacer la investigación',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/online': {
             'en': 'Create a Viable Online Presence',
             'fr': 'Créez une présence en ligne viable',
-            'es': 'test',
+            'es': 'Cree una presencia en línea viable',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/parallel': {
             'en': 'Parallel Pursuits',
             'fr': 'Poursuites parallèles',
-            'es': 'test',
+            'es': 'Persecuciones paralelas',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/interview': {
             'en': 'Prepare for your Job Interview',
             'fr': 'Préparez votre entretien d\'embauche',
-            'es': 'test',
+            'es': 'Prepárese para su entrevista de trabajo',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/education': {
             'en': 'Pursue your Education',
             'fr': 'Poursuivez vos études',
-            'es': 'test',
+            'es': 'Persiga su educación',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/mentor': {
             'en': 'Seek a Mentor',
             'fr': 'Cherchez un mentor',
-            'es': 'test',
+            'es': 'Buscar un/a mentor/a',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/transactions': {
             'en': 'Transactions most likely to get me a job in the quickest amount of time',
             'fr': 'Scénarios les plus efficaces pour obtenir le poste',
-            'es': 'test',
+            'es': 'Es más probable que las transacciones me consigan un trabajo en el menor tiempo posible',
             'ht': 'test',
             'pt': 'test',
             },
         'personal_agency/volunteer': {
             'en': 'Volunteer!',
             'fr': 'Bénévole!',
-            'es': 'test',
+            'es': 'Voluntario/a!',
             'ht': 'test',
             'pt': 'test',
             },
@@ -198,7 +198,7 @@ back_next_language = {
         'fr': ('Retour à:', 'Page suivante:'),
         'pt': ('Back to:', 'Next page:'),
         'ht': ('Back to:', 'Next page:'),
-        'es': ('Back to:', 'Next page:'),
+        'es': ('De regreso:', 'Siguiente página:'),
         }
 
 
@@ -234,6 +234,7 @@ def generate_page_links(language, slug):
 
         if page != 'index' and 'index' in page:
             subpages = page.replace('index','')
+#            page_links += '<ul style={{display: \'none\'}}>'
             page_links += '<ul>'
 
     page_links += '</ul>'

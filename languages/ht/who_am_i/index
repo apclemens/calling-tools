@@ -3,7 +3,7 @@
   src="../../../images/hills.jpg"
 />
 </div>
-<h2><b>Having a well developed understanding of yourself, knowing who you are and where you came from, provides a stronger foundation for a meaningful vocation in life.</b></h2>
+<h2><b>Èske w gen yon konpreyansyon byen devlope de ou menm, konnen ki moun ou ye ak ki kote ou soti, sa ki bay yon fondasyon pi fò pou yon vokasyon ki enpὸtan nan lavi.</b></h2>
 <h3><span style="font-weight: 400;">
 <Link to="/LANGUAGE/who_am_i/values">
 Tools to explore your values in work and life
@@ -23,110 +23,133 @@ Tools to explore your passions and interests
 </span></h3>
 <h3><b>***********************************</b></h3>
 <div className="quote">
-<h3><b><i>&ldquo;Get to know yourself thoroughly. Inquire into every aspect of your nature and personality. Even if you know yourself well, find ways to observe your past and present from new viewpoints, especially those that provide tangible, realistic, and practical clues about the best fit between you and the working world...Your [ideal] work fully expresses all aspects of your nature. It fits your innate talents perfectly. It expresses your temperament and personality fully, even those parts that you do not see as positive. It provides the rewards that matter to you. It fulfills your goals. It occurs in an environment that is suitable and appropriate to who you are.&rdquo;&nbsp;</i></b></h3>
+<h3><b><i>&ldquo;Chèche konnen tèt ou byen. Mande tout aspè nan nati w ak pèsonalite w. Menm si ou konnen tèt ou byen, jwenn fason pou w obsève pase w ak prezan w nan yon nouvѐl opinyon , espesyalman sa ki bay yon endikasyon ou ka touche, reyalis, ak pratike pouw ka mye adaptew ak travay mond lan ...travay ideyal ou montre konplètman chak aspè nan nati ou. Li koresponn pafѐtman ak talan natirѐl ou. Li eksprime konplѐtman tanperaman ou ak pèsonalite ou, menm pati ou pa wè ki pozitif yo. Li baw rekonpans ki enpòtan. Li atenn objektif ou yo. Li vin nan yon anviwònman ki apwopriye ak moun ou ye a.&rdquo;&nbsp;</i></b></h3>
 <h3><b><i>&#8212; Nicholas Lore, The Pathfinder</i></b></h3>
 </div>
 <div className="quote">
-<h3><b><i>&ldquo;One of the most courageous things you can do is identify yourself, know who you are, what you believe in and where you want to go.&rdquo;</i></b></h3>
+<h3><b><i>&ldquo;Youn nan bagay ki pi ankourajan ou dwe fè se idantifye tèt ou pandan wap  konnen ki moun ou ye, nan kisa ou kwè ak ki kote ou vle ale.&rdquo;</i></b></h3>
 <h3><b><i>&#8212; Sheila Murray Bethel</i></b></h3>
 </div>
 <h3><b>***********************************</b></h3>
-<h1><b><i>Career Genogram to explore your family values toward work</i></b></h1>
+<h1><b><i>Eksplore valè fanmi ou nan direksyon travay
+</i></b></h1>
 <div classname="image" style={{width: "50%", float: "right"}}>
 <StaticImage
   src="../../../images/II8A5084.JPG"
 />
 </div>
-<h2><b>One way to understand ourselves and how we interact with work is to explore our family system, and recognize how each family member has influenced us in life. It&rsquo;s also important to acknowledge our own cultural approaches, and what our particular culture says about the value we place on our family of origin.</b></h2>
-<h3><b>To explore your family of origin&rsquo;s values and attitudes to work, levels of job satisfaction, what career success looks like, and gender issues, draw a family tree of careers, jobs or education of your grandparents, parents and siblings. What themes and patterns do you see and how might these have affected your career values?</b></h3>
-<h3><b>Questions for reflection:</b></h3>
+<h2><b>Youn nan fason poun konprann tèt nou e kominike avèk travay la se eksplore sistèm fanmi nou, ak rekonèt ki jan chak manm nan fanmi an enfliyanse nou nan lavi. Li enpòtan tou poun konnen apwòch kiltirèl nou yo, ak kisa kilti patikilye nou di sou valè ke nou bay ak fanmi orijinѐ nou.
+</b></h2>
+<h3><b>Pou eksplore fanmi orijinѐ ou ak atitid ou nan travay, nivo satisfaksyon travay, sesyon sou karyè, ak pwoblèm sèks, desinen yon pye bwa jeneyalojik nan karyè, nan travay oswa nan edikasyon nan granparan ou, paran w yo, frè w ak sè w yo. Ki tèm ak modèl ke ou wè ak kὸman sa ka afekte valè w nan karyè w?
+</b></h3>
+<h3><b>Kesyon pou reflechi:
+</b></h3>
 <ul>
 <li aria-level="3">
-<h3><b>What kind of work in your family was seen as women&rsquo;s/men&rsquo;s work?</b></h3>
+<h3><b>Ki kalite travay nan fanmi ou te wè tankou travay fanm / gason?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>What jobs were admired or scorned by members of your family?</b></h3>
+<h3><b>Ki manb fanmi ou te admire oswa meprize pa fanmi ou?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>What are your family&rsquo;s attitudes about fun or leisure?</b></h3>
+<h3><b>Ki atitid fanmi ou sou plezi oswa amizman?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>About money/spending/saving?</b></h3>
+<h3><b>Sou lajan / depans / ekonomize?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>How does your family define success/failure? Who was successful/a failure and why?</b></h3>
+<h3><b>Ki jan fanmi ou defini siksè / echèk? Ki moun ki te yon siksè / echèk ak poukisa?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>To whom in your family are you most similar and how?</b></h3>
+<h3><b>Kiyès nan fanmi ou ki pi sanble ak ki jan?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Who would you like to be like and why?</b></h3>
+<h3><b>Kiyès ou ta renmen tankou e poukisa?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>In what ways are you similar to your family?</b></h3>
+<h3><b>Nan ki fason ou sanble ak fanmi ou?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Different?</b></h3>
+<h3><b>diferan?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>How would you LIKE to be similar?</b></h3>
+<h3><b>Kijan ou ta renmen pou ou sanble?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Different?</b></h3>
+<h3><b>diferan?</b></h3>
 </li>
 </ul>
 <h3><b>***********************************</b></h3>
-<h1><b><i>How does my personality fit my work setting?</i></b></h1>
+<h1><b><i>Ki jan pèsonalite mwen anfòm nan anviwònman travay mwen an?
+</i></b></h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../images/dance.jpg"
 />
 </div>
-<h2><b>To help you assess why certain work settings do or do not work well for your personality, ask these questions of your personal preferences:</b></h2>
+<h2><b>Pou ede ou evalye poukisa sèten anviwònman nan travay fonksyone oswa pa byen fonksyone pou pèsonalite ou, sonje yon tan lè ou te "nan eleman ou"kew te gen yon travay, legliz, yon fanmi oswa lòt anviwònman, epi poze tèt ou kesyon sa yo:</b></h2>
 <ul>
 <li aria-level="3">
-<h3><b>Do I enjoy using my imagination, or do I prefer dealing with practicalities?</b></h3>
+<h3><b>Kisa mwen fè byen nan anviwònman kote mwen te prospere a?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Am I concerned with the feelings of others around me above all, or is getting the task done more important to me?</b></h3>
+<h3><b>Ki sa ki sou pèsonalite m 'ki te ede m' fè byen nan ki anviwònman?</b></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3><b>Do I enjoy planning ahead, or do I prefer spontaneity?</b></h3>
+<h3><b>Ki sa ki "pwospere" sitiyasyon di sou fòs pèsonalite m 'ki ta ka transfere nan anviwònman travay la?</b></h3>
 </li>
 </ul>
-<h3><b>***********************************</b></h3>
+<ul>
+<li aria-level="3">
+<h3><b>Èske mwen boujonnen sou entèraksyon ak lòt moun, oswa pito travay pou kont li?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Èske mwen renmen itilize imajinasyon mwen, oswa mwen prefere fè fas ak pratik?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Èske mwen gen enkyetid ak santiman yo nan lòt moun bò kote m 'pi wo a tout, oswa ap resevwa travay la fè pi enpòtan pou mwen?</b></h3>
+</li>
+</ul>
+<ul>
+<li aria-level="3">
+<h3><b>Èske mwen renmen planifye davans, oswa mwen pito espontane?</b></h3>
+</li>
+</ul>
 <h1><b><i>Appreciate your strengths</i></b></h1>
 <div className="image" style={{width: "27%",float: "right"}}>
 <StaticImage
   src="../../../images/rugs.jpg"
 />
 </div>
-<h2><b>Recall a time when you were &ldquo;in your element&rdquo; whether that be a work, church, family or other setting.</b></h2>
-<h3><b>Test your personality/career fit with these online tests:</b><b><br /></b><a href="https://www.truity.com/view/tests/personality-career"><b>https://www.truity.com/view/tests/personality-career</b><b><br /></b></a><a href="https://deweycolorsystem.com/tests/"><b>https://deweycolorsystem.com/tests/</b><b><br /></b></a><a href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171"><b>https://www.thebalancecareers.com/personality-type-and-career-choice-526171</b><b><br /></b></a><a href="https://www.enneagraminstitute.com/"><b>https://www.enneagraminstitute.com/</b></a></h3>
+<h3><b>Teste pèsonalite ou / karyè anfòm avèk tès sa yo sou entènèt (sitou gratis)</b><b><br /></b><a href="https://www.truity.com/view/tests/personality-career"><b>https://www.truity.com/view/tests/personality-career</b><b><br /></b></a><a href="https://deweycolorsystem.com/tests/"><b>https://deweycolorsystem.com/tests/</b><b><br /></b></a><a href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171"><b>https://www.thebalancecareers.com/personality-type-and-career-choice-526171</b><b><br /></b></a><a href="https://www.enneagraminstitute.com/"><b>https://www.enneagraminstitute.com/</b></a></h3>
 <ul>
 <li aria-level="3">
 <h2><b>Do you thrive on interaction with others, or prefer to work alone?</b></h2>

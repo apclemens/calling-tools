@@ -22,6 +22,7 @@ const SecondPage = () => (
 
 <div class="languages">LNG_LINKS</div>
 
+
     <div class="content">
 <div>PG_LINKS</div>
 

@@ -22,8 +22,9 @@ const SecondPage = () => (
 
 <div class="languages"></div>
 
+
     <div class="content">
-<div><ul><li><Link to="/ht/">test</Link></li><li><Link to="/ht/personal_well_being">test</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li>test</li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li>test</li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
@@ -32,138 +33,143 @@ const SecondPage = () => (
   src="../../../images/rainbow.jpg"
 />
 </div>
-<h1>To choose a direction in life, it&rsquo;s important to understand what priority you set on particular <i>values</i> in life and in the workplace.</h1>
-<h2><i>Values</i> - Principles or standards of behavior; one's judgement of what is important in life.</h2>
+<h1>Pou chwazi yon direksyon nan lavi, li enpòtan pou w konprann ki priyorite ou mete sou valè patikilye nan lavi ak nan espas travay la.
+</h1>
+<h2>Valè - Prensip ak estanda nan konpòtman; jijman youn nan sa ki enpòtan nan lavi.
+</h2>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>&ldquo;What counts in life is not the mere fact that we have lived; it is what difference we have made to the lives of others that will determine the significance of the life we lead.&rdquo;</i></h3>
+<h3><i>&ldquo;Ki sa ki konte nan lavi se pa reyalite a sèlman ke nou te viv; se sa ki diferan nou te fè nan lavi lòt moun ki pral detèmine siyifikasyon nan lavi sa a nou mennen.&rdquo;</i></h3>
 <h3><i>&#8212; Nelson Mandela</i></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Your Ideal Satisfying Job (values for wellbeing in the work environment)</h1>
+<h1>Ideyal satisfaksyon travay ou (valè pou byennèt nan anviwònman an travay)
+</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/0417180635c-EFFECTS.jpg"
 />
 </div>
-<h2>To identify the qualities of a job that help you experience wellbeing in the workplace:</h2>
-<h2>Identify the most and least satisfying jobs you have ever had.&nbsp;</h2>
+<h2>Pou idantifye kalite yon travay ki ede ou fè eksperyans byennèt nan espas travay la:
+</h2>
+<h2>Idantifye pi plis ak pi piti travay yo satisfè ou te janm fè.
+</h2>
 <ul>
 <li aria-level="2">
-<h2>What aspects about these jobs made them the most enjoyable? What were your successes?</h2>
+<h2>Ki aspè nan travay sa yo ki te fè yo pi agreyab? Ki sa ki te siksè ou a?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What aspects made them the most&nbsp;disagreeable? What did you feel were some failures?</h2>
+<h2>Ki aspè ki fè yo pi dezagreyab la? Ki sa ou te santi yo te kèk echèk?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What made you look forward to&nbsp;going into work on a Monday morning?&nbsp;</h2>
+<h2>Ki sa ki te fè ou gade pou pi devan pou antre nan travay nan yon lendi maten?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What made you dread going to work on Monday morning?&nbsp;</h2>
+<h2>Kisa ki te fè ou pè ale nan travay nan Lendi maten?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Visualize yourself in a career you love. What does it look like?&nbsp;</h2>
+<h2>Imajine tèt ou nan yon karyè ou renmen. Ak kisa li sanble?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Which of the following stand out as key career drivers for you? How important is it to you and why does it matter? What implications does each area have for your career choice? How does it match your current or planned choice?&nbsp;</h2>
+<h2>Kilès nan sa ki annapre yo soti kòm chofè karyè kle pou ou? Ki jan li enpòtan pou ou e poukisa li enpòtan? Ki enplikasyon chak zòn genyen pou chwa karyè ou? Ki jan li matche ak chwa ou ye kounye a oswa planifye?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Task variety</h2>
+<h2>varyete travay</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Relationships with colleagues, personal connection, sense of community</h2>
+<h2>Relasyon ak kòlèg, koneksyon pèsonèl, sans kominote</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Working conditions</h2>
+<h2>Kondisyon travay yo</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Workload &ndash; heavy, intense, light, pace</h2>
+<h2>Travay - lou, entans, limyè, vitès</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Educational and developmental opportunities for personal growth</h2>
+<h2>Opòtinite edikatif ak devlopman pou kwasans pèsonèl</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Congruence (person-environment fit)</h2>
+<h2>Kongrians (moun-anviwònman anfòm)</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Technical competence &ndash; setting to use and improve my technical skills</h2>
+<h2>Opòtinite teknik - anviwònman pou itilize ak amelyore kapasite teknik mwen</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>General managerial competence &ndash; ability to lead in the organization</h2>
+<h2>Opòtinite jeneral pou manadjè - kapasite pou dirije nan òganizasyon an</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Security and stability &ndash; stable funding, stable staff setting, predictability, personal financial security</h2>
+<h2>Sekirite Sosyal ak estabilite - finansman ki estab, estabilite anviwònman anplwaye, previzibilite, pèsonèl sekirite finansye</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Entrepreneurial creativity &ndash; the opportunity to think outside the box and implement new ideas, with creativity and self-expression</h2>
+<h2>kreyativite antreprenè - opòtinite pou panse deyò bwat la epi aplike nouvo lide, avèk kreyativite ak ekspresyon tèt yo</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Autonomy and independence - ability to work alone, make decisions, or work in a team setting</h2>
+<h2>Otonomi ak endepandans - kapasite pou travay pou kont li, pran desizyon, oswa travay nan yon anviwònman ekip</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Service and dedication to a cause; social impact; altruism, helping others, outreach</h2>
+<h2>Sèvis ak devouman pou yon kòz; enpak sosyal; altrwism, ede lòt moun, kontak</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Geographic location</h2>
+<h2>jewografik kote</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Physical environment &ndash; office, indoors or outdoors&hellip;</h2>
+<h2>Anviwònman fizik - biwo, andedan oswa deyò&hellip;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Pure challenge, sporadic or continuing</h2>
+<h2>Pure defi, detanzantan oswa kontinye</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Lifestyle (work/life balance)</h2>
+<h2>Stil de vi (travay / balans lavi)</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Power and status</h2>
+<h2>Pouvwa ak estati</h2>
 </li>
 </ul>
-<h2>Download a <a target="_blank" rel="noreferrer" href="https://www.google.com/search?biw=1422&amp;bih=642&amp;tbm=isch&amp;sxsrf=ACYBGNSQFIQVi9LtQ-OXTqgDSVhgSLhEOw%3A1575404723277&amp;sa=1&amp;ei=s8TmXYPGEM-JggepmKOwDw&amp;q=printable+wheel+of+life+career+model&amp;oq=printable+wheel+of+life+career+model&amp;gs_l=img.3...47155.54179..54381...0.0..0.87.997.17......0....1..gws-wiz-img.......35i39j0i8i30j0j0i30.Klx0idkaVgU&amp;ved=0ahUKEwjD66H3p5rmAhXPhOAKHSnMCPYQ4dUDCAc&amp;uact=5#imgrc=Myzu0JJm7LuiIM:">&ldquo;wheel of life&rdquo; available online</a>. <i>Label each spoke as a different career element that is important to you</i>, such as those described above (autonomy, work conditions, colleagues, opportunities for learning, service component, challenge, salary, etc.)&nbsp;</h2>
+<h2>Telechaje yon <a target="_blank" rel="noreferrer" href="https://www.google.com/search?biw=1422&amp;bih=642&amp;tbm=isch&amp;sxsrf=ACYBGNSQFIQVi9LtQ-OXTqgDSVhgSLhEOw%3A1575404723277&amp;sa=1&amp;ei=s8TmXYPGEM-JggepmKOwDw&amp;q=printable+wheel+of+life+career+model&amp;oq=printable+wheel+of+life+career+model&amp;gs_l=img.3...47155.54179..54381...0.0..0.87.997.17......0....1..gws-wiz-img.......35i39j0i8i30j0j0i30.Klx0idkaVgU&amp;ved=0ahUKEwjD66H3p5rmAhXPhOAKHSnMCPYQ4dUDCAc&amp;uact=5#imgrc=Myzu0JJm7LuiIM:">&ldquo;wou nan lavi&rdquo; ki disponib sou entènèt</a>. Mete etikèt sou chak moun ki te pale tankou yon eleman karyè diferan ki enpòtan nan ou, tankou sa yo ki dekri anwo a (otonomi, kondisyon travay, kòlèg, opòtinite pou aprann, eleman sèvis, defi, salè, elatriye)</h2>
 <ul>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
@@ -171,60 +177,61 @@ const SecondPage = () => (
 />
 </div>
 <li aria-level="2">
-<h2>Color in each segment according to how fulfilled you feel in that part of your career. This gives you a visual analysis of your current situation.&nbsp;</h2>
+<h2>Koulè nan chak segman dapre jan ou rive vre ou santi ou nan pati karyè ou. Sa a ba ou yon analiz vizyèl nan sitiyasyon ou ye kounye a.</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What aspects are working well for you, and what are not?&nbsp;</h2>
+<h2>Ki aspè k ap travay byen pou ou, e kisa ki pa ye?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What options do you have to address the areas that are not going well?&nbsp;</h2>
+<h2>Ki opsyon ou genyen pou adrese zòn ki pa pral byen?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What does this say about your values/priorities in a work or career setting?&nbsp;</h2>
+<h2>Kisa sa di sou valè / priyorite ou yo nan yon anviwònman travay oswa karyè?</h2>
 </li>
 </ul>
-<h1>Prioritize your work preferences &ndash; <a target="_blank" rel="noreferrer" href="https://www.beverlyryle.com/prioritizing-grid">try this worksheet</a></h1>
+<h1>PPriyorite preferans travay ou - <a target="_blank" rel="noreferrer" href="https://www.beverlyryle.com/prioritizing-grid">eseye Fèy travay sa a</a></h1>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>"May your choices reflect your hopes, not your fears."</i></h3>
+<h3><i>"Se pou chwa ou yo reflete espwa ou, pa krent ou."</i></h3>
 <h3><i>&#8212; Nelson Mandela</i></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Retirement Party</h1>
+<h1>Pati retret</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/IMG_2514.JPG"
 />
 </div>
-<h2>What would you like your colleagues to say about you?&nbsp;</h2>
-<h2>Imagine you have come to the end of your formal work life, and your colleagues, who have worked with you for several years, throw a celebration for you. &nbsp;</h2>
+<h2>Ki sa ou ta renmen kòlèg ou yo di?&nbsp;</h2>
+<h2>Imajine ou rive nan fen travay fòmèl lavi ou, ak kòlèg ou yo, ki te travay avèk ou pandan plizyè ane, voye yon selebrasyon pou ou.
+</h2>
 <ul>
 <li aria-level="3">
-<h3>Identify the most important thing you hope your colleagues would say about you in a speech.&nbsp;</h3>
+<h3>Idantifye bagay ki pi enpòtan ou espere kòlèg ou yo ta di sou ou nan yon diskou.&nbsp;</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>What does this say about the values you want to live by in your career?</h3>
+<h3>Kisa sa di sou valè ou vle viv pa nan karyè ou?</h3>
 </li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>"Do not judge me by my successes, judge me by how many times I fell down and got back up again."</i></h3>
+<h3><i>"Pa jije m’ pa siksè m’ yo, jije m 'pa konbyen de fwa mwen tonbe atè ak lѐ mwen leve."</i></h3>
 <h3><i>--Nelson Mandela</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;If a man is called to be a street sweeper, he should sweep streets even as Michelangelo painted, or Beethoven composed music, or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, here lived a great street sweeper who did his job well.&rdquo;</i></h3>
+<h3><i>&ldquo;Si yon moun gen apѐl poul baleyèt lari, li ta dwe bale lari a menm jan Michelangelo pentire, oswa Beethoven konpoze mizik, oswa Shakespeare ki ekri pwezi. Li ta dwe bale lari a trѐ byen ke tout pouvwa nan syèl ak latè a ka kanpe pou di, isit la kapab rete yon gwan baleyèt lari ki byen fè travay li.&rdquo;</i></h3>
 <h3><i>--Martin Luther King, Jr.</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;Success isn&rsquo;t about how much money you make, it&rsquo;s about the difference you make in people&rsquo;s lives.&rdquo;&nbsp;</i></h3>
+<h3><i>&ldquo;Siksè pa depann de konbyen lajan ou fè, men nan diferans ke ou fѐ nan lavi moun yo.&rdquo;&nbsp;</i></h3>
 <h3><i>--Michelle Obama</i></h3>
 </div>
 <p></p>
