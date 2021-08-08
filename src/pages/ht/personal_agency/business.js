@@ -24,7 +24,7 @@ const SecondPage = () => (
 
 
     <div class="content">
-<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li>test</li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">Etap 1 Konnen kiyès ou ye</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/who_am_i/values">Valè nan travay ak lavi</Link></li><li><Link to="/ht/who_am_i/know_your_talents">Konnen talan ou yo</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">Pasyon ak enterè</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li>test</li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
@@ -33,18 +33,18 @@ const SecondPage = () => (
   src="../../../images/art.jpg"
 />
 </div>
-<h1>Ask these questions:</h1>
+<h1>Poze kesyon sa yo:</h1>
 <ul>
-<li><h2>Where is there a gap in services in my community?</h2></li>
-<li><h2>Where is there work that others have rejected, or not yet recognized as valuable?&nbsp;</h2></li>
-<li><h2>What kind of services do I have the capacity and interest in fulfilling?</h2></li>
-<li><h2>Who is the ideal audience to benefit from these services?&nbsp;</h2></li>
-<li><h2>Gather the data needed to explore this new service. Test these ideas with a small audience of supportive friends and colleagues. Listen closely to their input and suggestions.&nbsp;</h2></li>
-<li><h2>Identify small next steps and timeline to implement this service.&nbsp;</h2></li>
+<li><h2>Kote gen yon espas nan sèvis nan kominote mwen an?</h2></li>
+<li><h2>Ki kote gen yon travay ke lòt moun te rejte, oswa ki poko rekonèt kòm yon travay enpòtan?&nbsp;</h2></li>
+<li><h2>Ki kalite sèvis mwen gen kapasite ak enterè nan ranpli?</h2></li>
+<li><h2>Ki moun ki odyans lan ideyal benefisye de sèvis sa yo?&nbsp;</h2></li>
+<li><h2>Rasanble done ki nesesè pou eksplore nouvo sèvis sa a. Teste ide sa yo ak yon ti odyans nan zanmi ki bay sipò ak kòlèg li yo. Koute byen opinyon yo ak sijesyon yo.&nbsp;</h2></li>
+<li><h2>Idantifye ti pwochen etap ak delè pou aplike sèvis sa a.&nbsp;</h2></li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3>"<i>I had to make my own living and my own opportunity. But I made it! Don't sit down and wait for the opportunities to come. Get up and make them."</i>&nbsp;</h3>
+<h3>"<i>Mwen te fè pwòp vi mwen ak pwòp opòtinite mwen. Men, mwen te echwe! Pa chita ap tann pou opòtinite yo vini. Leve epi fè yo."</i>&nbsp;</h3>
 <h3><i>- Madam C.J. Walker</i></h3>
 </div>
 <p></p>

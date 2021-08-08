@@ -24,7 +24,7 @@ const SecondPage = () => (
 
 
     <div class="content">
-<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li>test</li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">Etap 1 Konnen kiyès ou ye</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/who_am_i/values">Valè nan travay ak lavi</Link></li><li><Link to="/ht/who_am_i/know_your_talents">Konnen talan ou yo</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">Pasyon ak enterè</Link></li></ul><li>test</li><ul style={{display: 'none'}}><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
@@ -33,142 +33,147 @@ const SecondPage = () => (
   src="../../../images/desert.jpg"
 />
 </div>
-<h1>Personal Agency<span style={{fontWeight: 400}}>&nbsp;&ndash; the ability for a person to act or intervene to produce a particular effect or result.</span></h1>
-<h1>Opportunity<span style={{fontWeight: 400}}>&nbsp;- A time or set of circumstances that makes it possible to do something.</span></h1>
+<h1>Pèsonèl Ajans<span style={{fontWeight: 400}}>&nbsp;&ndash; Se lѐ yon moun gen kapasite poul aji oubyen entèveni pou bay yon efè oubyen yon rezilta patikilye.</span></h1>
+<h1>Opòtinite<span style={{fontWeight: 400}}>&nbsp;- Yon tan oswa yon seri de sikonstans ki pѐmѐt ou fè yon bagay.</span></h1>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>You have to have confidence in your ability, and then be tough enough to follow through.&rdquo;</span></h3>
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Ou dwe gen konfyans nan kapasite w epi gen ase fὸs pouw ka kontinye.&rdquo;</span></h3>
 <h3><i>&ndash; </i><span style={{fontWeight: 400}}>Rosalynn Carter</span></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>You can have unbelievable intelligence, you can have connections, you can have opportunities fall out of the sky. But in the end, hard work is the true, enduring characteristic of successful people.&rdquo;</span></h3>
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Ou ka gen yon entèlijans enkwayab, ou ka gen anpil koneksyon, ou ka gen anpil opòtinite ki sὸti nan syèl la. Men, A la fen, travay di se veritab karakteristik yon  moun ki reyisi.&rdquo;</span></h3>
 <h3><i>&ndash; </i><span style={{fontWeight: 400}}>Marsha Evans</span></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Awake, awake, Clothe yourself in your strength, O Zion; Clothe yourself in your&nbsp;beautiful garments,</span><span style={{fontWeight: 400}}><br /></span><span style={{fontWeight: 400}}>O Jerusalem, the&nbsp;holy city...</span>2&nbsp;<span style={{fontWeight: 400}}>Shake yourself&nbsp;from the dust,&nbsp;rise up, O captive Jerusalem; Loose yourself from the chains around your neck, O captive daughter of Zion.&nbsp;&nbsp;</span>6&nbsp;<span style={{fontWeight: 400}}>Therefore My people shall&nbsp;know My name; therefore in that day I am the one who is speaking, &lsquo;Here I am.&rsquo;&rdquo;</span></h3>
-<h3><span style={{fontWeight: 400}}>--Isaiah 52:1-2, 6</span></h3>
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>1Leve non, mòn Siyon! Leve non! Mete kouraj ou sou ou! Mete pi bèl rad ou sou ou, ou menm Jerizalèm, lavil Bondye a! Paske moun lòt nasyon yo, ki pa pote mak kontra Bondye a, ki pa nan kondisyon pou sèvi Bondye, p'ap janm mete pye lakay ou ankò. 2Ou menm lavil Jerizalèm ki nan prizon, souke pousyè ki sou ou, leve atè a, chita sou fòtèy ou! Wete chenn yo te pase nan kou ou yo, ou menm mòn Siyon ki te nan prizon!
+&rsquo;&rdquo;</span></h3>
+<h3><span style={{fontWeight: 400}}>--EZAYI 52:1-2, 6</span></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>I long to accomplish a great and noble task, but it is my chief duty to accomplish small tasks as if they were great and noble.&rdquo;</span></h3>
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Mwen vle akonpli yon gwo ak yon travay nὸb, men li se devwa pѐsonѐl mwen pou’m akonpli yon ti travay tankou li se yon gro e nòb travay.&rdquo;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Helen Keller</span></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Identify Competing Options</h1>
+<h1>Idantifye Opsyon konpetisyon
+</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/hippo.jpg"
 />
 </div>
-<h2><span style={{fontWeight: 400}}>Often we have competing options, values or priorities, or other challenges when making decisions about a career. This exercise helps you identify and articulate those competing voices to possibly find a way forward.</span></h2>
+<h2><span style={{fontWeight: 400}}>Souvan nou gen opsyon konpetisyon, valè oswa priyorite, oswa lòt defi lè w ap pran desizyon sou yon karyè. Egzèsis sa a ede w idantifye ak artikile vwa sa yo ki konkiran pou yo ka jwenn yon fason pou pi devan.</span></h2>
 <ul>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Identify the competing voices, explaining the different messages you&rsquo;re hearing in your own mind.</span></h3>
+<h3><span style={{fontWeight: 400}}>Idantifye vwa konpetisyon yo, eksplike diferan mesaj ou tande nan pwòp tèt ou.</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Narrow these competing dilemmas down to two major messages. Envision these two sides as different versions of yourself.</span></h3>
+<h3><span style={{fontWeight: 400}}>Fè mwens pwoblèm sa yo nan de gwo mesaj. Envizyone de kote sa yo kòm vèsyon diferan nan tèt ou.</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Set up two chairs. Sit in one chair that represents one of the voices. Articulate the emotions, attitudes, assumptions or actions of this version of yourself. What kind of voice and tone are you using?</span></h3>
+<h3><span style={{fontWeight: 400}}>Mete de chèz. Chita nan yon chèz ki reprezante youn nan vwa yo. Atikile emosyon, atitid, sipozisyon oswa aksyon vèsyon sa a nan tèt ou. Ki kalite vwa ak ton w ap itilize?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Sit in the other chair to represent the other voice and ask yourself the same questions.</span></h3>
+<h3><span style={{fontWeight: 400}}>Chita nan lòt chèz la pou reprezante lòt vwa a epi poze tèt ou menm kesyon yo.</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Invite these two &ldquo;voices&rdquo; to speak with each other. What does each version think of the other? What would they like to say to each other?</span></h3>
+<h3><span style={{fontWeight: 400}}>Envite de “vwa” sa yo pou yo pale youn ak lòt. Ki sa chak vèsyon panse ak lòt la? Ki sa yo ta renmen di youn ak lòt?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Reflect on this &ldquo;conversation.&rdquo; Has either side of yourself changed? Which of the voices now seems louder or more convincing?</span></h3>
+<h3><span style={{fontWeight: 400}}>Reflechi sou "konvèsasyon an" sa a. Èske nenpòt kote nan tèt ou chanje? Kilès nan vwa yo kounye a ki sanble pi fò oswa plis konvenk?</span></h3>
 </li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Have an imaginary conversation with your role model</h1>
+<h1>Fè yon konvèsasyon imajinè ak modèl wòl ou
+</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/trees.jpg"
 />
 </div>
-<h2><span style={{fontWeight: 400}}>If you find yourself in a career dilemma, or doubts about the best way forward,&nbsp;imagine having a conversation with someone you admire, whom you feel would give you good advice.</span></h2>
+<h2><span style={{fontWeight: 400}}>Si ou jwenn tèt ou nan yon dilèm karyè, oswa ou gen dout sou pi bon fason pou pi devan, imajine gen yon konvèsasyon ak yon moun ou admire, ki moun ou santi ou ta ba ou bon konsèy.</span></h2>
 <ul>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Make a list of these dilemmas or doubts in detail. What are&nbsp;you worried about?</span></h2>
+<h2><span style={{fontWeight: 400}}>Fè yon lis dilèm sa yo oswa dout yo an detay. Ki sa ou enkyete sou?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Explain your career dilemma or personal doubts with your imaginary conversation partner/role model.</span></h2>
+<h2><span style={{fontWeight: 400}}>Eksplike dilèm karyè ou oswa dout pèsonèl ou avèk imajinè ou konvèsasyon patnè / wòl modèl.</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Ask them a question related to your dilemma or doubts.</span></h2>
+<h2><span style={{fontWeight: 400}}>Mande yo yon kesyon ki gen rapò ak dilèm ou oswa dout ou yo.</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>What response do you think your role model will give you? Be as detailed as you can be.</span></h2>
+<h2><span style={{fontWeight: 400}}>Ki repons ou panse modèl wòl la ap ba ou? Fè detay jan ou kapab.</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Does this seem like good advice? What parts are especially valuable or useful?</span></h2>
+<h2><span style={{fontWeight: 400}}>Èske sa sanble bon konsèy? Ki pati ki espesyalman valab oswa itil?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Do you think you should act on this advice? Why or why not?</span></h2>
+<h2><span style={{fontWeight: 400}}>Èske ou panse ou ta dwe aji sou konsèy sa a? Poukisa ou pa?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>What would you need to change to enable you to act on this advice? What is the first step you need to take?&nbsp;</span></h2>
+<h2><span style={{fontWeight: 400}}>Kisa ou ta bezwen chanje pou pèmèt ou aji sou konsèy sa a? Ki premye etap ou dwe pran?&nbsp;</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Make a commitment to change your thinking about your dilemmas or doubts.</span></h2>
+<h2><span style={{fontWeight: 400}}>Fè yon angajman chanje panse ou sou dilèm ou a oswa dout.</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>If I wasn&rsquo;t afraid, I would&hellip;</span></h2>
+<h2><span style={{fontWeight: 400}}>Si mwen pa te pè, mwen ta&hellip;</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>If I had no problems, limitations, worries or challenges, if all my excuses disappeared, I would&hellip;and my next step would be&hellip;</span></h2>
+<h2><span style={{fontWeight: 400}}>Si mwen pa te gen okenn pwoblèm, limit, enkyetid oswa defi, si tout eskiz mwen disparèt, mwen ta ... ak pwochen etap mwen ta dwe&hellip;</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>If I knew I couldn&rsquo;t fail, the next tiny step would be&hellip;</span></h2>
+<h2><span style={{fontWeight: 400}}>Si mwen te konnen mwen pa te kapab febli, pwochen etap la ti ta dwe&hellip;</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>If I had all the confidence and skills needed, I would&hellip;</span></h2>
+<h2><span style={{fontWeight: 400}}>Si mwen te gen tout konfyans ak ladrès ki nesesè, mwen ta&hellip;</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Find a network of support to help you move ahead with your new commitment.</span></h2>
+<h2><span style={{fontWeight: 400}}>Jwenn yon rezo sipò pou ede ou avanse ak nouvo angajman ou.</span></h2>
 </li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Envision a miracle resolution to your career dilemma!</h1>
+<h1>Envizyone yon mirak rezolisyon nan dilèm karyè ou!
+</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/ocean.jpg"
 />
 </div>
-<h2><span style={{fontWeight: 400}}>Imagine that you go to sleep tonight, wake up in the morning, and a miracle has happened so that your career dilemma is resolved! Journal the following questions:</span></h2>
+<h2><span style={{fontWeight: 400}}>Imajine ke ou ale nan dòmi aswè a, ou reveye nan maten, ak yon mirak ki te rive pou ke dilèm karyè ou rezoud! Jounal kesyon sa yo:</span></h2>
 <ul>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>When you wake up in the morning, what has changed? What is different?</span></h2>
+<h2><span style={{fontWeight: 400}}>Ki lè ou leve nan maten, kisa ki chanje? Ki sa ki diferan?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Provide details of your life, routine, emotions and relationships.</span></h2>
+<h2><span style={{fontWeight: 400}}>Bay detay sou lavi ou, woutin, emosyon ou ak relasyon.</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>How are you feeling?</span></h2>
+<h2><span style={{fontWeight: 400}}>Kijan w santi w?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>What are you thinking about on the way to work?</span></h2>
+<h2><span style={{fontWeight: 400}}>Ki sa ou panse sou fason pou w travay?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>How does this inform your goals for the future?</span></h2>
+<h2><span style={{fontWeight: 400}}>Kijan sa enfòme objektif ou pou lavni an?</span></h2>
 </li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Take Practical Steps!</h1>
+<h1>Pran kѐk mezi pratik!</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/graffiti.jpg"
 />
 </div>
-<h2>Take Practical Steps that are within your control</h2>
-<h2>Even when you feel like there may be no opportunities for you, there are many practical steps you can take that are within your control!</h2>
-<h3>Links to Tools to explore for practical steps:</h3>
+<h2>Menm si ou santi ke petѐt ka pa gen pyѐs opὸtinite pou ou, ou dwe pran anpil mezi pratik ki sou kontwὸl ou!
+</h2>
+<h3>Lyen a zouti pou eksplore pou etap Pratik yo:
+</h3>
 <ul>
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/goals">
-Develop a set of life and career goals
+Devlope yon seri objektif lavi ak karyè
 </Link>
 </h3>
 </li>
@@ -177,7 +182,7 @@ Develop a set of life and career goals
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/mentor">
-Seek a Mentor
+Chèche yon konseye
 </Link>
 </h3>
 </li>
@@ -186,7 +191,7 @@ Seek a Mentor
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/research">
-Do the Research!
+Fè rechèch la!
 </Link>
 </h3>
 </li>
@@ -195,7 +200,7 @@ Do the Research!
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/education">
-Pursue your education
+Kouri edikasyon w
 </Link>
 </h3>
 </li>
@@ -204,7 +209,7 @@ Pursue your education
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/volunteer">
-Volunteer
+Volontè
 </Link>
 </h3>
 </li>
@@ -213,13 +218,13 @@ Volunteer
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/business">
-Consider starting your own business or service
+Konsidere kòmanse pwòp biznis ou oswa sèvis
 </Link>
 
 /
 
 <Link to="/ht/personal_agency/parallel">
-Parallel Gigs
+Gigs Paralèl
 </Link>
 
 </h3>
@@ -229,7 +234,7 @@ Parallel Gigs
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/transactions">
-Transactions that are most likely to get me the job I want in the quickest amount of time
+Pifò efikas senaryo
 </Link>
 </h3>
 </li>
@@ -238,46 +243,46 @@ Transactions that are most likely to get me the job I want in the quickest amoun
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/online">
-Create a viable online Presence
+Prezans sou entènèt
 </Link>
 </h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Build a resume and cover letter that will attract attention with these&nbsp;<a target="_blank" rel="noreferrer" href="https://resumegenius.com/resume-templates">useful templates</a></h3>
+<h3><a target="_blank" rel="noreferrer" href="https://resumegenius.com/resume-templates">Bati yon rezime ak lèt kouvèti ki pral atire atansyon ak sa yo modèl itil</a></h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
 <h3>
 <Link to="/ht/personal_agency/interview">
-Prepare for your job interview
+Entèvyou travay
 </Link>
 </h3>
 </li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>&ldquo;</i>Say yes to every opportunity that comes along, because you never know what will lead to what. Have a bias toward action. Think of yourself as a fish that is hoping to get caught. Go out there among the fishhooks.&rdquo;&nbsp;</h3>
+<h3><i>&ldquo;</i>Di wi a chak opòtinite ki prezante paske ou pa janm konnen a kisa sa ka mennen. Ou dwe patizan aksyon a koz ou menm , Antanke pwason ki espere yap kenbel. Ale nan mitan pechè pwason yo.&rdquo;&nbsp;</h3>
 <h3>--David Brooks, The Second Mountain</h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;</i>I am not discouraged, because every wrong attempt discarded is another step forward.&rdquo;</h3>
+<h3><i>&ldquo;</i>Mwen pap dekouraje paske chak move tantasyon se yon lòt etap pou pi devan.&rdquo;</h3>
 <h3>--Thomas Edison</h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;</i>Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.&rdquo;</h3>
+<h3><i>&ldquo;</i>Menm si mwen ta konnen ke demen mond lan ka tounen an moso, map toujou plante pye pòm mwen.&rdquo;</h3>
 <h3>--Martin Luther King, Jr.</h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;</i>It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.&rdquo;</h3>
+<h3><i>&ldquo;</i>Li bon pou’w pran yon metòd epi eseye’l. Si li echwe admèt li avѐk franchiz epi eseye yon lòt. Men sitou eseye yon bagay.&rdquo;</h3>
 <h3>--Franklin D. Roosevelt</h3>
 </div>
 <p></p>
 
 
-<Link className="back_link" to="/ht/who_am_i/passion_and_interests">Back to: test</Link><Link className="next_link" to="/ht/personal_agency/goals">Next page: test</Link>
+<Link className="back_link" to="/ht/who_am_i/passion_and_interests">Back to: Pasyon ak enterè</Link><Link className="next_link" to="/ht/personal_agency/goals">Next page: test</Link>
     </div>
 
 

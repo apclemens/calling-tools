@@ -24,7 +24,7 @@ const SecondPage = () => (
 
 
     <div class="content">
-<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li>test</li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">Etap 1 Konnen kiyès ou ye</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/who_am_i/values">Valè nan travay ak lavi</Link></li><li><Link to="/ht/who_am_i/know_your_talents">Konnen talan ou yo</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">Pasyon ak enterè</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li>test</li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
@@ -33,29 +33,29 @@ const SecondPage = () => (
   src="../../../images/rocks.jpg"
 />
 </div>
-<h1>Your resume is already out there!</h1>
-<h2><i>Hiring managers will look you up online. Building a positive and professionally attractive profile online will get the attention you need to pursue your calling. Some ideas to consider:&nbsp;</i></h2>
+<h1>Rezime ou a deja soti la!</h1>
+<h2><i>Anplwaye administratè yo ap gade ou sou entènèt la. Bati yon pwofil pozitif ak pwofesyon ou k’ap atire moun sou entènèt la epi jwenn atansyon w’ap bezwen pou pouswiv apèl ou yo. Kèk ide pou konsidere:&nbsp;</i></h2>
 <ul>
 <li>
-<h3><i>When preparing&nbsp;online content, ask yourself the questions: Who are you? What makes you special? Why should anyone care?&nbsp;</i></h3>
+<h3><i>Lè w ap prepare kontni sou entènèt la, poze tèt ou kesyon sa yo: Ki moun ou ye? Ki sa ki fè ou espesyal? Poukisa yon moun ta dwe pran swen ou?&nbsp;</i></h3>
 </li><li>
-<h3>Ensure that all your online profiles present themselves in a way that will make a positive impression on a potential employer. Put yourself in the employer&rsquo;s shoes: Does your online image display the kind of character they would want to work in their organization?</h3>
+<h3>Asire w ke tout pwofil ou sou entènèt la reprezante w nan yon fason ki pral fè yo gen yon enpresyon pozitif ke w se yon potansyèl anplwayè. Mete tèt ou nan soulye anplwayè-a: imaj sou entènèt la montre ki kalite karaktè yo ta vle pou travay nan òganizasyon yo?</h3>
 </li><li>
-<h3>Create a professional photo to be use across all digital platforms.&nbsp;</h3>
+<h3>Kreye yon foto pwofesyonèl ke yo ka itilize nan tout tribin dijital.&nbsp;</h3>
 </li><li>
-<h3>Start a personal blog to share your ideas and experiences that can be&nbsp;spread through Facebook, Twitter, LinkedIn, etc. Personal content can also be stored at Brandyourself.com and About.me.</h3>
+<h3>Kòmanse blog pèsonèl yo pataje lide ou ak eksperyans ou ki ka gaye nan Facebook, Twitter, LinkedIn, elatriye ka kontni pèsonèl tou dwe estoke nan Brandyourself.com ak About.me.</h3>
 </li><li>
-<h3>Start a website to promote your work as an artist, photographer, etc.&nbsp;</h3>
+<h3>Kòmanse yon sit entènèt pou ankouraje travay ou kòm yon atis, fotograf, elatriye.&nbsp;</h3>
 </li><li>
-<h3><i>Develop your professional platform on LinkdIn</i> which can give you many connections, such as &ldquo;bridge people&rdquo; to introduce you to a company or a network. Make sure your profile is up to date, and is clear and specific about what kind of job you&rsquo;re looking for.</h3>
+<h3>Devlope platfòm pwofesyonèl ou sou LinkdIn ki ka ba ou anpil koneksyon, tankou "moun pon" pou entwodui ou nan yon konpayi oswa yon rezo. Asire w ke pwofil ou pa ansyen, epi ki klè ak espesifik sou kalite travay w ‘ap chèche a.</h3>
 </li><li>
-<h3>Include reference to your online presence in your resume.</h3>
+<h3>Mete referans ou yo sou entènèt la nan rezime w la.</h3>
 </li>
 </ul>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
-<h3>Build a resume and cover letter that will attract attention with these <a target="_blank" rel="noreferrer" href="https://resumegenius.com/resume-templates">useful templates</a>&nbsp;</h3>
+<h3>Fè yon rezime ak yon lèt ​​motivasyon ki pral atire atansyon yo ak modèl kap itil</h3>
 <h3>&nbsp;</h3>
-<h3><i>Post your resume</i> at the most commonly used job sites (if you're living in the U.S. or Canada), and you may get some responses! Remember to use key words identifying the kind of work you&rsquo;re looking for, which will more likely be matched by companies looking for your kind of skills and interests.</h3>
+<h3>Afiche rezime w nan sit travay ki pi souvan itilize (si wap viv nan Etazini oswa Kanada), epi ou ka jwenn kèk repons! Sonje itilize mo kle ki idantifye kalite travay ou ap chèche a, sa ki pral plis chans pou yo menm pa konpayi kap chèche kalite ou nan konpetans ak enterè.</h3>
 <p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Indeed.com</span></p>
 <p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Livecareer.com</span></p>
 <p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Ziprecruiter.com</span></p>
@@ -63,7 +63,7 @@ const SecondPage = () => (
 <p style={{marginBottom: 0}}><span style={{fontWeight: 400}}>Readyjob.org</span></p>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>"The digital footprint is the first impression between job candidates and people working within the company. The 24/7 content serves as a prelude to the first handshake or direct eye contact in the talent recruitment pipeline."&nbsp;</i></h3>
+<h3><i>"Anprint dijital la se premye enpresyon ant kandida travay ak moun k ap travay nan konpayi an. Kontni an 24/7 sèvi kòm yon prelid ak premye negosyasyon an oswa kontak dirèk nan je nan tiyo nan rekritman talan an."&nbsp;</i></h3>
 <h3><i>--Marti Konstant, </i><i>Activate your Agile Career</i></h3>
 </div>
 

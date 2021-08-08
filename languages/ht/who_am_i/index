@@ -143,24 +143,11 @@ Tools to explore your passions and interests
 <h3><b>Èske mwen renmen planifye davans, oswa mwen pito espontane?</b></h3>
 </li>
 </ul>
-<h1><b><i>Appreciate your strengths</i></b></h1>
+<h1><b><i>Apresye fòs ou</i></b></h1>
 <div className="image" style={{width: "27%",float: "right"}}>
 <StaticImage
   src="../../../images/rugs.jpg"
 />
 </div>
 <h3><b>Teste pèsonalite ou / karyè anfòm avèk tès sa yo sou entènèt (sitou gratis)</b><b><br /></b><a href="https://www.truity.com/view/tests/personality-career"><b>https://www.truity.com/view/tests/personality-career</b><b><br /></b></a><a href="https://deweycolorsystem.com/tests/"><b>https://deweycolorsystem.com/tests/</b><b><br /></b></a><a href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171"><b>https://www.thebalancecareers.com/personality-type-and-career-choice-526171</b><b><br /></b></a><a href="https://www.enneagraminstitute.com/"><b>https://www.enneagraminstitute.com/</b></a></h3>
-<ul>
-<li aria-level="3">
-<h2><b>Do you thrive on interaction with others, or prefer to work alone?</b></h2>
-</li>
-<li aria-level="2">
-<h2><b>What did you do well?</b></h2>
-</li>
-<li aria-level="2">
-<h2><b>What is it about you that made you do well in that setting?</b></h2>
-</li>
-<li aria-level="2">
-<h2><b>What does that situation say about your strengths that would be transferable to a work setting?</b></h2>
-</li>
-</ul>
+

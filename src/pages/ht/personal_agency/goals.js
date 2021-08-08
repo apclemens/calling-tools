@@ -24,7 +24,7 @@ const SecondPage = () => (
 
 
     <div class="content">
-<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li>test</li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">Etap 1 Konnen kiyès ou ye</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/who_am_i/values">Valè nan travay ak lavi</Link></li><li><Link to="/ht/who_am_i/know_your_talents">Konnen talan ou yo</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">Pasyon ak enterè</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li>test</li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
@@ -33,115 +33,115 @@ const SecondPage = () => (
   src="../../../images/church.jpg"
 />
 </div>
-<h2>Decide what you want most and set goals to turn your dreams into reality. Plan your goals fully.&nbsp;</h2>
+<h2>Deside de sa ou plis vle epi fikse objektif ou pou transfòme rèv ou yo an reyalite. Planifye objektif ou yo konplètman.&nbsp;</h2>
 <ul>
 <li aria-level="3">
-<h3>Write down major areas of your life as headings each on a separate page. Below are some example areas:</h3>
+<h3>Ekri pi gwo zòn nan lavi ou kòm yon tit chak nan yon paj apa. Anba a gen kèk domèn egzanp:</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Adventures/Travel</h3>
+<h3>Avanti / vwayaj</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Career</h3>
+<h3>Karyè</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Community</h3>
+<h3>Kominote</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Education/Study/Professional development</h3>
+<h3>Edikasyon / Etid / Devlopman Pwofesyonèl</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Family/Marriage</h3>
+<h3>Fanmi / Maryaj</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Finances</h3>
+<h3>Finans</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Friends/Relationships</h3>
+<h3>Zanmi / Relasyon</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Health/Fitness/Sports</h3>
+<h3>Sante / Fòm / Espò</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Helping others/Philanthropy/Service</h3>
+<h3>Ede lòt moun / filantropik / Sèvis</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Hobbies</h3>
+<h3>Jwèt</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Home</h3>
+<h3>Kay</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Personal growth</h3>
+<h3>Kwasans pèsonèl</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Politics</h3>
+<h3>Politik</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Reading</h3>
+<h3>Lekti</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Retirement</h3>
+<h3>Retrèt</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Spiritual/Faith</h3>
+<h3>Espirityèl / Lafwa</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Create measurable goals for each, including a timeline.</h3>
+<h3>Kreye objektif yo avèk mezi pou chak, moun ki gen ladan yo avèk tout yon delè.</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>List the milestones desired, and action required.</h3>
+<h3>Ekri direksyon yo ak aksyon ki nesesè yo.</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Visit your goals list often, to manage and implement in a timely manner.</h3>
+<h3>Vizite lis objektif ou souvan, pou jere epi aplike nan yon mannyè apwopriye.</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Record any career clues that come to mind during the process of implementing goals in all aspects of your life.</h3>
+<h3>Ekri nenpòt ki endikasyon karyè ki vin nan lide pandan pwosesis la nan mete ann aplikasyon objektif nan tout aspè nan lavi ou.</h3>
 </li>
 </ul>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
 <div className="quote">
-<h3><i><span style={{fontWeight: 400}}>&ldquo;One of the lessons that I grew up with was to always stay true to yourself and never let what somebody says distract you from your goals.&rdquo;&nbsp;</span></i></h3>
+<h3><i><span style={{fontWeight: 400}}>&ldquo;Youn nan leson ke mwen grandi avè sete toujou rete fidèl avèk pwòp tèt mwen epi pa janm kite sa yon moun te di sou ou distrè w de objektif ou yo.&rdquo;&nbsp;</span></i></h3>
 <h3><i><span style={{fontWeight: 400}}>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --Michelle Obama</span></i></h3>
 </div>
 

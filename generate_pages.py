@@ -54,7 +54,7 @@ page_titles_lookup = {
             'en': 'Passions and Interests',
             'fr': 'Passions et Intérêts',
             'es': 'Pasiones e intereses',
-            'ht': 'test',
+            'ht': 'Pasyon ak enterè',
             'pt': 'test',
             },
         'personal_well_being': {
@@ -68,14 +68,14 @@ page_titles_lookup = {
             'en': 'Values in Work and Life',
             'fr': 'Explorez vos valeurs familiales envers le travail',
             'es': 'Valores en el trabajo y la vida',
-            'ht': 'test',
+            'ht': 'Valè nan travay ak lavi',
             'pt': 'test',
             },
         'who_am_i/know_your_talents': {
             'en': 'Know Your Talents',
             'fr': 'Découvrez ce qui est le plus important pour vous',
             'es': 'Conozca sus talentos',
-            'ht': 'test',
+            'ht': 'Konnen talan ou yo',
             'pt': 'test',
             },
         'personal_agency/index': {
@@ -96,7 +96,7 @@ page_titles_lookup = {
             'en': 'Step 2:<br></br>Know Who You Are',
             'fr': 'Étape 2:<br></br>Sachez qui vous êtes',
             'es': 'Paso 2:<br></br>Conoce quién eres',
-            'ht': 'test',
+            'ht': 'Etap 1<br></br>Konnen kiyès ou ye',
             'pt': 'test',
             },
 
@@ -234,8 +234,8 @@ def generate_page_links(language, slug):
 
         if page != 'index' and 'index' in page:
             subpages = page.replace('index','')
-#            page_links += '<ul style={{display: \'none\'}}>'
-            page_links += '<ul>'
+            page_links += '<ul style={{display: \'none\'}}>'
+#            page_links += '<ul>'
 
     page_links += '</ul>'
     return page_links

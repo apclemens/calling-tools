@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="ht"
   >
     <Seo
-      title="test"
+      title="Etap 1 Konnen kiyès ou ye"
       defaultTitle="Rele Zouti"
       lang="ht"
     />
@@ -24,9 +24,9 @@ const SecondPage = () => (
 
 
     <div class="content">
-<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li>test</li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li>Etap 1 Konnen kiyès ou ye</li><ul style={{display: 'none'}}><li><Link to="/ht/who_am_i/values">Valè nan travay ak lavi</Link></li><li><Link to="/ht/who_am_i/know_your_talents">Konnen talan ou yo</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">Pasyon ak enterè</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>Etap 1<br></br>Konnen kiyès ou ye</h1>
 
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
@@ -173,30 +173,17 @@ Tools to explore your passions and interests
 <h3>Èske mwen renmen planifye davans, oswa mwen pito espontane?</h3>
 </li>
 </ul>
-<h1><i>Appreciate your strengths</i></h1>
+<h1><i>Apresye fòs ou</i></h1>
 <div className="image" style={{width: "27%",float: "right"}}>
 <StaticImage
   src="../../../images/rugs.jpg"
 />
 </div>
 <h3>Teste pèsonalite ou / karyè anfòm avèk tès sa yo sou entènèt (sitou gratis)<br /><a target="_blank" rel="noreferrer" href="https://www.truity.com/view/tests/personality-career">https://www.truity.com/view/tests/personality-career<br /></a><a target="_blank" rel="noreferrer" href="https://deweycolorsystem.com/tests/">https://deweycolorsystem.com/tests/<br /></a><a target="_blank" rel="noreferrer" href="https://www.thebalancecareers.com/personality-type-and-career-choice-526171">https://www.thebalancecareers.com/personality-type-and-career-choice-526171<br /></a><a target="_blank" rel="noreferrer" href="https://www.enneagraminstitute.com/">https://www.enneagraminstitute.com/</a></h3>
-<ul>
-<li aria-level="3">
-<h2>Do you thrive on interaction with others, or prefer to work alone?</h2>
-</li>
-<li aria-level="2">
-<h2>What did you do well?</h2>
-</li>
-<li aria-level="2">
-<h2>What is it about you that made you do well in that setting?</h2>
-</li>
-<li aria-level="2">
-<h2>What does that situation say about your strengths that would be transferable to a work setting?</h2>
-</li>
-</ul>
 
 
-<Link className="back_link" to="/ht/personal_well_being">Back to: Etap 1: Pran swen tet ou</Link><Link className="next_link" to="/ht/who_am_i/values">Next page: test</Link>
+
+<Link className="back_link" to="/ht/personal_well_being">Back to: Etap 1: Pran swen tet ou</Link><Link className="next_link" to="/ht/who_am_i/values">Next page: Valè nan travay ak lavi</Link>
     </div>
 
 

@@ -24,7 +24,7 @@ const SecondPage = () => (
 
 
     <div class="content">
-<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">test</Link></li><ul><li><Link to="/ht/who_am_i/values">test</Link></li><li><Link to="/ht/who_am_i/know_your_talents">test</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul><li><Link to="/ht/personal_agency/goals">test</Link></li><li>test</li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">Etap 1 Konnen kiyès ou ye</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/who_am_i/values">Valè nan travay ak lavi</Link></li><li><Link to="/ht/who_am_i/know_your_talents">Konnen talan ou yo</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">Pasyon ak enterè</Link></li></ul><li><Link to="/ht/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/personal_agency/goals">test</Link></li><li>test</li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
 
 <h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
 
@@ -33,51 +33,51 @@ const SecondPage = () => (
   src="../../../images/hana.jpg"
 />
 </div>
-<h2>A mentor is a trusted counselor or guide. A&nbsp;mentor&nbsp;may share with a mentee (or protege) information about his or her own career path, as well as provide guidance, motivation, emotional support, and role modeling. A&nbsp;mentor&nbsp;may help with exploring careers, setting goals, developing contacts, and identifying resources.</h2>
-<h3>A good mentor possesses the following qualities:</h3>
+<h2>Yon konseyè se yon konseye oubyen yon gid ke w ka fè konfyans. Yon konseye ka pataje avèk yon gid (oswa yon siveyans) enfòmasyon yo sou pwòp karyè li oswa sou pakou li yo, epitou li ka bay anpil konsèy, motivasyon, sipò emosyonèl, ak modèl. Yon konseye ka ede w pou w al pi lwen nan karyè w, pou genyen bon objektif, devlope anpil kontak, ak pou idantifye resous yo.</h2>
+<h3>Yon bon konseye posede kalite sa yo:</h3>
 <ul>
 <li aria-level="3">
-<h3>Willingness to share skills, knowledge, and expertise. ...</h3>
+<h3>Volonte pou pataje ladrès, konesans, ak ekspètiz. ...</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Demonstrates a positive attitude and acts as a positive role model. ...</h3>
+<h3>Demontre yon atitid pozitif epi aji kòm yon modèl pozitif. ...</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Takes a personal interest in the mentoring relationship. ...</h3>
+<h3>Pran yon enterè pèsonèl nan relasyon ankadreman an. ...</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Exhibits enthusiasm in the field. ...</h3>
+<h3>Montre antouzyasm ou nan jaden an. ...</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Values ongoing learning and growth in the field.</h3>
+<h3>Valè aprantisaj kontinyèl ak kwasans nan jaden an.</h3>
 </li>
 </ul>
-<h3>Benefits of having a mentor:&nbsp;</h3>
+<h3>Benefis pou gen yon konseye:&nbsp;</h3>
 <ol>
 <li>
-<h3>Advice:&nbsp;The biggest benefit of having a mentor is&nbsp;having someone you can ask questions&nbsp;and get advice from. Mentors can share a wealth of wisdom and insight on best practices in the work place, protocols and appropriate behaviours.</h3>
+<h3>Konsèy:&nbsp;Pi gwo benefis ki genyen lè w gen yon konseye se gen yon moun ou ka poze kesyon epi pou w jwenn konsèy. Konseye yo ka pataje yon richès nan sajès ak lide klè sou meyè pratik sou sa ki gen rapò ak travay, pwotokòl ak konpòtman ki apwopriye yo.</h3>
 </li><li>
-<h3>Networking: Forming a relationship with a mentor&nbsp;opens doors to other groups.&nbsp;It will give you the opportunity to get personal introductions to your mentor&rsquo;s contacts which may have taken your mentor years to establish.</h3>
+<h3>Rezo: Fòme yon relasyon ak yon konseye kapab louvri pòt ak lòt gwoup. Sa kapab ba ou posiblite pou w abitye pèsonèlman avèk kontak konseye ou a ki ka pran ane pou reyalize.</h3>
 </li><li>
-<h3>Encouragement: You could describe a mentor as a&nbsp;professional cheerleader for your career.&nbsp;It is likely that your mentor has experienced similar successes and challenges that you will encounter at the start of your career. By sharing how they overcame their challenges, mentors can&nbsp;encourage you to reach the finish line&nbsp;and to keep pursuing your goals.</h3>
+<h3>Ankourajman: Ou ka dekri yon konseye kòm yon dirijan pwofesyonèl pou karyè ou. Li posib pou konseye ou a fè siksè ak jwenn defi ki menm jan ak sa ke w te rankontre nan kòmansman karyè ou. Pou w pataje ki jan pou w simonte defi yo, konseye yo kapab ankouraje w pou w jwenn liy pou w rive ak kontinye pouswiv objektif ou yo.</h3>
 </li><li>
-<h3>Perspective:&nbsp;&nbsp;Through their diverse experiences,&nbsp;mentors may offer a perspective and vision&nbsp;that is different to your own.&nbsp; They will ask questions that may not occur to you, but are as critically important for solving a problem or planning your career.</h3>
+<h3>Pèspektiv:&nbsp;&nbsp;Atravè plizyè eksperyans ou yo, konseye yo ka ofri w yon pèspektiv ak yon vizyon ki diferan de pa w la. Lap poze w kesyon ki ka pa te menm rive ou, men ki yo tout enpòtan pou rezoud pwoblèm oswa planifye karyè ou.</h3>
 </li><li>
-<h3>Reduced feelings of isolation:&nbsp;Having someone outside of your direct working environment that you can ask questions, bounce ideas with and confide in, will help to create&nbsp;a sense of peer partnership&nbsp;that may not always be available in your workplace.</h3>
+<h3>Diminye santiman izolasyon:&nbsp;Èske w gen yon moun andeyò anviwònman travay dirèk ou, ladan l’ ou ka poze kesyon, pou fè monte ide ak pou motive w, ede yo kreye yon santiman ansanm ki pa toujou disponib nan espas travay ou a.</h3>
 </li><li>
-<h3>Accountability:&nbsp;A good mentor will provide you with honest feedback and&nbsp;hold you accountable to your career goals.</h3>
+<h3>Responsablite:&nbsp;Yon bon konseye ap ba ou bon kòmantè onètman epi kenbe ou responsab nan objektif karyè ou.</h3>
 </li><li>
-<h3>Career planning:&nbsp;&nbsp;As a mentee, you can sit down with your mentor to set long term goals and&nbsp;strategically plan out the next steps&nbsp;to reach your career objectives.</h3>
+<h3>Planifikasyon karyè:&nbsp;&nbsp;Antanke yon konseyè, ou ka chita ak konseye ou yo pou fikse kèk objektif alontèm pou planifye pwochèn etap pou w jwenn objektif karyè ou.</h3>
 </li><li>
-<h3>Confidence and talent development:&nbsp;&nbsp;A mentor who has expertise in your field will be able to&nbsp;identify your strengths and talents and offer suggestions on how you can further develop them&nbsp;and grow professionally. This is guaranteed to boost your confidence and work performance!</h3>
+<h3>Konfidans ak talan devlopman:&nbsp;&nbsp;Yon konseye ki gen bon konesans nan domèn ou an dwe an mezi pou  idantifye fòs ou yo ak talan w epi pou pwopoze w kèk mwayen pou w devlope pwofesyonèlman. Sa a garanti pou ranfòse konfyans ou yo ak pèfòmans pwofesyonèl ou yo!</h3>
 </li>
 </ol>
 <p></p>
