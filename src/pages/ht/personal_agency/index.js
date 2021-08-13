@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="ht"
   >
     <Seo
-      title="test"
+      title="Etap 4: Pran chaj"
       defaultTitle="Rele Zouti"
       lang="ht"
     />
@@ -20,13 +20,13 @@ const SecondPage = () => (
   src="../../../images/map.jpg"
 />
 
-<div class="languages"></div>
+<div class="languages"><Link to="/en/personal_agency/">English</Link><Link to="/fr/personal_agency/">Français</Link><Link to="/es/personal_agency/">Español</Link><Link className="current" to="/ht/personal_agency/">Krèyol ayisyen</Link><Link to="/pt/personal_agency/">Português</Link></div>
 
 
     <div class="content">
-<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">Etap 1 Konnen kiyès ou ye</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/who_am_i/values">Valè nan travay ak lavi</Link></li><li><Link to="/ht/who_am_i/know_your_talents">Konnen talan ou yo</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">Pasyon ak enterè</Link></li></ul><li>test</li><ul style={{display: 'none'}}><li><Link to="/ht/personal_agency/goals">test</Link></li><li><Link to="/ht/personal_agency/mentor">test</Link></li><li><Link to="/ht/personal_agency/research">test</Link></li><li><Link to="/ht/personal_agency/education">test</Link></li><li><Link to="/ht/personal_agency/volunteer">test</Link></li><li><Link to="/ht/personal_agency/business">test</Link></li><li><Link to="/ht/personal_agency/parallel">test</Link></li><li><Link to="/ht/personal_agency/transactions">test</Link></li><li><Link to="/ht/personal_agency/online">test</Link></li><li><Link to="/ht/personal_agency/interview">test</Link></li></ul><li><Link to="/ht/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/ht/">Ki sa ki yon apèl?</Link></li><li><Link to="/ht/personal_well_being">Etap 1: Pran swen tet ou</Link></li><li><Link to="/ht/who_am_i/">Etap 2: Konnen kiyès ou ye</Link></li><ul style={{display: 'none'}}><li><Link to="/ht/who_am_i/values">Valè nan travay ak lavi</Link></li><li><Link to="/ht/who_am_i/know_your_talents">Konnen talan ou yo</Link></li><li><Link to="/ht/who_am_i/passion_and_interests">Pasyon ak enterè</Link></li></ul><li>Etap 4: Pran chaj</li><ul style={{display: 'none'}}><li><Link to="/ht/personal_agency/goals">Devlope objektif lavi ak karyè</Link></li><li><Link to="/ht/personal_agency/mentor">Chèche yon konseye</Link></li><li><Link to="/ht/personal_agency/research">Fè rechèch ou</Link></li><li><Link to="/ht/personal_agency/education">Kouri dèyè edikasyon ou</Link></li><li><Link to="/ht/personal_agency/volunteer">Volontè!</Link></li><li><Link to="/ht/personal_agency/business">Konsidere w kòmanse pwòp biznis ou oswa sèvis</Link></li><li><Link to="/ht/personal_agency/parallel">Pouswit Paralèl</Link></li><li><Link to="/ht/personal_agency/transactions">Sèn ki pi bon pou jwenn travay la</Link></li><li><Link to="/ht/personal_agency/online">Kreye yon prezans solid an liy</Link></li><li><Link to="/ht/personal_agency/interview">Prepare w pou entèvyou travay la</Link></li></ul><li><Link to="/ht/references">Referans</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "4.5rem",textAlign: "center",borderBottom: "2px solid black"}}>Etap 4:<br></br>Pran chaj</h1>
 
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
@@ -282,7 +282,7 @@ Entèvyou travay
 <p></p>
 
 
-<Link className="back_link" to="/ht/who_am_i/passion_and_interests">Back to: Pasyon ak enterè</Link><Link className="next_link" to="/ht/personal_agency/goals">Next page: test</Link>
+<Link className="back_link" to="/ht/who_am_i/passion_and_interests">Retounen nan: Pasyon ak enterè</Link><Link className="next_link" to="/ht/personal_agency/goals">Paj kap vini an: Devlope objektif lavi ak karyè</Link>
     </div>
 
 

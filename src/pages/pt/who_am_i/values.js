@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="pt"
   >
     <Seo
-      title="test"
+      title="Conheça os seus valores de trabalho"
       defaultTitle="Ferramentas de Chamada"
       lang="pt"
     />
@@ -20,151 +20,151 @@ const SecondPage = () => (
   src="../../../images/inventory.jpg"
 />
 
-<div class="languages"></div>
+<div class="languages"><Link to="/en/who_am_i/values">English</Link><Link to="/fr/who_am_i/values">Français</Link><Link to="/es/who_am_i/values">Español</Link><Link to="/ht/who_am_i/values">Krèyol ayisyen</Link><Link className="current" to="/pt/who_am_i/values">Português</Link></div>
 
 
     <div class="content">
-<div><ul><li><Link to="/pt/">test</Link></li><li><Link to="/pt/personal_well_being">test</Link></li><li><Link to="/pt/who_am_i/">test</Link></li><ul style={{display: 'none'}}><li>test</li><li><Link to="/pt/who_am_i/know_your_talents">test</Link></li><li><Link to="/pt/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/pt/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/personal_agency/goals">test</Link></li><li><Link to="/pt/personal_agency/mentor">test</Link></li><li><Link to="/pt/personal_agency/research">test</Link></li><li><Link to="/pt/personal_agency/education">test</Link></li><li><Link to="/pt/personal_agency/volunteer">test</Link></li><li><Link to="/pt/personal_agency/business">test</Link></li><li><Link to="/pt/personal_agency/parallel">test</Link></li><li><Link to="/pt/personal_agency/transactions">test</Link></li><li><Link to="/pt/personal_agency/online">test</Link></li><li><Link to="/pt/personal_agency/interview">test</Link></li></ul><li><Link to="/pt/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/pt/">O que está chamando?</Link></li><li><Link to="/pt/personal_well_being">Passo 1 Te cuide</Link></li><li><Link to="/pt/who_am_i/">Passo 2: Saiba quem você é</Link></li><ul style={{display: 'none'}}><li>Conheça os seus valores de trabalho</li><li><Link to="/pt/who_am_i/know_your_talents">Conheça seus talentos</Link></li><li><Link to="/pt/who_am_i/passion_and_interests">Paixões e interesses</Link></li></ul><li><Link to="/pt/personal_agency/">Passo 3: Assuma o controle</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/personal_agency/goals">Desenvolver objetivos de vida e carreira</Link></li><li><Link to="/pt/personal_agency/mentor">Procure um mentor</Link></li><li><Link to="/pt/personal_agency/research">Faça a pesquisa!</Link></li><li><Link to="/pt/personal_agency/education">Prossiga sua educação</Link></li><li><Link to="/pt/personal_agency/volunteer">Voluntário!</Link></li><li><Link to="/pt/personal_agency/business">Considere iniciar seu próprio negócio ou serviço</Link></li><li><Link to="/pt/personal_agency/parallel">Perseguições Paralelas</Link></li><li><Link to="/pt/personal_agency/transactions">Cenários mais eficazes para conseguir o emprego</Link></li><li><Link to="/pt/personal_agency/online">Crie uma presença on-line viável</Link></li><li><Link to="/pt/personal_agency/interview">Prepare-se para sua entrevista de emprego</Link></li></ul><li><Link to="/pt/references">Referências</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Conheça os seus valores de trabalho</h1>
 
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/rainbow.jpg"
 />
 </div>
-<h1>To choose a direction in life, it&rsquo;s important to understand what priority you set on particular <i>values</i> in life and in the workplace.</h1>
-<h2><i>Values</i> - Principles or standards of behavior; one's judgement of what is important in life.</h2>
+<h1>Para escolher uma direção na vida, é importante entender qual a prioridade que você define para determinados valores na vida e no local de trabalho.</h1>
+<h2><i>Valores</i> - Princípios ou padrões de comportamento; julgamento de alguém sobre o que é importante na vida.</h2>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>&ldquo;What counts in life is not the mere fact that we have lived; it is what difference we have made to the lives of others that will determine the significance of the life we lead.&rdquo;</i></h3>
+<h3><i>&ldquo;O que conta na vida não é o mero facto de que vivemos; é a diferença que fizemos na vida dos outros que determinará o significado da vida que levamos.&rdquo;</i></h3>
 <h3><i>&#8212; Nelson Mandela</i></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Your Ideal Satisfying Job (values for wellbeing in the work environment)</h1>
+<h1>Seu trabalho satisfatório ideal (valores para o bem-estar no ambiente de trabalho)</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/0417180635c-EFFECTS.jpg"
 />
 </div>
-<h2>To identify the qualities of a job that help you experience wellbeing in the workplace:</h2>
-<h2>Identify the most and least satisfying jobs you have ever had.&nbsp;</h2>
+<h2>Para identificar as qualidades de um trabalho que o ajudam a experimentar o bem-estar no local de trabalho:</h2>
+<h2>Identifique os trabalhos mais e menos satisfatórios que você já teve.&nbsp;</h2>
 <ul>
 <li aria-level="2">
-<h2>What aspects about these jobs made them the most enjoyable? What were your successes?</h2>
+<h2>Quais os aspectos desses trabalhos os tornaram mais agradáveis? Quais foram seus sucessos?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What aspects made them the most&nbsp;disagreeable? What did you feel were some failures?</h2>
+<h2>Quais os aspectos que tornaram os mais desagradáveis? O que você achou de algumas falhas?</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What made you look forward to&nbsp;going into work on a Monday morning?&nbsp;</h2>
+<h2>O que deixa te ansioso para ir no trabalho na segunda-feira de manhã?&nbsp;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What made you dread going to work on Monday morning?&nbsp;</h2>
+<h2>O que fez te temer ir trabalhar na segunda-feira  de manhã?&nbsp;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Visualize yourself in a career you love. What does it look like?&nbsp;</h2>
+<h2>Visualize-se em uma carreira que você ama. Com o que se parece?&nbsp;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Which of the following stand out as key career drivers for you? How important is it to you and why does it matter? What implications does each area have for your career choice? How does it match your current or planned choice?&nbsp;</h2>
+<h2>Qual das seguintes opções se destaca como principais motivadores de carreira para você? Quão importante é para você e por que isso importa? Quais são as implicações que cada área tem para sua escolha de carreira? Como isso corresponde à sua escolha atcual ou planejada?&nbsp;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Task variety</h2>
+<h2>Variedade de tarefas</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Relationships with colleagues, personal connection, sense of community</h2>
+<h2>Relacionamento com colegas, conexão pessoal, senso de comunidade</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Working conditions</h2>
+<h2>Condições de trabalho</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Workload &ndash; heavy, intense, light, pace</h2>
+<h2>Carga de trabalho - pesada, intensa, leve, ritmo</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Educational and developmental opportunities for personal growth</h2>
+<h2>Oportunidades educacionais e de desenvolvimento para crescimento pessoal</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Congruence (person-environment fit)</h2>
+<h2>Congruência (ajuste pessoa-ambiente)</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Technical competence &ndash; setting to use and improve my technical skills</h2>
+<h2>Oportunidades técnicas - configuração para usar e melhorar minhas habilidades técnicas</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>General managerial competence &ndash; ability to lead in the organization</h2>
+<h2>Oportunidades gerenciais gerais - capacidade de liderar a organização</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Security and stability &ndash; stable funding, stable staff setting, predictability, personal financial security</h2>
+<h2>Segurança e estabilidade - financiamento estável, equipe estável, previsibilidade, segurança financeira pessoal</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Entrepreneurial creativity &ndash; the opportunity to think outside the box and implement new ideas, with creativity and self-expression</h2>
+<h2>Criatividade empreendedora - a oportunidade de pensar fora da caixa e implementar novas idéias, com criatividade e auto-expressão</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Autonomy and independence - ability to work alone, make decisions, or work in a team setting</h2>
+<h2>Autonomia e independência - capacidade de trabalhar sozinho, tomar decisões ou trabalhar em equipe</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Service and dedication to a cause; social impact; altruism, helping others, outreach</h2>
+<h2>Serviço e dedicação a uma causa; impacto social; altruísmo, ajudar os outros, alcançar</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Geographic location</h2>
+<h2>Localização geográfica</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Physical environment &ndash; office, indoors or outdoors&hellip;</h2>
+<h2>Ambiente físico - escritório, interior ou exterior&hellip;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Pure challenge, sporadic or continuing</h2>
+<h2>Desafio puro, esporádico ou contínuo</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Lifestyle (work/life balance)</h2>
+<h2>Estilo de vida (equilíbrio trabalho / vida pessoal)</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>Power and status</h2>
+<h2>Poder e status</h2>
 </li>
 </ul>
-<h2>Download a <a target="_blank" rel="noreferrer" href="https://www.google.com/search?biw=1422&amp;bih=642&amp;tbm=isch&amp;sxsrf=ACYBGNSQFIQVi9LtQ-OXTqgDSVhgSLhEOw%3A1575404723277&amp;sa=1&amp;ei=s8TmXYPGEM-JggepmKOwDw&amp;q=printable+wheel+of+life+career+model&amp;oq=printable+wheel+of+life+career+model&amp;gs_l=img.3...47155.54179..54381...0.0..0.87.997.17......0....1..gws-wiz-img.......35i39j0i8i30j0j0i30.Klx0idkaVgU&amp;ved=0ahUKEwjD66H3p5rmAhXPhOAKHSnMCPYQ4dUDCAc&amp;uact=5#imgrc=Myzu0JJm7LuiIM:">&ldquo;wheel of life&rdquo; available online</a>. <i>Label each spoke as a different career element that is important to you</i>, such as those described above (autonomy, work conditions, colleagues, opportunities for learning, service component, challenge, salary, etc.)&nbsp;</h2>
+<h2>Faça o download de uma <a target="_blank" rel="noreferrer" href="https://www.google.com/search?biw=1422&amp;bih=642&amp;tbm=isch&amp;sxsrf=ACYBGNSQFIQVi9LtQ-OXTqgDSVhgSLhEOw%3A1575404723277&amp;sa=1&amp;ei=s8TmXYPGEM-JggepmKOwDw&amp;q=printable+wheel+of+life+career+model&amp;oq=printable+wheel+of+life+career+model&amp;gs_l=img.3...47155.54179..54381...0.0..0.87.997.17......0....1..gws-wiz-img.......35i39j0i8i30j0j0i30.Klx0idkaVgU&amp;ved=0ahUKEwjD66H3p5rmAhXPhOAKHSnMCPYQ4dUDCAc&amp;uact=5#imgrc=Myzu0JJm7LuiIM:">&ldquo;roda da vida&rdquo; disponível online</a>. Rotule cada palestra como um elemento diferente da carreira que é importante para você, como os descritos acima (autonomia, condições de trabalho, colegas, oportunidades de aprendizagem, componente de serviço, desafio, salário, etc.)&nbsp;</h2>
 <ul>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
@@ -172,28 +172,28 @@ const SecondPage = () => (
 />
 </div>
 <li aria-level="2">
-<h2>Color in each segment according to how fulfilled you feel in that part of your career. This gives you a visual analysis of your current situation.&nbsp;</h2>
+<h2>Cor em cada segmento de acordo com a satisfação que você sente nessa parte da sua carreira. Isso fornece uma análise visual da sua situação atual.&nbsp;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What aspects are working well for you, and what are not?&nbsp;</h2>
+<h2>Quais são os aspectos  que estão funcionando bem para você e quais não estão?&nbsp;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What options do you have to address the areas that are not going well?&nbsp;</h2>
+<h2>Que opções você tem para lidar com as áreas que não estão indo bem?&nbsp;</h2>
 </li>
 </ul>
 <ul>
 <li aria-level="2">
-<h2>What does this say about your values/priorities in a work or career setting?&nbsp;</h2>
+<h2>O que isso diz sobre seus valores / prioridades em um ambiente de trabalho ou carreira?&nbsp;</h2>
 </li>
 </ul>
-<h1>Prioritize your work preferences &ndash; <a target="_blank" rel="noreferrer" href="https://www.beverlyryle.com/prioritizing-grid">try this worksheet</a></h1>
+<h1>Priorize suas preferências de trabalho &ndash; <a target="_blank" rel="noreferrer" href="https://www.beverlyryle.com/prioritizing-grid">tente esta planilha</a></h1>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>"May your choices reflect your hopes, not your fears."</i></h3>
+<h3><i>"Que suas escolhas reflitam suas esperanças, não seus medos."</i></h3>
 <h3><i>&#8212; Nelson Mandela</i></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
@@ -203,36 +203,37 @@ const SecondPage = () => (
   src="../../../images/IMG_2514.JPG"
 />
 </div>
-<h2>What would you like your colleagues to say about you?&nbsp;</h2>
-<h2>Imagine you have come to the end of your formal work life, and your colleagues, who have worked with you for several years, throw a celebration for you. &nbsp;</h2>
+<h2>O que você gostaria que seus colegas dissessem?&nbsp;</h2>
+<h2>Imagine que você chegou ao fim de sua vida formal de trabalho e seus colegas, que trabalham com você há vários anos, fazem uma comemoração para você.
+ &nbsp;</h2>
 <ul>
 <li aria-level="3">
-<h3>Identify the most important thing you hope your colleagues would say about you in a speech.&nbsp;</h3>
+<h3>Identifique a coisa mais importante que você espera que seus colegas digam sobre você em um discurso.&nbsp;</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>What does this say about the values you want to live by in your career?</h3>
+<h3>O que isso quer diz sobre os valores que você deseja viver em sua carreira?</h3>
 </li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>"Do not judge me by my successes, judge me by how many times I fell down and got back up again."</i></h3>
+<h3><i>"Não me julgue pelos meus sucessos, me julgue por quantas vezes caí e me levantei de novo."</i></h3>
 <h3><i>--Nelson Mandela</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;If a man is called to be a street sweeper, he should sweep streets even as Michelangelo painted, or Beethoven composed music, or Shakespeare wrote poetry. He should sweep streets so well that all the hosts of heaven and earth will pause to say, here lived a great street sweeper who did his job well.&rdquo;</i></h3>
+<h3><i>&ldquo;Se um homem é chamado para ser varredor de rua, ele deve varrer ruas mesmo quando Michelangelo pintou, ou Beethoven compôs música, ou Shakespeare escreveu poesia. Ele deveria varrer as ruas tão bem que todos os exércitos do céu e da terra parariam para dizer: aqui viveu um grande varredor de rua que fez bem seu trabalho.&rdquo;</i></h3>
 <h3><i>--Martin Luther King, Jr.</i></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;Success isn&rsquo;t about how much money you make, it&rsquo;s about the difference you make in people&rsquo;s lives.&rdquo;&nbsp;</i></h3>
+<h3><i>&ldquo;O sucesso não é quanto dinheiro você ganha, mas a diferença que você faz na vida das pessoas.&rdquo;&nbsp;</i></h3>
 <h3><i>--Michelle Obama</i></h3>
 </div>
 <p></p>
 <p></p>
 
 
-<Link className="back_link" to="/pt/who_am_i/">Back to: test</Link><Link className="next_link" to="/pt/who_am_i/know_your_talents">Next page: test</Link>
+<Link className="back_link" to="/pt/who_am_i/">De volta a: Passo 2: Saiba quem você é</Link><Link className="next_link" to="/pt/who_am_i/know_your_talents">Próxima página: Conheça seus talentos</Link>
     </div>
 
 

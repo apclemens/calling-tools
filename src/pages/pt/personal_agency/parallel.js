@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="pt"
   >
     <Seo
-      title="test"
+      title="Perseguições Paralelas"
       defaultTitle="Ferramentas de Chamada"
       lang="pt"
     />
@@ -20,29 +20,29 @@ const SecondPage = () => (
   src="../../../images/map.jpg"
 />
 
-<div class="languages"></div>
+<div class="languages"><Link to="/en/personal_agency/parallel">English</Link><Link to="/fr/personal_agency/parallel">Français</Link><Link to="/es/personal_agency/parallel">Español</Link><Link to="/ht/personal_agency/parallel">Krèyol ayisyen</Link><Link className="current" to="/pt/personal_agency/parallel">Português</Link></div>
 
 
     <div class="content">
-<div><ul><li><Link to="/pt/">test</Link></li><li><Link to="/pt/personal_well_being">test</Link></li><li><Link to="/pt/who_am_i/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/who_am_i/values">test</Link></li><li><Link to="/pt/who_am_i/know_your_talents">test</Link></li><li><Link to="/pt/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/pt/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/personal_agency/goals">test</Link></li><li><Link to="/pt/personal_agency/mentor">test</Link></li><li><Link to="/pt/personal_agency/research">test</Link></li><li><Link to="/pt/personal_agency/education">test</Link></li><li><Link to="/pt/personal_agency/volunteer">test</Link></li><li><Link to="/pt/personal_agency/business">test</Link></li><li>test</li><li><Link to="/pt/personal_agency/transactions">test</Link></li><li><Link to="/pt/personal_agency/online">test</Link></li><li><Link to="/pt/personal_agency/interview">test</Link></li></ul><li><Link to="/pt/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/pt/">O que está chamando?</Link></li><li><Link to="/pt/personal_well_being">Passo 1 Te cuide</Link></li><li><Link to="/pt/who_am_i/">Passo 2: Saiba quem você é</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/who_am_i/values">Conheça os seus valores de trabalho</Link></li><li><Link to="/pt/who_am_i/know_your_talents">Conheça seus talentos</Link></li><li><Link to="/pt/who_am_i/passion_and_interests">Paixões e interesses</Link></li></ul><li><Link to="/pt/personal_agency/">Passo 3: Assuma o controle</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/personal_agency/goals">Desenvolver objetivos de vida e carreira</Link></li><li><Link to="/pt/personal_agency/mentor">Procure um mentor</Link></li><li><Link to="/pt/personal_agency/research">Faça a pesquisa!</Link></li><li><Link to="/pt/personal_agency/education">Prossiga sua educação</Link></li><li><Link to="/pt/personal_agency/volunteer">Voluntário!</Link></li><li><Link to="/pt/personal_agency/business">Considere iniciar seu próprio negócio ou serviço</Link></li><li>Perseguições Paralelas</li><li><Link to="/pt/personal_agency/transactions">Cenários mais eficazes para conseguir o emprego</Link></li><li><Link to="/pt/personal_agency/online">Crie uma presença on-line viável</Link></li><li><Link to="/pt/personal_agency/interview">Prepare-se para sua entrevista de emprego</Link></li></ul><li><Link to="/pt/references">Referências</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Perseguições Paralelas</h1>
 
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/drawing.jpg"
 />
 </div>
-<h2>If your career doesn't currently feed your passion (even as it pays the bills), pursuing interests on the side that do feed your passions can give you a deeper sense of satisfaction, and allows you to further explore your&nbsp;field of interest.&nbsp;</h2>
-<h2>Ways to pursue parallel interests:&nbsp;</h2>
+<h2>Se sua carreira atualmente não alimenta sua paixão (mesmo que pague as contas), buscar interesses do lado que alimenta suas paixões pode lhe proporcionar uma sensação mais profunda de satisfação e permitir que você explore ainda mais seu campo de interesse.&nbsp;</h2>
+<h2>Maneiras de buscar interesses paralelos:&nbsp;</h2>
 <ul>
-<li><h2>Pursue further education - taking even one&nbsp;class in your field of interest can put you in touch with professors and other students who may become part of your network of support.</h2></li>
-<li><h2>Take&nbsp;on side projects to&nbsp;give you additional income while getting your talents "out there" and building your portfolio. Side gigs (in any area of interest) can expand your choices and create other avenues for meaningful work.&nbsp;The <a target="_blank" rel="noreferrer" href="https://www.thebalancesmb.com/job-facts-about-gig-economy-4138171">"gig economy" is growing</a>, and more opportunities are posted each day. Find your area of interest and download the appropriate gig app for further information.</h2></li>
-<li><h2>Offer to expand your role at work to include your interests. Explore what options are available and the process to get there.</h2></li>
+<li><h2>Prossiga com a educação - assistir a apenas uma aula em sua área de interesse pode colocar você em contato com professores e outros alunos que podem se tornar parte de sua rede de apoio.</h2></li>
+<li><h2>Participe de projetos paralelos para obter uma renda adicional enquanto divulga seus talentos e cria seu arquivo. Demonstração secundárias (em qualquer área de interesse) podem expandir suas escolhas e criar outros caminhos para um trabalho significativo. A " demostrção da economia " está crescendo e mais oportunidades são publicadas a cada dia. Encontre sua área de interesse e faça o download do aplicativo apropriado para obter mais informações.</h2></li>
+<li><h2>Ofereça-te para expandir sua função no trabalho para incluir seus interesses. Explore quais opções estão disponíveis e o processo para encontra-lá.</h2></li>
 </ul>
 
 
-<Link className="back_link" to="/pt/personal_agency/business">Back to: test</Link><Link className="next_link" to="/pt/personal_agency/transactions">Next page: test</Link>
+<Link className="back_link" to="/pt/personal_agency/business">De volta a: Considere iniciar seu próprio negócio ou serviço</Link><Link className="next_link" to="/pt/personal_agency/transactions">Próxima página: Cenários mais eficazes para conseguir o emprego</Link>
     </div>
 
 

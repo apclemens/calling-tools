@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="pt"
   >
     <Seo
-      title="test"
+      title="Paixões e interesses"
       defaultTitle="Ferramentas de Chamada"
       lang="pt"
     />
@@ -20,25 +20,25 @@ const SecondPage = () => (
   src="../../../images/inventory.jpg"
 />
 
-<div class="languages"></div>
+<div class="languages"><Link to="/en/who_am_i/passion_and_interests">English</Link><Link to="/fr/who_am_i/passion_and_interests">Français</Link><Link to="/es/who_am_i/passion_and_interests">Español</Link><Link to="/ht/who_am_i/passion_and_interests">Krèyol ayisyen</Link><Link className="current" to="/pt/who_am_i/passion_and_interests">Português</Link></div>
 
 
     <div class="content">
-<div><ul><li><Link to="/pt/">test</Link></li><li><Link to="/pt/personal_well_being">test</Link></li><li><Link to="/pt/who_am_i/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/who_am_i/values">test</Link></li><li><Link to="/pt/who_am_i/know_your_talents">test</Link></li><li>test</li></ul><li><Link to="/pt/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/personal_agency/goals">test</Link></li><li><Link to="/pt/personal_agency/mentor">test</Link></li><li><Link to="/pt/personal_agency/research">test</Link></li><li><Link to="/pt/personal_agency/education">test</Link></li><li><Link to="/pt/personal_agency/volunteer">test</Link></li><li><Link to="/pt/personal_agency/business">test</Link></li><li><Link to="/pt/personal_agency/parallel">test</Link></li><li><Link to="/pt/personal_agency/transactions">test</Link></li><li><Link to="/pt/personal_agency/online">test</Link></li><li><Link to="/pt/personal_agency/interview">test</Link></li></ul><li><Link to="/pt/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/pt/">O que está chamando?</Link></li><li><Link to="/pt/personal_well_being">Passo 1 Te cuide</Link></li><li><Link to="/pt/who_am_i/">Passo 2: Saiba quem você é</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/who_am_i/values">Conheça os seus valores de trabalho</Link></li><li><Link to="/pt/who_am_i/know_your_talents">Conheça seus talentos</Link></li><li>Paixões e interesses</li></ul><li><Link to="/pt/personal_agency/">Passo 3: Assuma o controle</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/personal_agency/goals">Desenvolver objetivos de vida e carreira</Link></li><li><Link to="/pt/personal_agency/mentor">Procure um mentor</Link></li><li><Link to="/pt/personal_agency/research">Faça a pesquisa!</Link></li><li><Link to="/pt/personal_agency/education">Prossiga sua educação</Link></li><li><Link to="/pt/personal_agency/volunteer">Voluntário!</Link></li><li><Link to="/pt/personal_agency/business">Considere iniciar seu próprio negócio ou serviço</Link></li><li><Link to="/pt/personal_agency/parallel">Perseguições Paralelas</Link></li><li><Link to="/pt/personal_agency/transactions">Cenários mais eficazes para conseguir o emprego</Link></li><li><Link to="/pt/personal_agency/online">Crie uma presença on-line viável</Link></li><li><Link to="/pt/personal_agency/interview">Prepare-se para sua entrevista de emprego</Link></li></ul><li><Link to="/pt/references">Referências</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Paixões e interesses</h1>
 
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/birds.jpg"
 />
 </div>
-<h1><span style={{fontWeight: 400}}>Passion&nbsp;- An intense desire or enthusiasm for something.</span></h1>
-<h1>Interest<span style={{fontWeight: 400}}>&nbsp;- Something you want to know or learn more about.</span></h1>
+<h1><span style={{fontWeight: 400}}>Paixão - Um intenso desejo ou entusiasmo por algo.</span></h1>
+<h1>Interesse - Algo que você deseja saber ou aprender mais</h1>
 <p></p>
-<h2>Explore all possible occupations&nbsp;<a target="_blank" rel="noreferrer" href="https://www.onetonline.org/">at this website</a></h2>
-<h2>Create your personal mission statement.&nbsp;<span style={{fontWeight: 400}}>This takes time and intentionality, and it helps you better understand and own your passions.&nbsp;</span><a target="_blank" rel="noreferrer" href="https://www.amazon.com/Path-Creating-Your-Mission-Statement/dp/0786882417/ref=asc_df_0786882417/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=312175933381&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=5237425487839131983&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9007906&amp;hvtargid=pla-565474836188&amp;psc=1&amp;tag=&amp;ref=&amp;adgrpid=60258871817&amp;hvpone=&amp;hvptwo=&amp;hvadid=312175933381&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=5237425487839131983&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9007906&amp;hvtargid=pla-565474836188"><span style={{fontWeight: 400}}>The Path: Creating Your Mission Statement for Work and for Life</span></a><span style={{fontWeight: 400}}>,&nbsp;by&nbsp;Laurie Beth Jones, provides inspiring and practical advice to lead readers through every step of both defining and fulfilling a mission.</span></h2>
-<h2>Test your passions and interests with these online tests and tools (mostly free):</h2>
+<h2><a target="_blank" rel="noreferrer" href="https://www.onetonline.org/">Explore todas as ocupações possíveis neste site</a></h2>
+<h2>Crie sua declaração de missão pessoal. Isso leva tempo e intencionalidade e ajuda a entender melhor e a dominar suas paixões. <a target="_blank" rel="noreferrer" href="https://www.amazon.com/Path-Creating-Your-Mission-Statement/dp/0786882417/ref=asc_df_0786882417/?tag=hyprod-20&amp;linkCode=df0&amp;hvadid=312175933381&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=5237425487839131983&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9007906&amp;hvtargid=pla-565474836188&amp;psc=1&amp;tag=&amp;ref=&amp;adgrpid=60258871817&amp;hvpone=&amp;hvptwo=&amp;hvadid=312175933381&amp;hvpos=1o1&amp;hvnetw=g&amp;hvrand=5237425487839131983&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9007906&amp;hvtargid=pla-565474836188"><span style={{fontWeight: 400}}>O caminho: criando sua declaração de missão para o trabalho e a vida, de Laurie Beth Jones, fornece conselhos práticos e inspiradores para levar os leitores a cada passo de definir e cumprir uma missão</span></a></h2>
+<h2>Teste suas paixões e interesses com estes testes e ferramentas on-line (principalmente gratuitos):</h2>
 <p><a target="_blank" rel="noreferrer" href="https://www.wheaton.edu/media/center-for-vocation-and-career/myStory-Full-Digital-Workbook.pdf"><span style={{fontWeight: 400}}>https://www.wheaton.edu/media/center-for-vocation-and-career/myStory-Full-Digital-Workbook.pdf</span></a></p>
 <p><a target="_blank" rel="noreferrer" href="https://www.princetonreview.com/quiz/career-quiz"><span style={{fontWeight: 400}}>https://www.princetonreview.com/quiz/career-quiz</span></a></p>
 <p><a target="_blank" rel="noreferrer" href="https://www.truity.com/view/tests/personality-career"><span style={{fontWeight: 400}}>https://www.truity.com/view/tests/personality-career</span></a><span style={{fontWeight: 400}}>&nbsp;&nbsp;</span></p>
@@ -46,120 +46,123 @@ const SecondPage = () => (
 <p><a target="_blank" rel="noreferrer" href="http://eparachute.com/para19/"><span style={{fontWeight: 400}}>http://eparachute.com/para19/</span></a></p>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>If you are trying to discern your vocation, the right question is not what am I good at? It&rsquo;s the harder questions: What am I motivated to do? What activity do I love so much that I&rsquo;m going to keep getting better at it for the next many decades? What do I desire so much that it capture me at the depth of my being? &hellip;The crucial terrain to be explored in any vocation search is the terrain of your heart and soul, your long-term motivation. Knowledge is plentiful; motivation is scarce.&rdquo;</span></h3>
-<h3><span style={{fontWeight: 400}}>--David Brooks, The Second Mountain</span></h3>
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Se você está tentando discernir sua vocação, a pergunta certa não é em que sou bom? São as perguntas mais difíceis: o que estou motivado a fazer? Que atividade eu amo tanto que continuarei melhorando nas próximas décadas? O que desejo tanto que me encontre nas profundezas do meu ser? … O terreno crucial a ser explorado em qualquer busca vocacional é o terreno do seu coração e alma, sua motivação a longo prazo. O conhecimento é abundante; a motivação é escassa.&rdquo;</span></h3>
+<h3><span style={{fontWeight: 400}}>--David Brooks, a segunda montanha</span></h3>
 </div>
 <div className="quote">
-<h3><span style={{fontWeight: 400}}>"There is no passion to be found playing small in settling for a life that is less than the one you are capable of living."</span></h3>
+<h3><span style={{fontWeight: 400}}>"Não existe uma paixão pequena em se contentar com uma vida menor do que aquela que você é capaz de viver."</span></h3>
 </div>
 <div className="quote">
-<h3><span style={{fontWeight: 400}}>"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do."</span></h3>
+<h3><span style={{fontWeight: 400}}>"Todos podem superar suas circunstâncias e obter sucesso se forem dedicados e apaixonados pelo que fazem."</span></h3>
 <h3>--<span style={{fontWeight: 400}}>Nelson Mandela</span></h3>
 </div>
 <div className="quote">
-<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.&rdquo;</span></h3>
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Todo trabalho que eleva a humanidade tem dignidade e importância e deve ser realizado com excelência meticulosa.&rdquo;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Martin Luther King, Jr.</span></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Heart vs. Head: To determine the most important factors to consider</h1>
-<h2><span style={{fontWeight: 400}}>We tend to make decisions either by our gut instinct our by our head logic.&nbsp;If we stop to identify what these two sides of our brains are saying, we may uncover legitimate factors to consider when making decisions about career.</span></h2>
+<h1>Determinar os fatores mais importantes
+</h1>
+<h2><span style={{fontWeight: 400}}>Temos a tendência de tomar decisões por instinto ou por nossa lógica da cabeça. Se pararmos para identificar o que esses dois lados de nosso cérebro estão dizendo, podemos descobrir fatores legítimos a serem considerados ao tomar decisões sobre a carreira.
+</span></h2>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/canyon.jpg"
 />
 </div>
 <p><span style={{fontWeight: 400}}>&nbsp;</span></p>
-<h2><span style={{fontWeight: 400}}>Ask yourself the following questions:</span></h2>
+<h2><span style={{fontWeight: 400}}>Pergunta a si mesmo as seguintes questões:</span></h2>
 <ul>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What is your head telling you?&nbsp;</span></h3>
+<h3><span style={{fontWeight: 400}}>O que sua cabeça está lhe dizendo?&nbsp;</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Is the information you&rsquo;ve gathered adequate, accurate or relevant?</span></h3>
+<h3><span style={{fontWeight: 400}}>As informações que você colcetou são adequadas, precisas ou relevantes?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What is your heart telling you?</span></h3>
+<h3><span style={{fontWeight: 400}}>O que seu coração está lhe dizendo?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Which direction is your gut instinct leaning?</span></h3>
+<h3><span style={{fontWeight: 400}}>Em que direção está o seu instinto?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What does this say about your underlying values, passions, priorities?</span></h3>
+<h3><span style={{fontWeight: 400}}>O que isso diz sobre seus valores, paixões, prioridades subjacentes?</span></h3>
 </li>
 </ul>
 <h2>&nbsp;</h2>
-<h2><span style={{fontWeight: 400}}>If it comes down to a decision between two scenarios, &ldquo;make&rdquo; a decision in one direction and live with it for a day.</span></h2>
+<h2><span style={{fontWeight: 400}}>Se tudo se resumir a uma decisão entre dois cenários, tome uma decisão em uma direção e viva com ela por um dia.</span></h2>
 <ul>
 <ul>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What does it feel like?</span></h3>
+<h3><span style={{fontWeight: 400}}>Como é isso?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Are you glad you made that decision?</span></h3>
+<h3><span style={{fontWeight: 400}}>Você está feliz por ter tomado essa decisão?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Do you wish you had made a decision in the other direction? Why or why not?</span></h3>
+<h3><span style={{fontWeight: 400}}>Você gostaria de ter tomado uma decisão na outra direção? Por que ou por que não?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Imagine yourself two years in the future. Consider what life would be like if you made one decision. Imagine in detail. How would it feel? What would you be doing?</span></h3>
+<h3><span style={{fontWeight: 400}}>Imagine-se daqui a dois anos. Considere como seria a vida se você tomasse uma decisão. Imagine em detalhes. Como se sentiria? O que você estaria fazendo?</span></h3>
 </li>
 </ul>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>&nbsp;<span style={{fontWeight: 400}}>Then consider what life would be like if you made the other decision. Ask the same questions. Highlight the differences between the two futures, and which might be better for you.</span></h3>
+<h3>&nbsp;<span style={{fontWeight: 400}}>Depois, considere como seria a vida se você tomasse outra decisão. Faça as mesmas perguntas. Destaque as diferenças entre os dois futuros e quais podem ser melhores para você.</span></h3>
 </li>
 </ul>
 <ul>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What action do you plan to take to make this decision?</span></h3>
+<h3><span style={{fontWeight: 400}}>Que ação você faria para tomar essa decisão?</span></h3>
 </li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Evoke your future self living out your passions and interests!</h1>
-<h2><span style={{fontWeight: 400}}>What future do you imagine for yourself in five years&nbsp;(or two years, if that is easier), as one who is fully living out your passions/interests? Envision your possible self in great detail. Be as open and creative as possible. Brainstorm!</span></h2>
+<h1>Evoque seu futuro eu vivendo suas paixões!</h1>
+<h2><span style={{fontWeight: 400}}>Que futuro você imagina para si mesmo em cinco anos (ou dois anos, se for mais fácil), como alguém que vive plenamente suas paixões / interesses? Visualize seu possível eu em grandes detalhes. Seja o mais aberto e criativo possível. muitas ideias!
+</span></h2>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/vista.jpg"
 />
 </div>
-<h2><span style={{fontWeight: 400}}>When I find my passion, my life will be&hellip; or I will know I&rsquo;ve found my passion when&hellip;</span></h2>
+<h2><span style={{fontWeight: 400}}>Quando encontrar minha paixão, minha vida será ... ou saberei que encontrei minha paixão quando&hellip;</span></h2>
 <ul>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What are you doing? Describe your ideal day.</span></h3>
+<h3><span style={{fontWeight: 400}}>O que você está fazendo? Descreva seu dia ideal.</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Where are you working?</span></h3>
+<h3><span style={{fontWeight: 400}}>Onde você está trabalhando?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What&rsquo;s the work atmosphere like?</span></h3>
+<h3><span style={{fontWeight: 400}}>Como é o ambiente de trabalho?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Who are you working with and what are your relationships like?</span></h3>
+<h3><span style={{fontWeight: 400}}>Com quem você está trabalhando e como são seus relacionamentos?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What is fulfilling about your work? What excites you most? What are you most proud of?</span></h3>
+<h3><span style={{fontWeight: 400}}>O que está fazendo no seu trabalho? O que mais te contenta? Do que você mais se orgulha?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>How do you feel about going to work on a Monday morning?</span></h3>
+<h3><span style={{fontWeight: 400}}>Como você se sente ao ir trabalhar na segunda-feira de manhã?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>How do you feel when you tell people about what you do?</span></h3>
+<h3><span style={{fontWeight: 400}}>Como você se sente quando diz às pessoas o que faz?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What does your family think about your new job?</span></h3>
+<h3><span style={{fontWeight: 400}}>O que sua família pensa sobre seu novo emprego?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What&rsquo;s the one thing that is most different from your current you?</span></h3>
+<h3><span style={{fontWeight: 400}}>Qual é a única coisa mais diferente do seu atual você?</span></h3>
 </li>
 </ul>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>When you turn left at the road of safe instead of at the road of desire, the crossroads image can haunt you during times of discontent and searing disappointment.&rdquo;</span></h3>
-<h3><span style={{fontWeight: 400}}>--Marti Konstant, Activate your Agile Career</span></h3>
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Quando você vira à esquerda na estrada segura, em vez de na estrada do desejo, a imagem da encruzilhada pode assombrá-lo em momentos de descontentamento e uma decepção terrível.&rdquo;</span></h3>
+<h3><span style={{fontWeight: 400}}>--Marti Konstant, ative sua carreira ágil</span></h3>
 </div>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
-<h1>Explore what is most important and meaningful to you</h1>
+<h1>Explore o que é mais importante para você</h1>
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/lamps.jpg"
@@ -167,89 +170,89 @@ const SecondPage = () => (
 </div>
 <ol>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>Who did you admire when you were growing up?</span></h2>
+<h2><span style={{fontWeight: 400}}>Quem você admirou quando estavas crescendo?</span></h2>
 </li>
 <ol>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Name three role models.</span></h3>
+<h3><span style={{fontWeight: 400}}>Nomeia três modelos.</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What about them did you admire? What was their &ldquo;mission&rdquo; that you found inspiring?</span></h3>
+<h3><span style={{fontWeight: 400}}>O que você achou deles? Qual foi o trabalho deles que você achou inspirador?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>How do you see yourself similar or different from your role models?</span></h3>
+<h3><span style={{fontWeight: 400}}>Quão você é semelhante ou diferente dos seus modelos?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What values have you drawn from these role models, and how have they manifested themselves in your life or career path so far?</span></h3>
+<h3><span style={{fontWeight: 400}}>Que valores você tirou desses modelos e como eles te impactaram em sua vida ou carreira até agora?</span></h3>
 </li>
 </ol>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>What are your earliest childhood recollections? Are there some links between those stories and your current passions and interests?</span></h2>
+<h2><span style={{fontWeight: 400}}>Quais são as suas lembranças mais antigas da infância? Existem algumas conecçães entre essas histórias, suas paixões e interesses atuais?</span></h2>
 </li>
 <ol>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>When you were younger, what did you want to become?</span></h3>
+<h3><span style={{fontWeight: 400}}>Quando você era mais jovem, o que você queria ser?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What did you love doing or learning about?</span></h3>
+<h3><span style={{fontWeight: 400}}>O que você gostava de fazer ou aprender?</span></h3>
 </li>
 </ol>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>What magazine, internet sites or shows to you read or watch regularly? When you go into a bookstore, what section are you most drawn to? What do these choices say about your career interests?</span></h2>
+<h2><span style={{fontWeight: 400}}>Quais são as revistas, os sites ou programas da Internet que você lê ou assiste regularmente? Quando você vai a uma livraria, em qual seção você se sente mais atraído? O que essas escolhas querem dizer sobre seus interesses profissionais?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>What is your favorite story from a book or movie? Who are the key characters and what are their motivations? How does this story relate to your current situation? How would it be for you to adopt the same kinds of strategies as these characters?</span></h2>
+<h2><span style={{fontWeight: 400}}>Qual é a sua história favorita de um livro ou filme? Quis são as personagens principais e quais são suas motivações? Como essa história se relaciona com a sua situação atual? Como seria para adoptares o mesmo tipo de estratégia a das personagens?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>List the top 10 things you are interested in or enjoy doing.</span></h2>
+<h2><span style={{fontWeight: 400}}>Faça uma lista de 10 principais coisas que você está interessado ou gostaria de fazer.</span></h2>
 </li>
 <ol>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>List as many reasons as you can why you are interested in each of these 10 things.</span></h3>
+<h3><span style={{fontWeight: 400}}>Liste o maior número possível de razões pelas quais você está interessado em cada uma dessas 10 coisas.</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>Analyze these reasons and identify four or five overarching themes.</span></h3>
+<h3><span style={{fontWeight: 400}}>Analise esses motivos e identifique quatro ou cinco temas abrangentes.</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What do these themes say about your passions and interests?</span></h3>
+<h3><span style={{fontWeight: 400}}>O que esses temas dizem sobre suas paixões e interesses?</span></h3>
 </li>
 </ol>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>How do you define &ldquo;meaningful work&rdquo;? Work that is enjoyable? Interesting? In what ways?</span></h2>
+<h2><span style={{fontWeight: 400}}>Como você define um trabalho significativo? Trabalho que é agradável? Interessante? De que maneira esse trabalho se enquadra nessas categorias?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>If you had only five years left to live, what would you spend that five years doing?</span></h2>
+<h2><span style={{fontWeight: 400}}>Se você tivesse apenas cinco anos de vida, o que você faria nesses cinco anos?</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>If you had all the money in the world (and expense was not a roadblock) what would you do with that money? With that freedom of time? Where would you travel and what would you do there and why? What would you study? In these questions, remember that God is not limited by finances!</span></h2>
+<h2><span style={{fontWeight: 400}}>Se você tivesse todo o dinheiro do mundo (e as despesas não fossem um obstáculo), o que faria com esse dinheiro? Com essa liberdade de tempo? Onde você viajaria e o que faria lá e por quê? O que você estudaria? Nestas perguntas, lembre-se de que Deus não é limitado por finanças!</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>You feel fulfilled when you help people with&hellip;.</span></h2>
+<h2><span style={{fontWeight: 400}}>Você se sente realizado quando ajuda as pessoas com…</span></h2>
 </li>
 <li style={{fontWeight: 400}} aria-level="2">
-<h2><span style={{fontWeight: 400}}>If you were to support a &ldquo;cause&rdquo; in the world&hellip;</span></h2>
+<h2><span style={{fontWeight: 400}}>Se você fosse apoiar um problema no mundo...</span></h2>
 </li>
 <ol>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What makes your heart weep? What do you truly wish to change in the world or in your local community? What impact would you like to have?</span></h3>
+<h3><span style={{fontWeight: 400}}>O que faz seu coração chorar? O que você realmente deseja mudar no mundo ou na sua comunidade local? Que impacto que você gostaria de ter?</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>If I had all the money I needed, I would help people with&hellip;</span></h3>
+<h3><span style={{fontWeight: 400}}>Se eu tivesse todo o dinheiro que precisava, ajudaria as pessoas com…</span></h3>
 </li>
 <li style={{fontWeight: 400}} aria-level="3">
-<h3><span style={{fontWeight: 400}}>What role would you like to play in making these changes in the world, or in your community?</span></h3>
+<h3><span style={{fontWeight: 400}}>Que papel você gostaria de desempenhar ao fazer essas trabalho no mundo ou em sua comunidade?</span></h3>
 </li>
 </ol>
 </ol>
 <p style={{textAlign: "center"}}><span style={{fontWeight: 400}}>*************************************</span></p>
 <div className="quote">
-<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>Life's most persistent and urgent question is, 'What are you doing for others?'"&nbsp;&nbsp;</span></h3>
+<h3><i>&ldquo;</i><span style={{fontWeight: 400}}>A pergunta mais persistente e urgente da vida é: 'O que você está fazendo pelos outros?'"&nbsp;&nbsp;</span></h3>
 <h3><span style={{fontWeight: 400}}>--Martin Luther King, Jr.</span></h3>
 </div>
 <p></p>
 
 
-<Link className="back_link" to="/pt/who_am_i/know_your_talents">Back to: test</Link><Link className="next_link" to="/pt/personal_agency/">Next page: test</Link>
+<Link className="back_link" to="/pt/who_am_i/know_your_talents">De volta a: Conheça seus talentos</Link><Link className="next_link" to="/pt/personal_agency/">Próxima página: Passo 3: Assuma o controle</Link>
     </div>
 
 

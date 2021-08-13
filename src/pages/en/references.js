@@ -20,7 +20,7 @@ const SecondPage = () => (
   src="../../images/paths3.jpg"
 />
 
-<div class="languages"></div>
+<div class="languages"><Link className="current" to="/en/references">English</Link><Link to="/fr/references">Français</Link><Link to="/es/references">Español</Link><Link to="/ht/references">Krèyol ayisyen</Link><Link to="/pt/references">Português</Link></div>
 
 
     <div class="content">

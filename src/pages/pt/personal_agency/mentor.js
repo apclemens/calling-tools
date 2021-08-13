@@ -12,7 +12,7 @@ const SecondPage = () => (
     language="pt"
   >
     <Seo
-      title="test"
+      title="Procure um mentor"
       defaultTitle="Ferramentas de Chamada"
       lang="pt"
     />
@@ -20,70 +20,71 @@ const SecondPage = () => (
   src="../../../images/map.jpg"
 />
 
-<div class="languages"></div>
+<div class="languages"><Link to="/en/personal_agency/mentor">English</Link><Link to="/fr/personal_agency/mentor">Français</Link><Link to="/es/personal_agency/mentor">Español</Link><Link to="/ht/personal_agency/mentor">Krèyol ayisyen</Link><Link className="current" to="/pt/personal_agency/mentor">Português</Link></div>
 
 
     <div class="content">
-<div><ul><li><Link to="/pt/">test</Link></li><li><Link to="/pt/personal_well_being">test</Link></li><li><Link to="/pt/who_am_i/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/who_am_i/values">test</Link></li><li><Link to="/pt/who_am_i/know_your_talents">test</Link></li><li><Link to="/pt/who_am_i/passion_and_interests">test</Link></li></ul><li><Link to="/pt/personal_agency/">test</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/personal_agency/goals">test</Link></li><li>test</li><li><Link to="/pt/personal_agency/research">test</Link></li><li><Link to="/pt/personal_agency/education">test</Link></li><li><Link to="/pt/personal_agency/volunteer">test</Link></li><li><Link to="/pt/personal_agency/business">test</Link></li><li><Link to="/pt/personal_agency/parallel">test</Link></li><li><Link to="/pt/personal_agency/transactions">test</Link></li><li><Link to="/pt/personal_agency/online">test</Link></li><li><Link to="/pt/personal_agency/interview">test</Link></li></ul><li><Link to="/pt/references">test</Link></li></ul></div>
+<div><ul><li><Link to="/pt/">O que está chamando?</Link></li><li><Link to="/pt/personal_well_being">Passo 1 Te cuide</Link></li><li><Link to="/pt/who_am_i/">Passo 2: Saiba quem você é</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/who_am_i/values">Conheça os seus valores de trabalho</Link></li><li><Link to="/pt/who_am_i/know_your_talents">Conheça seus talentos</Link></li><li><Link to="/pt/who_am_i/passion_and_interests">Paixões e interesses</Link></li></ul><li><Link to="/pt/personal_agency/">Passo 3: Assuma o controle</Link></li><ul style={{display: 'none'}}><li><Link to="/pt/personal_agency/goals">Desenvolver objetivos de vida e carreira</Link></li><li>Procure um mentor</li><li><Link to="/pt/personal_agency/research">Faça a pesquisa!</Link></li><li><Link to="/pt/personal_agency/education">Prossiga sua educação</Link></li><li><Link to="/pt/personal_agency/volunteer">Voluntário!</Link></li><li><Link to="/pt/personal_agency/business">Considere iniciar seu próprio negócio ou serviço</Link></li><li><Link to="/pt/personal_agency/parallel">Perseguições Paralelas</Link></li><li><Link to="/pt/personal_agency/transactions">Cenários mais eficazes para conseguir o emprego</Link></li><li><Link to="/pt/personal_agency/online">Crie uma presença on-line viável</Link></li><li><Link to="/pt/personal_agency/interview">Prepare-se para sua entrevista de emprego</Link></li></ul><li><Link to="/pt/references">Referências</Link></li></ul></div>
 
-<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>test</h1>
+<h1 style={{fontWeight: 'bold', fontSize: "3rem",textAlign: "center",borderBottom: "2px solid black"}}>Procure um mentor</h1>
 
 <div className="image" style={{width: "50%",float: "right"}}>
 <StaticImage
   src="../../../images/hana.jpg"
 />
 </div>
-<h2>A mentor is a trusted counselor or guide. A&nbsp;mentor&nbsp;may share with a mentee (or protege) information about his or her own career path, as well as provide guidance, motivation, emotional support, and role modeling. A&nbsp;mentor&nbsp;may help with exploring careers, setting goals, developing contacts, and identifying resources.</h2>
-<h3>A good mentor possesses the following qualities:</h3>
+<h2>Um mentor é um conselheiro ou guia confiável. Um mentor pode compartilhar com um mentorado informações sobre sua própria carreira, além de fornecer orientação, motivação, apoio emocional e modelagem de papéis. Um mentor pode ajudar a explorar carreiras, estabelecer metas, desenvolver contatos e identificar recursos.</h2>
+<h3>Um bom mentor possui as seguintes qualidades:
+</h3>
 <ul>
 <li aria-level="3">
-<h3>Willingness to share skills, knowledge, and expertise. ...</h3>
+<h3>Disposição para compartilhar habilidades e conhecimentos. ...</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Demonstrates a positive attitude and acts as a positive role model. ...</h3>
+<h3>Demonstra uma atitude positiva e atua como um modelo positivo. ...</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Takes a personal interest in the mentoring relationship. ...</h3>
+<h3>Tem interesse pessoal no relacionamento de orientação. ...</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Exhibits enthusiasm in the field. ...</h3>
+<h3>Demonstra entusiasmo no campo. ...</h3>
 </li>
 </ul>
 <ul>
 <li aria-level="3">
-<h3>Values ongoing learning and growth in the field.</h3>
+<h3>Valoriza o aprendizado contínuo e o crescimento no campo.</h3>
 </li>
 </ul>
-<h3>Benefits of having a mentor:&nbsp;</h3>
+<h3>Benefícios de ter um mentor:&nbsp;</h3>
 <ol>
 <li>
-<h3>Advice:&nbsp;The biggest benefit of having a mentor is&nbsp;having someone you can ask questions&nbsp;and get advice from. Mentors can share a wealth of wisdom and insight on best practices in the work place, protocols and appropriate behaviours.</h3>
+<h3>Conselho: O maior benefício de ter um mentor é ter alguém com quem você possa fazer perguntas e obter conselhos. Os mentores podem compartilhar uma riqueza de sabedoria e discernimento sobre as melhores práticas no local de trabalho, protocolos e comportamentos adequados.</h3>
 </li><li>
-<h3>Networking: Forming a relationship with a mentor&nbsp;opens doors to other groups.&nbsp;It will give you the opportunity to get personal introductions to your mentor&rsquo;s contacts which may have taken your mentor years to establish.</h3>
+<h3>Rede: formar um relacionamento com um mentor abre portas para outros grupos. Isso lhe dará a oportunidade de fazer apresentações pessoais aos contactos do seu mentor, o que pode levar anos para ser estabelecido.</h3>
 </li><li>
-<h3>Encouragement: You could describe a mentor as a&nbsp;professional cheerleader for your career.&nbsp;It is likely that your mentor has experienced similar successes and challenges that you will encounter at the start of your career. By sharing how they overcame their challenges, mentors can&nbsp;encourage you to reach the finish line&nbsp;and to keep pursuing your goals.</h3>
+<h3>Incentivo: Você pode descrever um mentor como líder de suporte profissional para sua carreira. É provável que o seu mentor tenha experimentado sucessos e desafios semelhantes que você encontrará no início de sua carreira. Ao compartilhar como eles superaram seus desafios, os mentores podem encorajá-lo a alcançar a linha de chegada e continuar perseguindo seus objetivos.</h3>
 </li><li>
-<h3>Perspective:&nbsp;&nbsp;Through their diverse experiences,&nbsp;mentors may offer a perspective and vision&nbsp;that is different to your own.&nbsp; They will ask questions that may not occur to you, but are as critically important for solving a problem or planning your career.</h3>
+<h3>Perspectiva: Através de suas diversas experiências, os mentores podem oferecer uma perspectiva e visão diferentes da sua. Eles farão perguntas que talvez não lhe ocorram, mas são igualmente importantes para resolver um problema ou planejar sua carreira.</h3>
 </li><li>
-<h3>Reduced feelings of isolation:&nbsp;Having someone outside of your direct working environment that you can ask questions, bounce ideas with and confide in, will help to create&nbsp;a sense of peer partnership&nbsp;that may not always be available in your workplace.</h3>
+<h3>Sentimentos reduzidos de isolamento: ter alguém fora do seu ambiente de trabalho direto com o qual você possa fazer perguntas, trocar idéias e confiar, ajudará a criar um senso de parceria entre pares que nem sempre está disponível no seu local de trabalho.</h3>
 </li><li>
-<h3>Accountability:&nbsp;A good mentor will provide you with honest feedback and&nbsp;hold you accountable to your career goals.</h3>
+<h3>Responsabilidade: Um bom mentor fornecerá um uma pergunta e resposta honesta e responsabilizará seus objetivos de carreira.</h3>
 </li><li>
-<h3>Career planning:&nbsp;&nbsp;As a mentee, you can sit down with your mentor to set long term goals and&nbsp;strategically plan out the next steps&nbsp;to reach your career objectives.</h3>
+<h3>Planejamento de carreira: como mentoreado, você pode sentar-se com seu mentor para definir metas de longo prazo e planejar estrategicamente os próximos passos para alcançar seus objetivos de carreira.</h3>
 </li><li>
-<h3>Confidence and talent development:&nbsp;&nbsp;A mentor who has expertise in your field will be able to&nbsp;identify your strengths and talents and offer suggestions on how you can further develop them&nbsp;and grow professionally. This is guaranteed to boost your confidence and work performance!</h3>
+<h3>Confiança e desenvolvimento de talentos: Um mentor com experiência em seu campo poderá identificar seus pontos fortes e talentos e oferecer sugestões sobre como você pode desenvolvê-los e crescer profissionalmente. Isso é garantido para aumentar sua confiança e desempenho no trabalho!</h3>
 </li>
 </ol>
 <p></p>
 
 
-<Link className="back_link" to="/pt/personal_agency/goals">Back to: test</Link><Link className="next_link" to="/pt/personal_agency/research">Next page: test</Link>
+<Link className="back_link" to="/pt/personal_agency/goals">De volta a: Desenvolver objetivos de vida e carreira</Link><Link className="next_link" to="/pt/personal_agency/research">Próxima página: Faça a pesquisa!</Link>
     </div>
 
 
